@@ -111,7 +111,10 @@ None yet
 ## DSA
 
 ### Resources
-None yet
+Mock Interviews:
+* [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
+* [prepfully.com](https://prepfully.com/) - Mock interviews, interview questions, guides and recorded interviews
+* [pramp.com](https://www.pramp.com/) - Practice mock interviews & coding problems
 
 ### Posts
 
