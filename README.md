@@ -12,7 +12,7 @@ Bem CSS: [You Probably Need BEM CSS in Your Life (Tutorial)](https://www.youtube
 
 ## Posts
 
-### From [Tamal Web](https://www.linkedin.com/in/tamalweb/)
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U028HLVL613-86f696ffb19d-48" /> Tamal Web](https://www.linkedin.com/in/tamalweb/)
 
 Front End Engineer Roadmap:
 
@@ -64,7 +64,7 @@ Android basics in Kotlin: [https://developer.android.com/courses/android-basics-
 
 ## Posts
 
-### From [Dom Polidoro](https://www.linkedin.com/in/domenic-polidoro-802b72b4/)
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01TQ7HGQ30-545d98e94f0b-48" /> Dom Polidoro](https://www.linkedin.com/in/domenic-polidoro-802b72b4/)
 
 Alex and Rahul are big advocates for side projects, and I would +1 that as well. It sounds like you have a solid foundation so far with a bunch of individual pieces, so I would heavily recommend putting them all together to build something. There's actually a lot of stuff you can build with the knowledge you already have - the hard part is realizing what you can build lol
 
@@ -107,7 +107,7 @@ None yet
 
 ### Posts
 
-#### From [Alex](https://www.linkedin.com/in/alexander-chiou/):
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
 
 Here was my strategy for Leetcode:
 
