@@ -111,6 +111,10 @@ None yet
 ## DSA
 
 ### Resources
+Job Search:
+* [levels.fyi](https://www.levels.fyi/) - Comprehensive data on company workplaces
+* [glassdoor](https://www.glassdoor.com/) - Insights about jobs and companies
+
 Preparation:
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 * [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
