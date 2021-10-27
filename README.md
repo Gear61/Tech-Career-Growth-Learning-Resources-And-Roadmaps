@@ -6,6 +6,8 @@ For public resources from Tech Career Growth specifically (i.e. stuff Alex and R
 
 # Web
 
+## Resources
+
 Bem CSS: [You Probably Need BEM CSS in Your Life (Tutorial)](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
 ## Posts
@@ -90,9 +92,18 @@ Oh! If you&#39;re starving for a project and don&#39;t want to copy something ou
 
 # iOS
 
+## Posts
+None yet
+
+## Resources
+None yet
+
 # Interviewing
 
 ## DSA
+
+### Resources
+None yet
 
 ### Posts
 
@@ -105,3 +116,9 @@ Here was my strategy for Leetcode:
 - The key is to remember the high-level approach to problems, not the code itself. If you are doing 100+ problems, you would need to memorize thousands of lines of code. That is not scalable. By building this muscle of converting 1 sentence high-level approach -\&gt; implementation, you can remember the solution to more problems and you are making yourself more resilient.
 
 ## System Design
+
+### Resources
+None yet
+
+### Posts
+None yet
