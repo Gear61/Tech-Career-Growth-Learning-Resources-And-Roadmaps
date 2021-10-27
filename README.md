@@ -8,7 +8,8 @@ For public resources from Tech Career Growth specifically (i.e. stuff Alex and R
 
 ## Resources
 
-Bem CSS: [You Probably Need BEM CSS in Your Life (Tutorial)](https://www.youtube.com/watch?v=er1JEDuPbZQ)
+CSS:
+* [You Probably Need BEM CSS in Your Life (Tutorial)](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
 ## Posts
 
@@ -59,8 +60,8 @@ So don't make this list intimidate you.
 # Android
 
 ## Resources
-
-Android basics in Kotlin: [https://developer.android.com/courses/android-basics-kotlin/course](https://developer.android.com/courses/android-basics-kotlin/course)
+Kotlin:
+* [Android basics in Kotlin (course)](https://developer.android.com/courses/android-basics-kotlin/course)
 
 ## Posts
 
@@ -85,10 +86,17 @@ Oh! If you're starving for a project and don't want to copy something out there 
 
 ## Resources
 
-- **Books:** cracking the PM interview, decode and conquer, swipe to unlock
-- **Courses:** Exponent for interview prep
-- MVP: [Making sense of MVP (Minimum Viable Product)](https://www.youtube.com/watch?v=0P7nCmln7PM)
-- Agile Product Ownership: [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
+Books:
+* [Cracking the PM Interview: How to Land a Product Manager Job in Technology](https://www.crackingthepminterview.com/)
+* [Decode and Conquer: Answers to Product Management Interviews](https://www.goodreads.com/book/show/20822143-decode-and-conquer)
+* [Swipe to Unlock: A Primer on Technology and Business Strategy](https://swipetounlock.com/index.html)
+
+Courses:
+* [How to Prepare for Product Manager (PM) Interviews](https://engineerseekingfire.com/how-to-prepare-for-product-manager-interviews/)
+
+Videos:
+* [Making sense of MVP (Minimum Viable Product)](https://www.youtube.com/watch?v=0P7nCmln7PM)
+* [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
 # iOS
 
