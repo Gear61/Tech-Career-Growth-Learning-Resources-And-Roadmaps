@@ -1,6 +1,6 @@
 # Context
 
-Slack search is bad, and we&#39;re also on the free-tier so you can only see the latest 10k messages. No, we&#39;re not going to move to Discord as we&#39;re in way too deep. The point of this document is to take all the awesome resource recommendations and roadmap posts in Slack and eternalize them here.
+Slack search is bad, and we&#39;re also on the free-tier so you can only see the latest 10k messages. No, we&#39;re not going to move to Discord as we&#39;re in way too deep. The point of this document is to take all the awesome resource recommendations and roadmap posts shared in Slack and eternalize them here.
 
 For public resources from Tech Career Growth specifically (i.e. stuff Alex and Rahul made), you can find them in this [giant Medium post](https://chioualexander.medium.com/the-ultimate-guide-to-advance-your-career-in-tech-regularly-updated-7b2929355f31?sk=bb9fb981ecaee453f31119aac636290b).
 
