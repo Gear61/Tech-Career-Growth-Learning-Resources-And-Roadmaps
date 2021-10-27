@@ -137,6 +137,7 @@ Here was my strategy for Leetcode:
 * [System Design Interesting Reads](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
 * [System Design Resources - Nirmal Silwal](https://github.com/NirmalSilwal/system-design-resources)
 * [System Design (Playlist) - Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [System Design (Playlist) - Yogita Sharma (sudoCODE) ](https://www.youtube.com/playlist?list=PLTCrU9sGyburBw9wNOHebv9SjlE4Elv5a)
 * [My System Design Template - topcat](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
 * [System Design Primer - Donne Martin](https://github.com/donnemartin/system-design-primer)
 
