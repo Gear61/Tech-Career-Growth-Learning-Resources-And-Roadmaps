@@ -111,6 +111,10 @@ None yet
 ## DSA
 
 ### Resources
+Preparation:
+* [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
+* [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
+
 Mock Interviews:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
 * [prepfully.com](https://prepfully.com/) - Mock interviews, interview questions, guides and recorded interviews
@@ -129,7 +133,12 @@ Here was my strategy for Leetcode:
 ## System Design
 
 ### Resources
-None yet
+* [How to master system design interview for FANG in 1 week](https://prachitiwari9.medium.com/master-system-design-interview-in-1-week-c16539370f02)
+* [System Design Interesting Reads](https://docs.google.com/document/d/1iKk6vJbWtI02AllnIEZTrKWQb4dT2QthJdRt05vq6Hw/edit)
+* [System Design Resources - Nirmal Silwal](https://github.com/NirmalSilwal/system-design-resources)
+* [System Design (Playlist) - Gaurav Sen](https://www.youtube.com/watch?v=xpDnVSmNFX0&list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
+* [My System Design Template - topcat](https://leetcode.com/discuss/career/229177/My-System-Design-Template)
+* [System Design Primer - Donne Martin](https://github.com/donnemartin/system-design-primer)
 
 ### Posts
 None yet
