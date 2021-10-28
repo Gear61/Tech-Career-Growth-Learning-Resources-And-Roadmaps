@@ -4,7 +4,7 @@ Slack search is bad, and we're also on the free-tier so you can only see the lat
 
 For public resources from Tech Career Growth specifically (i.e. stuff Alex and Rahul made), you can find them in this [giant Medium post](https://chioualexander.medium.com/the-ultimate-guide-to-advance-your-career-in-tech-regularly-updated-7b2929355f31?sk=bb9fb981ecaee453f31119aac636290b).
 
-# Web
+# 🌐 Web
 
 ## Resources
 
@@ -57,7 +57,7 @@ As someone who has spent a lot of years in web dev, even I don't know everything
 
 So don't make this list intimidate you.
 
-# Android
+# <img src="https://developer.android.com/images/brand/Android_Robot_100.png" width=27 /> Android
 
 ## Resources
 Kotlin:
@@ -83,7 +83,7 @@ Last thing I'll mention is that Rahul has a YouTube channel about Android dev an
 
 Oh! If you're starving for a project and don't want to copy something out there or build a basic whatever app because everyone does it, ask yourself what daily or weekly problems you ran/run into and make an app to solve for it! This is how I made my first ever application (back in college) that I still use to this day! It has like 3 active users, but I use it at least once a week and it has saved me a major headache at least once a month!
 
-# Product Management
+# 📋 Product Management
 
 ## Resources
 
@@ -99,7 +99,7 @@ Videos:
 * [Making sense of MVP (Minimum Viable Product)](https://www.youtube.com/watch?v=0P7nCmln7PM)
 * [Agile Product Ownership in a Nutshell](https://www.youtube.com/watch?v=502ILHjX9EE)
 
-# iOS
+# 📱 iOS
 
 ## Posts
 None yet
@@ -107,7 +107,7 @@ None yet
 ## Resources
 None yet
 
-# Interviewing
+# 💼 Interviewing
 
 ## DSA
 
