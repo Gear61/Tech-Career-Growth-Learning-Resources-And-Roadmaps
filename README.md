@@ -61,7 +61,8 @@ So don't make this list intimidate you.
 
 ## Resources
 Kotlin:
-* [Android basics in Kotlin (course)](https://developer.android.com/courses/android-basics-kotlin/course)
+* [Rahul Pandey's Kotlin Series (Playlist)](https://www.youtube.com/watch?v=iYrgWO2oibY&list=PL7NYbSE8uaBAchSwbJEQTGhWlVM8HYt7T&index=1)
+* [Android Basics in Kotlin (Course)](https://developer.android.com/courses/android-basics-kotlin/course)
 
 ## Posts
 
