@@ -11,6 +11,12 @@ For public resources from Tech Career Growth specifically (i.e. stuff Alex and R
 CSS:
 * [You Probably Need BEM CSS in Your Life (Tutorial)](https://www.youtube.com/watch?v=er1JEDuPbZQ)
 
+JS:
+* [W3Schools - JavaScript Tutorial](https://www.w3schools.com/js/)
+* [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
+* [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+
 ## Posts
 
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U028HLVL613-86f696ffb19d-48" /> Tamal Web](https://www.linkedin.com/in/tamalweb/)
@@ -63,6 +69,9 @@ So don't make this list intimidate you.
 Kotlin:
 * [Rahul Pandey's Kotlin Series (Playlist)](https://www.youtube.com/watch?v=iYrgWO2oibY&list=PL7NYbSE8uaBAchSwbJEQTGhWlVM8HYt7T&index=1)
 * [Android Basics in Kotlin (Course)](https://developer.android.com/courses/android-basics-kotlin/course)
+
+Videos:
+* [Tip Calculator - Build Your First Android App (Playlist)](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-&index=1)
 
 ## Posts
 
@@ -119,6 +128,8 @@ Job Search:
 Preparation:
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 * [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
+* [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Fundamental techniques (wikibook)
+* [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
 
 Mock Interviews:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
@@ -148,3 +159,8 @@ Here was my strategy for Leetcode:
 
 ### Posts
 None yet
+
+# 📚 Miscellaneous
+
+## Resources
+* [Freely available programming books](https://ebookfoundation.github.io/free-programming-books/)
