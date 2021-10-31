@@ -128,7 +128,9 @@ Job Search:
 Preparation:
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 * [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
+* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Fundamental techniques (wikibook)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
 
 Mock Interviews:
