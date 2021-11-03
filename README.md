@@ -17,6 +17,9 @@ JS:
 * [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
 
+Everything:
+* [Curated collection of web resources at web.dev](https://web.dev/)
+
 ## Posts
 
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U028HLVL613-86f696ffb19d-48" /> Tamal Web](https://www.linkedin.com/in/tamalweb/)
