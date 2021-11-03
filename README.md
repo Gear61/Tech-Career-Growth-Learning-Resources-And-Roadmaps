@@ -126,12 +126,13 @@ Job Search:
 * [glassdoor](https://www.glassdoor.com/) - Insights about jobs and companies
 
 Preparation:
-* [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
+* [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
 * [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
-* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
 * [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Fundamental techniques (wikibook)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
+* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+* [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 
 Mock Interviews:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
