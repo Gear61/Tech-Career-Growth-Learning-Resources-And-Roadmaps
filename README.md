@@ -127,6 +127,7 @@ None yet
 Job Search:
 * [levels.fyi](https://www.levels.fyi/) - Comprehensive data on company workplaces
 * [glassdoor](https://www.glassdoor.com/) - Insights about jobs and companies
+* [myvisajobs.com](https://www.myvisajobs.com/Reports/2021-H1B-Visa-Sponsor.aspx) - Top 100 H1B visa sponsors
 
 Preparation:
 * [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
@@ -141,6 +142,11 @@ Mock Interviews:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
 * [prepfully.com](https://prepfully.com/) - Mock interviews, interview questions, guides and recorded interviews
 * [pramp.com](https://www.pramp.com/) - Practice mock interviews & coding problems
+
+Negotiation:
+* [Employee Stock Purchase Plan (ESPP)](https://www.investopedia.com/terms/e/espp.asp)
+* [How Do Employee Stock Options Work?](https://smartasset.com/investing/how-do-stock-options-work)
+* [Restricted Stock Units (RSU): Essential Facts](https://www.schwab.com/public/eac/resources/articles/rsu_facts.html)
 
 ### Posts
 
