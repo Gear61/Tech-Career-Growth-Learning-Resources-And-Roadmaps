@@ -6,7 +6,10 @@ Cox Automotive (Dealertrack) | Remote (Georgia HQ) | 2021 | 110k | - | 10% | 6% 
 Asana | San Francisco | 2021 | 130.5k | 15% / ? | - | - | BC | 130.5k
 Facebook | Los Angeles | 2021 | 169k | 365/4 | 10% +70k | - | E4 | ~347k
 Raybeam | Mountain View | 2019 | 85k | - | - | - | 0 | 85k
-TikTok | Mountain View (HQ) | 2021 | 166k | 650/4 | 25% +100k | - | ~2 | 326k / 240k
+TikTok | Mountain View (HQ) | 2021 | 166k | 650/4 | 25% +100k | - | 2 | 326k / 240k
+LinkedIn | Sunnyvale (HQ) | 2021 | 150k | $240k/4 | 50k | - | 2 | 275k / 225k
+Callisto Media | Emeryville | 2021 | 100k | 2000/? | - | - | 0 | 100k
+
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
