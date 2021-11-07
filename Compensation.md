@@ -8,4 +8,4 @@ Asana | San Francisco | 130.5k | 15% / ? | - | - | BC | 130.5k
 [^1]: ESPP where you can use % of your salary to purchase shares at a % discount.
 [^2]: % of salary (half depends on your performance, half on the company's).
 [^3]: YoE = Years of Experience; NG = New Grad; BC = Bootcamper.
-[^4]: TC = Yotal Compensation = Base Salary + ESPP + Bonus; Generally 401k match is not included when calculating TC.
+[^4]: TC = Total Compensation = Base Salary + ESPP + Bonus; Generally 401k match is not included when calculating TC.
