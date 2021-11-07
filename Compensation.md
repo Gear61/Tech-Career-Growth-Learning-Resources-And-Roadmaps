@@ -4,6 +4,7 @@ Paypal | San Jose (HQ) | 85k | 10% / 15% | 10% | 4% | NG | ~95k
 Accenture | NYC | 87k | ? / 15% | 10k +1k | <= 6% | NG | 98k
 Cox Automotive (Dealertrack) | Remote (Georgia HQ) | 110k | - | 10% | 6% (2% free) | ~2 | ~120k
 Asana | San Francisco | 130.5k | 15% / ? | - | - | BC | 130.5k
+Facebook | Los Angeles | 169k | 365/4 yrs (RSU) | 10% +70k | - | E4 | ~347k
 
 [^1]: ESPP where you can use % of your salary to purchase shares at a % discount.
 [^2]: % of salary (half depends on your performance, half on the company's).
