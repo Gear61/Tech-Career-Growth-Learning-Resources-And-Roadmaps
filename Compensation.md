@@ -12,6 +12,7 @@ Callisto Media | Emeryville | 2021 | 100k | 2000/? | - | - | 0 | 100k
 (Small Agency) | Croatia | - | 14.2k | - | - | - | <2 | 14.2k (USD)
 Citadel Securities | NYC | 2021 | 175k | - | 100k +150k | - | NG | 425k
 BCGDV | London | 2019 | £80k | - | 10-20% +£10k | - | - | ~£98k
+Contentful | Berlin | 2019 | €65k | €13k | €4k | - | - | €82k
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
