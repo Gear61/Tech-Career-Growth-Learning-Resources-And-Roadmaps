@@ -1,4 +1,5 @@
-# Context
+# <img src="https://avatars.slack-edge.com/2021-06-13/2166832566754_aa3d9874986a999bbff4_102.png" width="48" /> Tech Career Growth: Learning Resources and Roadmaps
+## Context
 
 Slack search is bad, and we're also on the free-tier so you can only see the latest 10k messages. No, we're not going to move to Discord as we're in way too deep. The point of this document is to take all the awesome resource recommendations and roadmap posts shared in Slack and eternalize them here.
 
