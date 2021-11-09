@@ -15,7 +15,7 @@ BCGDV | London | 2019 | £80k | - | 10-20% +£10k | - | - | ~£98k
 Contentful | Berlin | 2019 | €65k | €13k | €4k | - | - | €82k
 (SWE) | San Francisco | - | 140k | $100k/4 | 55k | - | NG | 220k
 Meesho | Bangalore, India | - | 40k | $20k/4 | 4k | - | 2.3 | 49k
-Twisker | Dhaka, Bangladesh | 2019 | 4.9k | - | 30% | - | - | 6.4k
+Twisker | Dhaka, Bangladesh | 2019 | 4.9k | - | 30% | - | 8 | 6.4k
 Zomato | Gurgaon, Delhi, India | 2020 | 16.2k (₹ 12) | - | 3.4k (₹ 2.5) | - | NG | 19.6k (₹ 14.5)
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
