@@ -179,4 +179,4 @@ None yet
 * [Freely available programming books](https://ebookfoundation.github.io/free-programming-books/)
 
 ## Great Threads
-* [How do I choose my path in tech?](./Choosing%20Your%20Path%20In%20Tech.md)
+* [How do I choose my path in tech?](.threads/Choosing%20Your%20Path%20In%20Tech.md)
