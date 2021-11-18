@@ -1,3 +1,9 @@
+## Question
+"I know I have a lot of value that I can add to company, however I feel like I'm being rejected a lot because of my lack of experience as a developer. My question is how do I convey that I am a good fit for a role if I'm not even given the chance for an interview? Any thoughts or advice is greatly appreciated."
+
+## Answer
+
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
 This is a great question and is definitely the right place to ask it! I think to really understand the dynamic here, it's good to have an exercise in empathy, especially from the hiring company's perspective. So there's 3 types of companies:
 
 1. Companies that effectively only check for YOE and if you don't hit a number, you're out no matter what
