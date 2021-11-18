@@ -27,6 +27,7 @@ Capital One | - | 2019 | 190k | - | <= 44k +30k | - | 23 | 238k
 (Startup) | SF | - | $23/hr | ? | housing+food | - | INT | -
 Invisalign | - | - | $28/hr | - | medical+vision+dental | - | INT | -
 LinkedIn | - | - | $50/hr | - | 7k | - | INT | -
+Snapchat | Venice Beach, LA | 2013 | $10k/month | - | housing+food+phone | - | INT | -
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
