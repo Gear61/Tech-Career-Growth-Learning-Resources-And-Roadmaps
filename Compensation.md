@@ -21,6 +21,10 @@ Google | Bay Area | 2019 | 120k | 30k | 18k +25k | - | NG | 168k
 Microsoft | Seattle | 2019 | 109k | 30k | 10.9k +40.5k | - | NG | 149.9k
 Capital One | Bay Area | 2019 | 113k | - | 3.5k +26.5k | - | NG | 116.5k
 Qualtrics | Seattle | 2019 | 107k | 15k | 0 +12.5k | - | NG | 122k
+Wayfair | - | 2021 | 200k | 2300/4 | <= 40k +40k | - | 25 | ~450k
+Walmart | - | 2020 | 175k | $25k/4 | 50k (2yrs) | - | 24 | ~225k
+Capital One | - | 2019 | 190k | - | <= 44k +30k | - | 23 | 238k
+
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
