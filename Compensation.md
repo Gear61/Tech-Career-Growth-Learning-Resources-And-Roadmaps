@@ -17,6 +17,10 @@ Contentful | Berlin | 2019 | €65k | €13k | €4k | - | - | €82k
 Meesho | Bangalore, India | - | 40k | $20k/4 | 4k | - | 2.3 | 49k
 Twisker | Dhaka, Bangladesh | 2019 | 4.9k | - | 30% | - | 8 | 6.4k
 Zomato | Gurgaon, Delhi, India | 2020 | 16.2k (₹ 12) | - | 3.4k (₹ 2.5) | - | NG | 19.6k (₹ 14.5)
+Google | Bay Area | 2019 | 120k | 30k | 18k +25k | - | NG | 168k
+Microsoft | Seattle | 2019 | 109k | 30k | 10.9k +40.5k | - | NG | 149.9k
+Capital One | Bay Area | 2019 | 113k | - | 3.5k +26.5k | - | NG | 116.5k
+Qualtrics | Seattle | 2019 | 107k | 15k | 0 +12.5k | - | NG | 122k
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
