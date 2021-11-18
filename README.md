@@ -17,6 +17,7 @@ JS:
 * [freeCodeCamp - JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)
 * [Eloquent JavaScript - A Modern Introduction to Programming](https://eloquentjavascript.net/)
 * [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md)
+* [30 Days of JavaScript, learn JS by building cool stuff](https://www.youtube.com/playlist?list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
 
 Everything:
 * [Curated collection of web resources at web.dev](https://web.dev/)
