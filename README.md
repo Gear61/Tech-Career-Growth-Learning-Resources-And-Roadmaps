@@ -139,6 +139,7 @@ Preparation:
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
+* [Preparing for Your Software Engineering Interview at Facebook](https://www.facebookcareers.com/life/preparing-for-your-software-engineering-interview-at-facebook/)
 
 Mock Interviews:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
