@@ -24,9 +24,11 @@ Qualtrics | Seattle | 2019 | 107k | 15k | 0 +12.5k | - | NG | 122k
 Wayfair | - | 2021 | 200k | 2300/4 | <= 40k +40k | - | 25 | ~450k
 Walmart | - | 2020 | 175k | $25k/4 | 50k (2yrs) | - | 24 | ~225k
 Capital One | - | 2019 | 190k | - | <= 44k +30k | - | 23 | 238k
-
+(Startup) | SF | - | $23/hr | ? | housing+food | - | INT | -
+Invisalign | - | - | $28/hr | - | medical+vision+dental | - | INT | -
+LinkedIn | - | - | $50/hr | - | 7k | - | INT | -
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
-[^3]: YoE = Years of Experience; NG = New Grad; BC = Bootcamper.
+[^3]: YoE = Years of Experience; NG = New Grad; BC = Bootcamper; INT = Intern.
 [^4]: TC = Total Compensation = Base Salary + ESPP + Bonus; Generally 401k match is not included when calculating TC.
