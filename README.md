@@ -125,6 +125,8 @@ None yet
 
 Resume:
 * [How To Write An Effective Software Engineering Resume](https://chioualexander.medium.com/how-to-write-an-effective-software-engineering-resume-e42713a7a2ca) - Alex Chiou
+* [Resume tips for software developers](https://youtu.be/k22qu08g_40) - Youtube video
+* [What's an ATS-Friendly Resume? And How to Write One](https://www.topresume.com/career-advice/what-is-an-ats-resume)
 
 Company:
 * [levels.fyi](https://www.levels.fyi/) - Comprehensive data on company workplaces
