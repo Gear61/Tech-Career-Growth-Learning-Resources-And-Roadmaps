@@ -123,25 +123,16 @@ None yet
 
 # 💼 Interviewing
 
-## DSA
+Resume:
+* [How To Write An Effective Software Engineering Resume](https://chioualexander.medium.com/how-to-write-an-effective-software-engineering-resume-e42713a7a2ca) - Alex Chiou
 
-### Resources
-Job Search:
+Company:
 * [levels.fyi](https://www.levels.fyi/) - Comprehensive data on company workplaces
 * [glassdoor](https://www.glassdoor.com/) - Insights about jobs and companies
 * [myvisajobs.com](https://www.myvisajobs.com/Reports/2021-H1B-Visa-Sponsor.aspx) - Top 100 H1B visa sponsors
 
-Preparation:
-* [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
-* [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
-* [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Fundamental techniques (wikibook)
-* [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
-* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
-* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
-* [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
-* [Preparing for Your Software Engineering Interview at Facebook](https://www.facebookcareers.com/life/preparing-for-your-software-engineering-interview-at-facebook/)
-
-Mock Interviews:
+Interview:
+* [Preparing for Your Software Engineering Interview](https://www.facebookcareers.com/life/preparing-for-your-software-engineering-interview-at-facebook/) - Facebook
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
 * [prepfully.com](https://prepfully.com/) - Mock interviews, interview questions, guides and recorded interviews
 * [pramp.com](https://www.pramp.com/) - Practice mock interviews & coding problems
@@ -150,6 +141,18 @@ Negotiation:
 * [Employee Stock Purchase Plan (ESPP)](https://www.investopedia.com/terms/e/espp.asp)
 * [How Do Employee Stock Options Work?](https://smartasset.com/investing/how-do-stock-options-work)
 * [Restricted Stock Units (RSU): Essential Facts](https://www.schwab.com/public/eac/resources/articles/rsu_facts.html)
+
+## DSA
+
+### Resources
+
+* [14 Patterns to Ace Any Coding Interview Question](https://hackernoon.com/14-patterns-to-ace-any-coding-interview-question-c5bb3357f6ed)
+* [Alex's Medium Articles](https://www.linkedin.com/feed/update/urn:li:activity:6827333391097188352)
+* [Algorithms](https://en.wikibooks.org/wiki/Algorithms) - Fundamental techniques (wikibook)
+* [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
+* [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
+* [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+* [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 
 ### Posts
 
