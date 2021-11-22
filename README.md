@@ -202,3 +202,13 @@ None yet
 ## Great Threads
 * [How do I choose my path in tech?](./threads/Choosing%20Your%20Path%20In%20Tech.md)
 * [Why You're Not Getting Interviews As a Junior Developer With 0 Experience And How To Fix That](./threads/Why%20Junior%20Engineers%20Are%20Not%20Given%20Chances.md)
+
+### Posts
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
+[...] it seems like you have a decent company you're working for, but you're having trouble growing and also finding an outside place that's clearly better for your growth.
+
+While it's nice when people are proactive, they often times aren't. It is very hard to be a proactive mentor; most of my managers even were very reactive, even at a supposedly top company like Facebook.
+
+I don't think it's reasonable to have a bar set expecting proactive mentorship; you should just flip the script and push your manager and tech lead in particular for growth advice. Ask them what you could be doing better every 3-4 weeks, ask for bigger projects, ask them to make you develop new skills you don't already have. Try to set a goal for the half or year and check-in regularly to meet it. Someone who is very good at being reactive also has a lot of value; you just need to trigger the reactions. You can find our video on how to get feedback flowing here: https://www.youtube.com/watch?v=r6D9dirIqLs
+
+Now let's say you're trying to push all the buttons and you're still not getting real feedback and opportunities to grow every several months - At that point, it's time to find a different team/company.
