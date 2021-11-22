@@ -7,3 +7,5 @@
   2. Right-click their profile image.
   3. Select "Copy image address".
   4. Replace the trailing `512` in filename with `48`.
+
+<img src="profile-pic.png" width="256" />
