@@ -5,6 +5,39 @@ Slack search is bad, and we're also on the free-tier so you can only see the lat
 
 For public resources from Tech Career Growth specifically (i.e. stuff Alex and Rahul made), you can find them in this [giant Medium post](https://chioualexander.medium.com/the-ultimate-guide-to-advance-your-career-in-tech-regularly-updated-7b2929355f31?sk=bb9fb981ecaee453f31119aac636290b).
 
+
+## Contents
+[🌐 Web](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-web)
+- [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources)
+- [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts)
+
+[<img src="https://developer.android.com/images/brand/Android_Robot_100.png" width="16"
+/> Android](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-android)
+- [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-1)
+- [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts-1)
+
+[📋 Product Management](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-product-management)
+- [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-2)
+
+[📱 iOS](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-ios)
+- [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts-2)
+- [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-3)
+
+[💼 Interviewing](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-interviewing)
+- [DSA](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#dsa)
+  - [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-4)
+  - [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts-3)
+- [System Design](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#system-design)
+  - [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-5)
+  - [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts-4)
+
+[📚 Miscellaneous](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#-miscellaneous)
+- [Resources](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#resources-6)
+- [Great Threads](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#great-threads)
+- [Posts](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps#posts-5)
+
+---
+
 # 🌐 Web
 
 ## Resources
