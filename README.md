@@ -119,7 +119,7 @@ Videos:
 None yet
 
 ## Resources
-None yet
+* [Apple's SwiftUI Tutorial (Landmarks App)](https://developer.apple.com/tutorials/swiftui)
 
 # 💼 Interviewing
 
