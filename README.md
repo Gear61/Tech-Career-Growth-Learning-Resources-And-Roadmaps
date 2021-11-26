@@ -187,6 +187,7 @@ Negotiation:
 * [Big Tech Interviews](https://www.youtube.com/playlist?list=PL7NYbSE8uaBDEXmgcdfyqY7sJ9wkf4W7q) - Data structures & algorithms (playlist)
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
+* [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 
 ### Posts
