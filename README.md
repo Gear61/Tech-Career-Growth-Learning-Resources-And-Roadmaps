@@ -238,6 +238,7 @@ None yet
 * [How do I choose my path in tech?](./threads/Choosing%20Your%20Path%20In%20Tech.md)
 * [Why You're Not Getting Interviews As a Junior Developer With 0 Experience And How To Fix That](./threads/Why%20Junior%20Engineers%20Are%20Not%20Given%20Chances.md)
 * [How To Succeed As A Bootcamper And Whether Bootcamp Is Worth It](./threads/Succeeding%20As%20A%20Bootcamper.md)
+* [Why Getting An Unexpectedly Hard Question May Be The Interviewer Trying To Help You](./threads/Why%20A%20Harder%20Interview%20Question%20Is%20Good.md)
 
 ### Posts
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
