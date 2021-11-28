@@ -107,6 +107,7 @@ So don't make this list intimidate you.
 Kotlin:
 * [Rahul Pandey's Kotlin Series (Playlist)](https://www.youtube.com/watch?v=iYrgWO2oibY&list=PL7NYbSE8uaBAchSwbJEQTGhWlVM8HYt7T&index=1)
 * [Android Basics in Kotlin (Course)](https://developer.android.com/courses/android-basics-kotlin/course)
+* [CodePath Android Cliffnotes](https://guides.codepath.com/android)
 
 Videos:
 * [Tip Calculator - Build Your First Android App (Playlist)](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-&index=1)
