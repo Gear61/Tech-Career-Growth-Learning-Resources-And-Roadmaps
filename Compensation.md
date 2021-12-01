@@ -30,6 +30,7 @@ LinkedIn | - | - | $50/hr | - | 7k | - | INT | -
 Snapchat | Venice Beach, LA | 2013 | $10k/month | - | housing+food+phone | - | INT | -
 (Startup) | Seattle (Remote) | - | 235k | ? | $85k | - | L5 | 320k
 ? | Miami | - | 205k | $135k/yr | 30k | - | Senior | 370k
+Spectrio | (Remote) | 2021 | 50k | - | - | - | BC | 50k
 
 [^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
