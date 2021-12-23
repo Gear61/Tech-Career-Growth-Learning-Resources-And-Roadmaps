@@ -1,5 +1,7 @@
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
-Hey everyone, sorry for the radio silence on @Rahul Pandey and I's end - It's about time that we give an update about Imber.Long story short, all active development on Imber is now stopped and is not likely to continue. This is due to 2 reasons:
+Hey everyone, sorry for the radio silence on @Rahul Pandey and I's end - It's about time that we give an update about [Imber](https://www.imberapp.com/).
+
+Long story short, all active development on Imber is now stopped and is not likely to continue. This is due to 2 reasons:
 
 1. Rahul and I are extremely busy and don't have the time
 2. Frankly, we got it wrong in terms of expected user value and built the incorrect product
