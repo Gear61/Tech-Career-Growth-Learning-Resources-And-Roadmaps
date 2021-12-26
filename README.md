@@ -217,6 +217,7 @@ None yet
 
 ## Great Threads And Posts
 * [How do I choose my path in tech?](./threads/Choosing%20Your%20Path%20In%20Tech.md)
+* [Why Your Interviewer Is Not Helping You](./threads/Why%20Your%20Interviewer%20Is%20Not%20Helping%20You.md)
 * [Why You're Not Getting Interviews As a Junior Developer With 0 Experience And How To Fix That](./threads/Why%20Junior%20Engineers%20Are%20Not%20Given%20Chances.md)
 * [How To Succeed As A Bootcamper And Whether Bootcamp Is Worth It](./threads/Succeeding%20As%20A%20Bootcamper.md)
 * [Why Getting An Unexpectedly Hard Question May Be The Interviewer Trying To Help You](./threads/Why%20A%20Harder%20Interview%20Question%20Is%20Good.md)
