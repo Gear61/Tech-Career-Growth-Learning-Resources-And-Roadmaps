@@ -215,7 +215,7 @@ None yet
 * [Freely available programming books](https://ebookfoundation.github.io/free-programming-books/)
 * [Building an Effective Dev Portfolio](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf)
 
-## Great Threads
+## Great Threads And Posts
 * [How do I choose my path in tech?](./threads/Choosing%20Your%20Path%20In%20Tech.md)
 * [Why You're Not Getting Interviews As a Junior Developer With 0 Experience And How To Fix That](./threads/Why%20Junior%20Engineers%20Are%20Not%20Given%20Chances.md)
 * [How To Succeed As A Bootcamper And Whether Bootcamp Is Worth It](./threads/Succeeding%20As%20A%20Bootcamper.md)
