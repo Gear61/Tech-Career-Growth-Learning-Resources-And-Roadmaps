@@ -33,7 +33,7 @@ For public resources from Tech Career Growth specifically (i.e. stuff Alex and R
 
 [📚 Miscellaneous](#-miscellaneous)
 - [Resources](#resources-6)
-- [Great Threads](#great-threads)
+- [Great Threads And Posts](#great-threads-and-posts)
 - [Posts](#posts-5)
 
 ---
@@ -192,27 +192,7 @@ Negotiation:
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 
 ### Posts
-
-### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
-
-Here was my strategy for Leetcode:
-
-- Have a lot of comments on all of my solutions, especially the harder ones. In particular, have a comment quickly explaining the solution at a high-level at the top (e.g. sort -\> sliding window). Writing these comments improve retention as well since it deepens how you're learning the problem.
-- In the week before my interview, go through all the problems again, especially the tough Mediums/Hards. However, I don't solve them again as that would take too much time. I just read the comments on my solutions, particularly the first part about overall high-level approach, and see if I can piece together the solution from just that.
-- The key is to remember the high-level approach to problems, not the code itself. If you are doing 100+ problems, you would need to memorize thousands of lines of code. That is not scalable. By building this muscle of converting 1 sentence high-level approach -\> implementation, you can remember the solution to more problems and you are making yourself more resilient.
-
-### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
-From the perspective of the Big Tech interviewer's side (the other side of the table)- 
-- The interview process varies among Big Tech - I feel like Google and Facebook are more standardized, but I've heard the other 3 have more variance, especially Amazon as they are in hypergrowth from a headcount perspective.
-- Something important I want to mention here is that the interviewer is meant to bring out the best in you and this will require some talking on their end, but there's some nuance to this. I can elaborate by breaking down more of how I was trained as an interviewer at Facebook.
-- In particular, a good interviewer's job is to get signal of the candidate's skills. This means that even though the interview should feel like more a conversation, the candidate has to be clearly driving the conversation. When it comes to how much the interviewer responds, this means that we need to be on the lookout for what I call "fishing". Fishing is when the candidate doesn't seem to have a very clear idea of what they're doing, so they just propose something without a lot of conviction and hope the interviewer will tell them yes or no. The idea is that the candidate wins either way: If yes, then proceed down the path, if no, then propose other things. The problem here is that the interviewer is doing most of the work here crafting the solution, when it should be the other way around.
-- This means that I would describe a good interviewer as more of a slight helping hand rather than a guide, which implies a more proactive stance. To clarify, let's have an example where I'm the interviewer giving a tricky graph traversal problem where the solution is DFS-based.
-- If the candidate says something like, "Well, this seems like a graph problem, so I think DFS would be good here. Does that make sense?", I would perceive this as fishing as they aren't really justifying their strategy. I would say something more neutral like, "Well, we can code it up and find out if it works.", because I can't really say yes or no without doing a good amount of the problem for them.
-- However, let's say that the candidate says something like, "We can envision X as nodes and Y as edges, so we can treat this as a graph or tree. Given that the problem requires us to prioritize the leaf nodes, we can use DFS to find the solution. I will implement DFS by doing A, B, C. It's better than BFS because of D, and these other solutions E, F, and G don't work as well because of these reasons. Does this make sense?" To me, this candidate clearly has a very strong grip of the problem. They are 95% sure, so they have done a lot of the work already. In this case, I would say something more affirmative like, "Yep, this makes sense!".
-- Overall, this is a really tricky balance to strike, and obviously, we don't always get it right. At least for me, I'm always rooting for the candidate, which is why I don't want to give too many hints - This means you don't get enough signal and you need to fail them.
-
-Anyways, hope this helps and sheds light on what the perspective is like on the other side of the table (Big Tech interviewer's side) for folks in this channel. 
-
+None yet
 
 ## System Design
 
