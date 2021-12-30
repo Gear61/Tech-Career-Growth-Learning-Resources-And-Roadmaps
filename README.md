@@ -112,6 +112,9 @@ Kotlin:
 Videos:
 * [Tip Calculator - Build Your First Android App (Playlist)](https://www.youtube.com/watch?v=KLuiX1oHBII&list=PL7NYbSE8uaBCMVBVg6cskGzdYguj3CUP-&index=1)
 
+Books:
+* [CommonsWare's Free Android Development Books](https://commonsware.com/catalog)
+
 ## Posts
 
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01TQ7HGQ30-545d98e94f0b-48" /> Dom Polidoro](https://www.linkedin.com/in/domenic-polidoro-802b72b4/)
