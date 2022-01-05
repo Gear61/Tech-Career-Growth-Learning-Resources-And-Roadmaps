@@ -326,8 +326,8 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
     * Advocate for a new style of thinking (could lead to adopting a framework or pattern).
     * Combats complexity by aggressively simplifying, refactoring, and fixing code. Remember that more time is spent reading code than writing code.
 
-    Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
+Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
 
-<p align="center">
- <img href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p" width="200" height="200" src="img/recap-001.png">
-</p>
+<a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
+ <img  alt="slide" width="200" height="200" src="img/session-recap/recap-001.png">
+</a>
