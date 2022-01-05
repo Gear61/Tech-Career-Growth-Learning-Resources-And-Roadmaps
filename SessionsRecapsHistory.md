@@ -433,6 +433,77 @@ Here are the slides we used as well:
 
 ## Why You Should Be BORING With Your Tech Resume 
 
-Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below.  :movie_camera:
+Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below. Video :arrow_right: :movie_camera:
 
 [![ Why You Should Be BORING With Your Tech Resume ](img/session-recap/r-video-001.png)](https://www.youtube.com/watch?v=MByD2CTwfmM)
+
+
+# June 17th
+
+## THIS Is Why Your Resume Is Bad - Telling vs Showing
+
+Let's improve a resume by showing the business impact. We also talk about the importance of side projects - in tech you don't need "experience" since you can create your own.
+
+[![ THIS Is Why Your Resume Is Bad  ](img/session-recap/r-video-002.png)](https://www.youtube.com/watch?v=sDbK84GEE94)
+
+# June 19th
+
+## How To Come Up With 100k+ Users App Ideas You Can Build For Free
+
+
+**Why Side Projects**
+* The point of a tech company is to ship software products to tons of users at scale. Side projects are the closest thing you can get to work experience without actually getting work experience. 
+* Side projects maximize learning, because software is inherently chaotic. You learn the most when you’re free-styling and don’t have guardrails (tutorial, certification, etc). 
+* Building software which has value has become easier and easier in the last decade. In the next 5-10 years, having a meaningful side project will be a prerequisite for a good software engineering job.
+It’s extremely fun and fulfilling.
+
+**Look For Problems**
+
+* Work backwards from a problem. Don’t work forward from a trendy piece of technology (blockchain, computer vision) or an existing popular app, e.g. “Airbnb for X!”
+* We are living in the age of innovation - imperfections are opportunities. 
+* If some relatively small process seems just a tad frustrating or inefficient to you: Congratulations! You may have discovered a golden side project opportunity.
+* Two dimensions to evaluate side projects are feasibility and excitement. We are always working on increasing our feasibility, but you can also improve your level of excitement. Train yourself to get excited by ideas by connecting it to a larger vision, and your (simple/small) project is a stepping stone toward that.
+
+**Think Small**
+
+* Solve for as small a problem as possible. This is a side project, not a full-blown startup.
+    * The smaller it is, the more likely you are to actually publish something. Avoid “zombie projects”.
+    * Publish something limited but focused and polished. From there, iterate on it. “Done is better than perfect”
+    * Developers underestimate how hard it is to solve a small problem with high quality.
+* Keep it local - You shouldn’t try to save the world and help billions of people with your side project. Solve for a problem that is within your life or a friend’s life. You’ll be more passionate about it, you’ll have a tighter feedback loop, and you’ll “succeed” even if your app doesn’t become huge. 
+
+**Keep The Tech Simple**
+
+* You have now identified a problem and are now envisioning an app that solves it.
+* There are 3 “levels” of product technical complexity:
+    * Local utility apps - No back-end, no accounts, everything local to device.
+    * Full-stack app - Accounts, back-end with an API and storing data to a database
+    * Apps with integrations and interactions - Full-stack app that most of the beloved apps (Facebook, Airbnb, etc) fall into. Has people interacting with other people/institutions in some way.
+* Unless you have a compelling reason, You should only be building “Level 1” apps. People severely underestimate how much complexity and depth goes into this. Random Name Picker is the result of 70,000+ lines of code changes! UI on its own is hard: screen sizes, poor network, bad inputs, intuitive design, etc. 
+* “Level 3" projects are poor choices since the problem isn’t mainly technical anymore (people interacting with each other) and will have a huge BizDev (Business Development) component. 
+
+**Scout The Competition**
+
+* The idea is simple: Search for products already solving the problem you have and evaluate them.
+    * If you’re building mobile apps, search the Google Play/Apple App store.
+    * If you’re building a website, search Google.
+    * If you’re building some sort of library/API, search Google/GitHub.
+* You are looking for 2 core signals:
+    * The competition has a decent amount of traction
+    * The competition isn’t perfect. If you’re solving for a “Level 1” micro-problem, the competition almost certainly won’t be perfect.
+
+**Be Patient & Keep Trying**
+
+* It takes a while to come up with good ideas. Your first few ideas probably won’t be as big as you want them to be. That’s okay. Quantity over quality. 
+* Even good ideas will take a while to “blossom”. Random Name Picker was at single digit downloads for months.
+* “Plan to throw one away; you will anyhow” - Fred Brooks, The Mythical Man Month. Side projects have the beautiful characteristic that you are able to throw it away: no one has paid you in a contractual obligation, you understand the whole thing, there’s no communication overhead.
+
+**The Power Of Mobile**
+
+* Mobile has more opportunity than web as it’s newer and therefore has far less competition. If you want to maximize your chances of getting those 100k users, build for mobile.
+* For mobile, Android is far superior by virtue of having way more users than iOS (3-5x). I am consistently surprised by how many random apps can get 10-50k installs.
+* Impact is easier to gauge as the developer consoles give you all of that “for free”.
+
+BTW, here is @Alex’s portfolio of published Android apps:
+
+<a href="https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDEhkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDGAA%3D:S:ANO1ljK98hk&gsr=CjuKAzgKGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMSGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMYAA%3D%3D:S:ANO1ljJDe_k"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-003.png"></a>
