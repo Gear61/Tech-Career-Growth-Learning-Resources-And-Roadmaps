@@ -426,5 +426,13 @@ Here is the session recap for today's session, "How To Write A More Effective Te
 
 Here are the slides we used as well:
 
-<a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p">
- <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
+<a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
+
+
+# June 13th
+
+## Why You Should Be BORING With Your Tech Resume 
+
+Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below.  :movie_camera:
+
+[![ Why You Should Be BORING With Your Tech Resume ](img/session-recap/r-video-001.png)](https://www.youtube.com/watch?v=MByD2CTwfmM)
