@@ -329,5 +329,5 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
 Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
 
 <a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
- <img  alt="slide" width="200" height="200" src="img/session-recap/recap-001.png">
+ <img  alt="slide" width="200" height="100" src="img/session-recap/recap-001.png">
 </a>
