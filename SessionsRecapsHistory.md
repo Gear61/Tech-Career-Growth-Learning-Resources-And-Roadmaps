@@ -339,5 +339,92 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
 Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
 
 <a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
- <img  alt="slide" width="200" height="100" src="img/session-recap/recap-001.png">
-</a>
+ <img  alt="slide" width="200" height="100" src="img/session-recap/recap-001.png"></a>
+
+
+# May 29th
+
+## How To Write A More Effective Tech Resume To Get More Job Opportunities
+
+Here is the session recap for today's session, "How To Write A More Effective Tech Resume To Get More Job Opportunities":
+
+**Meta Points**
+* It is crucial to remember that a recruiter will be reading a resume. Most resumes are written as if an engineer similar to the writer will be reviewing it, which is wrong. Here’s what’s important to remember with the recruiter angle:
+    * They are non-technical
+    * They don’t have a lot of time (7.4 seconds on average) to read your resume
+* You need to stand out!
+    * This is especially true for junior engineers - Job postings, especially those from the top tech giants, will have hundreds of applicants.
+    *  When looking at your completed resume, look at it and see if there’s anything on it that feels special and isn’t something that millions of others have done. While basic proficiency was impressive 20 years ago (like being able to get a clean website up and running on your own), it is meaningless now due to the explosion of infrastructure services and quality tutorials.
+* Keep it simple
+    * In general, you want to be conservative/plain when it comes to your resume formatting. Readability is key!
+    * Be wary of sites that charge you for fancy resume templates - They are generally harder to read and will likely hurt you instead of help
+
+**Keep It Short And Focused**
+
+* Rule of thumb: 1 page tops for every 5 years of experience. In general, strive to have a 1-pager resume.
+* Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
+* Resumes often have a skills overview section (this is useful to quickly signal to recruiters what stacks you have experience in), and you should be very, very careful about what you put here. Don’t just put down anything you have ever worked with.
+* Aggressively compress old experience. It is likely not relevant anymore, and you probably don’t remember much about it. This is also a safety mechanism for you, because if you’re grilled on old experience you don’t remember very well, you might just fail the interview then and there.
+* Watch your spacing!
+    * Shrink your margins if you can
+    * Keep whitespace separations reasonable
+    * Look for “dangling” newlines where you just have a few words on an entire line all by themselves. Try to shrink this point or add more “meat” to it
+
+**Spelling And Grammar Matter**
+
+* Your resume should have 0 obvious spelling/grammar mistakes. This is one of the easiest ways recruiters toss out resumes.
+* Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page (most of the time). If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
+* Take advantage of free tools like Grammarly that help you with this.
+* If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
+
+**Show, Don’t Tell**
+
+* Meta-point: This is the concept that people struggle with the most, and it is arguably the most important idea to master.
+* Everybody wants to and can say that they’re a good engineer. In order to stand out, you must show that you’re a good engineer.
+* You do this by capturing the impact of your accomplishments (i.e. what is the delta you produced) and dictating it in a very concise, accessible way (remember, a recruiter is reading your resume!).
+* Tactical tips:
+    * Avoid brag summary sections with cliches
+    * Don’t self-rate - This is a recipe for disaster if you are interviewed by somebody incredibly senior in that field
+    * If you can show a number (i.e. metric), you’re probably on the right track. To avoid revealing confidential company information, use public statistics (e.g. # of installs on an app) and deltas (I increased X metric by 10%).
+    * Deploy projects to prod and link that - A GitHub repo is meaningless to a recruiter!
+    * Don't include personal info like your picture (save that for LinkedIn) and try not to tell your entire life story in general
+
+**Have Basic Organization**
+
+* column is optimal to reduce cognitive load. 2 columns is also doable, and everything above that is too much.
+* Have clear sections with dividers.
+* Avoid lengthy paragraphs. Split them up into punchy bullet points.
+
+**Most Practical -> Least Practical**
+* For software engineers, companies want to know the answer to the following question: Can this person ship code in a professional, production environment?
+* Go-to ordering working backwards from this question (after skills overview section):
+    * Prior work experience: Other instances of you shipping code in professional, prod environment
+    * Side projects: You’re still shipping code to prod, just not in a formally professional environment.
+    * Education (this is generally higher than it should be):
+        * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
+        * Bootcamps - More on the practical side, but too short and work is often very “tech-demo-ey” so not a real production environment
+**FAQ**
+* Should I include my work experience if it’s not in the software industry? 
+    * Yes, in general you should include your “Irrelevant experience”, especially if you’re earlier in your career 
+    * If you have a lot of other relevant work experience, don’t include it (eats up valuable space)
+    * If you’re looking for an entry level job - include it. Any experience is better than no experience.
+    * If you’re a career changer - include it. Showing your past experience is better than having long gaps/unemployment in your employment.
+* How can I talk about my impact without revealing company confidential info? 
+    * New York Times test is helpful here: if you wouldn't want to see it on the home page of the NYT with your name attached, don't put it on your resume.
+    * Talk about relative improvement, e.g. “onboarded customers 30% faster”
+    * Obfuscate details: “increased ad revenue from $X0 million to $X00 million”
+* Should I customize my resume for each job I’m applying to? 
+    * At most, create a couple "archetype" resumes if the companies you apply to are meaningfully different
+    * Job searching is a numbers game. You don't want to make a custom resume for every application, because that would take forever.
+    * Startups will value customization/thoughtfulness more than big companies (who will barely care)
+
+**Concluding Meta Point**
+
+* In the end, this session is about optimizing presentation, not the content itself. You can think of these resume tips as the “dressing” around your professional “core”, which is what you have actually accomplished. If your core is weak, you will have a hard time getting job opportunities - No amount of dressing will fix this.
+* If you aren’t getting the job opportunities you want due to a lack of experience or clout from top tech companies on your resume, you should join us for our sessions on side projects, starting off with the next session after this one! Side projects are a lever that anybody can use to make their “core” extremely strong; let us teach you how!
+* People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. A tech company’s purpose is to ship a software product to thousands/millions of users. You can do the exact same thing via side projects.
+
+Here are the slides we used as well:
+
+<a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p">
+ <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
