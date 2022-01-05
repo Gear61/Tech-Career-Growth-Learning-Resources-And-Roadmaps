@@ -296,45 +296,45 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
 
 **Outliers Are Uniquely Possible in Software**
 
-    * The software industry has leverage unlike any other field, so it’s possible for individuals (or small groups of people) to have outsized impact. 
-    * Copying and modifying software is generally free and easy, which means good ideas spread fast (unlike other industries like Mechanical Engineering)
-    * The software industry is very young, so best practices are still being identified
+* The software industry has leverage unlike any other field, so it’s possible for individuals (or small groups of people) to have outsized impact. 
+* Copying and modifying software is generally free and easy, which means good ideas spread fast (unlike other industries like Mechanical Engineering)
+* The software industry is very young, so best practices are still being identified
 
 **Feedback Is A Gift**
 
-    * People in tech are talented - If they have advice, take it
-    * Don’t be defensive taking feedback - accept it openly and then actively try to understand + implement it.
-    * Gracefully accepting feedback builds social capital (see below)
+* People in tech are talented - If they have advice, take it
+* Don’t be defensive taking feedback - accept it openly and then actively try to understand + implement it.
+* Gracefully accepting feedback builds social capital (see below)
 
 **See Problems You’re Afraid Of As An Opportunity**
 
-    *   Average developers will stay in comfortable spaces; 10x engineers jump into scary problems
-    * Growth is maximized when you’re uncomfortable
-    * Tactical tip: Try as hard as you can to break your code. Make it “uncomfortable”!
+*   Average developers will stay in comfortable spaces; 10x engineers jump into scary problems
+* Growth is maximized when you’re uncomfortable
+* Tactical tip: Try as hard as you can to break your code. Make it “uncomfortable”!
 
 **Ruthlessly Prioritize**
 
-    * It’s too easy to get lost in today’s information overload
-    * Have a clear set of goals and work backwards - identify just one thing that’s important to get done, and spend time on that first
-    * Every once in a while, write down everything you’re doing to identify what’s important and “trim the fat”
+* It’s too easy to get lost in today’s information overload
+* Have a clear set of goals and work backwards - identify just one thing that’s important to get done, and spend time on that first
+* Every once in a while, write down everything you’re doing to identify what’s important and “trim the fat”
 
 **10,000 Hours**
 
-    * If you put 10,000 hours into 1 thing, you will become amazing at that 1 thing
-    * Remember the “into 1 thing” - Focus is crucial! You don’t want it to be too narrow (“View alignment in Android ConstraintLayout”) or too broad (“All of software dev”)
-    * Eventually you will reach a “zen state” where you realize all tech frameworks are actually the same
+* If you put 10,000 hours into 1 thing, you will become amazing at that 1 thing
+* Remember the “into 1 thing” - Focus is crucial! You don’t want it to be too narrow (“View alignment in Android ConstraintLayout”) or too broad (“All of software dev”)
+* Eventually you will reach a “zen state” where you realize all tech frameworks are actually the same
 
 **Aggressively Put Others Before Yourself**
 
-    * Average engineers view the world transactionally; 10x engineers understand the concept of social capital. High empathy -> More social capital
-    * 10x engineers work through others to multiply their impact, so your relationships are essential
-    * When you disagree with someone, try to tear down your own argument
+* Average engineers view the world transactionally; 10x engineers understand the concept of social capital. High empathy -> More social capital
+* 10x engineers work through others to multiply their impact, so your relationships are essential
+* When you disagree with someone, try to tear down your own argument
 
 **Common Behaviors of the Best Engineers**
 
-    * Solve problems on their own vs plug in a solution (specialization vs “pipe fitting”). Most of the time you’re on one end of the spectrum; both have huge impact.
-    * Advocate for a new style of thinking (could lead to adopting a framework or pattern).
-    * Combats complexity by aggressively simplifying, refactoring, and fixing code. Remember that more time is spent reading code than writing code.
+* Solve problems on their own vs plug in a solution (specialization vs “pipe fitting”). Most of the time you’re on one end of the spectrum; both have huge impact.
+* Advocate for a new style of thinking (could lead to adopting a framework or pattern).
+* Combats complexity by aggressively simplifying, refactoring, and fixing code. Remember that more time is spent reading code than writing code.
 
 Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
 
