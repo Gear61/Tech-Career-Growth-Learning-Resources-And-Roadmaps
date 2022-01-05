@@ -504,6 +504,17 @@ It’s extremely fun and fulfilling.
 * For mobile, Android is far superior by virtue of having way more users than iOS (3-5x). I am consistently surprised by how many random apps can get 10-50k installs.
 * Impact is easier to gauge as the developer consoles give you all of that “for free”.
 
-BTW, here is @Alex’s portfolio of published Android apps:
+BTW, here is @Alex’s portfolio of published Android apps: :arrow_heading_down: 
 
-<a href="https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDEhkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDGAA%3D:S:ANO1ljK98hk&gsr=CjuKAzgKGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMSGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMYAA%3D%3D:S:ANO1ljJDe_k"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-003.png"></a>
+<a href="https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDEhkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDGAA%3D:S:ANO1ljK98hk&gsr=CjuKAzgKGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMSGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMYAA%3D%3D:S:ANO1ljJDe_k"> <img  alt="slide" width="300" height="200" src="img/session-recap/recap-003.png"></a>
+
+
+
+# June 29th
+
+The video covers a common misconception when it comes side projects: In order for something to be exciting, it has to be incredibly complex (and therefore not feasible). If something is feasible and simple, it is boring and not worth doing.
+This is 100% not the case: There is a lot of beauty in simplicity, and there are a ton of projects that are both very feasible and extremely exciting.
+Anyways, check out the video to figure out how you change your mental framework to start recognizing these kinds of ideas. These are the ideas that you can both easily build and get a ton of users for, supercharging your resume and unlocking amazing job opportunities.
+
+
+[![ How To Build Apps With 100k+ Users: Feasibility vs. Excitement  ](img/session-recap/r-video-003.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
