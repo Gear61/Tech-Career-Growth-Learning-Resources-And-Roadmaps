@@ -557,8 +557,433 @@ The video covers a common misconception when it comes side projects: In order fo
 This is 100% not the case: There is a lot of beauty in simplicity, and there are a ton of projects that are both very feasible and extremely exciting.
 Anyways, check out the video to figure out how you change your mental framework to start recognizing these kinds of ideas. These are the ideas that you can both easily build and get a ton of users for, supercharging your resume and unlocking amazing job opportunities.
 
+[![ How To Build Apps With 100k+ Users: Feasibility vs. Excitement  ](img/session-recap/video-june-29th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
 
-[![ How To Build Apps With 100k+ Users: Feasibility vs. Excitement  ](img/session-recap/r-video-003.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
+
+# July 5th
+
+Howdy team - Addy Hebou here! I’ve been creating the video snippets and the logo design from the sessions that Alex & Rahul put on, so I’ll be posting here occasionally with new videos - starting with this one!
+Have you ever heard of the expression “you can put all the makeup on a pig, but it still doesn’t make it pretty”?
+It’s the same way with tech resumes - without enough experience, it’s hard to display substance in a resume. So what’s the best way to gain that substance? To make that content? You guessed it - side projects.
+Especially for those with low experience, side projects are arguably the #1 alternative to display experience outside of employment. Projects that can generate hundreds, even thousands of users monthly, project to employers that you know how to program to gain customers, which is crucial for companies.
+Check out all that Rahul Pandey and Alex Chiou have to emphasize about the importance of side projects here: https://lnkd.in/dQK2Utb
+
+[![ How to SUPERCHARGE Your Software Engineer Resume ](img/session-recap/video-july-5th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
 
 
-# TODO - July 5th
+# July 10th
+
+## How To Manage Your Time Optimally In Tech And Achieve More Results
+
+The session from this evening about time management was so much fun! “How To Manage Your Time Optimally In Tech And Achieve More Results”:
+* You can’t create more time like can create more of other resources. It’s worth thinking about how you spend your time, and consequently, your life.
+* Focus on your system. This is the most important point we covered. Your willpower to do things will change day-to-day, but your framework doesn’t. Create a system that makes it easy to do the right thing and hard to do the wrong thing (procrastinate).
+* We covered 5 pillars of an effective time management system:
+**One Big Thing**
+* Establish exactly one thing which must get done the next day. Write it down so it’s out of your head. 
+* Calibrate the size of the task to ensure you can get it done in the next day.
+* One item allows us to start ruminating on the problem. There should be no ambiguity around what exactly needs to happen and how to get started. Clarity leads to action.
+* “Integrate Twitter Authentication” is bad. “Go to developer twitter com, create a Twitter app, and then pull up the documentation for OAuth 2.0” is better
+**Reflection**
+* If (when) you screw up, we should learn from the experience. We do this with reflection.
+* Ask “why” several times. “Why did you fail to meet the objective you had?” Due to procrastination. “Why did you procrastinate?” Because there wasn’t clarity on how to get started. “Why wasn’t there clarity? What could you have done to gain that clarity?”
+* Schedule a 30 min block with yourself every 2 weeks to reflect on how things went. Were there particular meetings of periods that were especially productive or unproductive?
+**Focus**
+* Deep work: the ability to focus without distraction on a cognitively demanding task (book by Cal Newport)
+* One big way we do this is to avoid context switching. You need to operate proactively instead of reactively.
+* Tactically, when I’m in focus mode, I’ll move my phone out of arm’s reach. This introduces a bit of friction before I mindlessly unlock my phone.
+* Turn off notifications from almost everything: email, LinkedIn, Twitter, etc, and use batching.
+**Eat the Frog**
+* The best time to eat a frog is first thing in the morning. The best time to do any large, difficult task is right when you wake up - don’t give yourself the chance to put it off.
+* Instead of checking email, Instagram, or anything else, wake up and set a timer to work on your top priority for that set time.
+**Leverage Social Pressures**
+* Working with others will help you see what’s possible, and they’ll offer help if you’re feeling low or stuck.
+* You can find a mentor (someone more senior, a coach), or a peer (someone going through what you’re going through)
+* Shame is a powerful driver of action. If you tell someone you’ll get something done by a certain date, there’s a fire to actually get it done.
+**Meta-points**
+* Sleep + exercise are critical. Don’t be a zombie with reduced ability to focus/debug issues.
+* TV/movies/gaming: it’s ok if you do these, but you need to be in control of your consumption. In general, we want to create more than we consume.
+
+
+# July 17th
+
+Hey everyone, thanks so much for your support for the earlier session today about interviewing for Big Tech, specially on the DSA portion. As usual, here's a thorough session recap for those who missed it or just want something for your notes.
+**The Mental Game**
+* Progress with DSA will be exponential. You will struggle in the beginning for a long time. You will eventually hit an inflection point where you start recognizing patterns and finally feel like you’re making real progress. Hang in there.
+* Sometimes it’s not clear what steps you need to take to achieve a goal. For example, I used to have a goal of making at least one code change in a project everyday (Github commit streak). There’s nothing inherently wrong with this, but if the higher-level objective is to build a startup, a goal of writing code everyday is unlikely to be the best measure of progress.
+    * Thankfully, there are many examples where a specific and measurable goal is perfectly aligned with the longer term. Running a marathon is the prime example; running has a purity where the short term goals clearly build up to longer term goals. The path to success is as simple as sticking to the plan. There’s no luck (or thinking) involved, just an indomitable will combined with a deep work ethic.
+* Take breaks! As mentioned before, interviewing is exhausting; if all you do is grind and cram, your mental state will not be good enough for the interview. Alex’s rule of thumb: ~30 minute break for every 2 hours of work.
+* Find an interview buddy if you can. It’s so helpful having some semblance of something simulating the real thing vs. staying purely in the realm of study. Social accountability is also extremely powerful.
+* To further stay motivated, remember that mastering DSA for a Big Tech interview is one of the highest ROI activities any human being can do:
+    * A couple months of effort -> Tens of thousands of $ in increased compensation, maybe even $100k+
+    * After working for Big Tech, you will never have to apply online or cold message ever again. Every company will come to you.
+    * You learn from the absolute best working for Big Tech. Your growth will be put into hyperdrive.
+* Turn it into a habit like exercise. DSA is not meant to be done in giant bursts.
+* Do not cram! Relax before the interview instead. It is crucial that your mental state is nimble going into DSA rounds. You will likely get a problem you haven’t seen before.
+* Don’t view the opportunity as make or break. Treat it as much as any other day; Alex views all his interviews as just a chance to chat with some cool tech people. The less you care about the interview, the less stressed out you are. It’s okay if you will; there will be more chances.
+**Preparation**
+* Just buy Leetcode Premium - We all love to save money, but Leetcode Premium is a no brainer if you are interviewing with any big company. Even if it only increases your chances of getting an offer by 5%, that’s a 5% higher chance for a job paying 100k+.
+    * What to expect:
+    * Phone screen: Leetcode easy and medium
+* Onsite: Leetcode medium and hard
+Glassdoor is an extremely valuable resource with Big Tech as its usefulness scales with company size. If you see a question that’s been recorded twice for your position, know how to solve it.
+* If possible, use a compact, efficient language like Python/JavaScript since time control is crucial during DSA rounds. Avoid very verbose languages like C/C++.
+* You are looking to learn patterns, not individual solutions. 80%+ of DSA problems fall within ~15 different core patterns. Don’t try to memorize individual solutions for everything; that is not scalable. You will also have to memorize some solutions for the really tricky hards; if you’re memorizing for easy/medium as well, you will quickly run out of brain space.
+* Extensively write comments on the problems you solve; in particular, try to capture the key to the problem (e.g. sort the list and then use sliding window). You want to be able to convert keys to problems into all the code needed for the solution vs. remembering the code itself.
+**Communication**
+* The bigger the company, the more soft skills are valued. In particular, great communication skills are crucial.
+* With Big Tech, it isn’t only about the right answer. It’s also about how you got to that answer (i.e. how well did you communicate with the interviewer).
+* Interview process at Big Tech is streamlined and efficient. Interviewer is trained to get as much good signal from the candidate as possible. This means they want to collaborate with you. Relationship is bidirectional (you work together with interviewer) instead of unidirectional (you quietly solve the problem on your own and are then judged afterwards)
+* Listen carefully to what the interviewer says. They may be trying to help you, especially when you have tunnel vision.
+* 5 min+ of silence = bad. Don’t just write code in silence, especially as the language you’re using may not be the primary language of the interviewer.
+**Process**
+* Ask questions to clarify the scope of the problem
+* Explain your overall approach to the problem
+    * Done is better than perfect - You will often not get the optimal solution off the bat. It’s better to have a working sub-optimal solution vs. a half-finished “optimal” solution that doesn’t even compile yet
+    * If you don’t get any red flags from the interviewer, proceed
+* Start writing code
+    * Solve for the core of the problem first, which is often the hardest part
+    * Many candidates tackle the trivial portions first (e.g. write a utility method to convert an array of chars into a string), because that’s where they’re comfortable. These portions often aren’t even required by the interviewer and give low signal.
+    * Adding on to the above point, ask if you can “hand-wave” pieces away. Utility functions can often be saved from this. Every saved minute counts!
+    * Watch out for tunnel vision! Check every 5 minutes to see if the path you’re going down doesn’t feel right (you just can’t seem to get it to work). If you’re going to pivot, do it ASAP!
+**Solution**
+* Understand where your solution’s shortcomings are, whether it’s in performance or code structure
+* Don’t forget about space complexity
+* Understand how to come up with good test cases (i.e. extreme/wonky inputs)
+
+I also recently wrote a massive LinkedIn post sharing a bunch more resources related to interviewing and Big Tech (including the slides we used), which you can find here: https://www.linkedin.com/posts/activity-6822250780913991680-gehC
+LinkedIn is the main way we get the word out about this community, so any support on the LinkedIn would be appreciate. Have an amazing weekend everyone
+
+# July 22th
+
+## how to advance your career faster through promotions!
+
+Thanks everyone for joining our session about how to advance your career faster through promotions! Here are the relevant points:
+**It’s About Behavior, Not Output**
+* Raw output is not scalable. You can only get so fast at writing code and there are only so many hours in a day.
+* Very senior ICs are senior because they act in a fundamentally different way compared to more junior ICs - it’s not about how fast you can code.
+* Needing to work 12+ hours a day to be at the next level isn’t truly functioning at the next level, it could actually be a negative signal for promo.
+* Good litmus test: How far in advance do you know what you’re going to work on?
+**Increase Your Scope**
+* Being senior almost always requires working through others
+* Impact many people positively, adding multiplicative value instead of additive value, e.g. redefine a process that affects entire org like oncall
+* In a high-growth tech company, I promise there will always be room to improve things
+* Understand social capital: be cognizant of the relationships you need to build and work closely with those people and act with empathy
+* One important part of getting positive peer feedback is the marketing aspect. You should make regular posts and status updates. This is valuable for 2 reasons:
+    * If your work is truly adding value, then the status updates will be welcome
+    * Your regular updates let you acknowledge the contributions from your teammates
+**Work With Your Manager**
+* Your performance review result should not be a surprise and your manager is held the most accountable for that
+* People often don’t realize: They need to hold their manager accountable.
+* Manager can’t read minds. You need to leverage them as a resource. Flip the understanding of you serving your manager. Your manager actually serves you.
+* Write down a career growth plan with your manager.
+**Managing Feedback**
+When you give others permission to give you constructive feedback, you’re much more likely to hear it.
+* Schedule a dedicated 1:1 with key influential people who can tell you your strengths and growth areas.
+* These conversations should be awkward. 
+**Self Feedback**
+* Think about what work you enjoy doing and are good at. You’ll do better if you spend time on things you enjoy.
+* Humans are bad at remembering things, especially across a 6 to 12 month span. Good things are harder to remember as well.
+* Write down your wins and keep a brag journal. This will help with perf review.
+**Staying In Sync With Manager**
+* It’s easy for managers to look track of what their reports are doing, especially if they have more reports or the company is fast moving.
+* Share wins regularly with your manager
+* Ask for feedback in the right way: “Here’s my observation about me and the team… what do you think?”
+* Check in against the growth plan
+**You Are In Control of Your Career**
+You’re not beholden to your company, so you should feel empowered to switch jobs if you don’t see an opportunity for career growth.
+* If your manager is unsupportive, or you have a strained relationship with influential people in the org, your promo case will be much harder.
+* Promotions require a “business need” which you likely don’t have control over
+* Companies are risk-averse with promotions, and you have very little leverage. Sometimes the easiest way to advocate for yourself is to get another job.
+
+I’ll also point you to the LI article I wrote about promotion. Thanks for joining :slightly_smiling_face:
+
+# July 27th
+
+## How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea
+
+
+[![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27th.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
+
+
+# August 5th
+
+## Answering to the Top 5 questions
+
+Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text recap of our answers to the Top 5 questions as we figure out the YouTube recap situation:
+1. **For early in career folks, should learning be done breadth-wise or depth-wise?**
+    * You go wide to discover something you’re passionate about and then you go deep on it.
+    * You don’t need to find the absolute perfect thing; avoid decision paralysis.
+    * The growth path for junior engineers is that they need to build “street cred”, getting to a really high level of technical proficiency to prove that they’re able to lead and grow into a senior role. This is really hard if you keep switching stacks.
+    * There are fundamentals that are constant across every stack (what good code looks like, how to write a clean abstraction, etc). However, you don’t learn them until you go pretty deep into 1 stack, as in the beginning, you are just tactically focused on getting stuff to work.
+    * Once you master a stack and have transferable fundamentals, you can branch out.
+    * One learning tactic is just to read the terminology, then actually go deep and it will make much more sense. Similar to reading a textbook, where you read all the chapter names. 
+2. **How do you prepare a perfect portfolio to get recruiters to come find you?**
+    * Pretty much LinkedIn since it’s essentially a really powerful and popular portfolio website that recruiters more or less live on
+    * It’s not like recruiters are regularly browsing people’s portfolio websites as there isn’t a central repository of them
+    * If you don’t have the work experience necessary to get recruiter leads, then invest into side projects
+    * Side projects themselves can also get recruiter leads. I have gotten many recruiter messages at my Google Play developer email from top companies like Square, Instacart, etc.
+    * There are no great tools for this, Github README is a good option, or a public page of GPlay or App Store link
+3. **How do you get FAANG interviews?**
+    * You need either a recruiter to find you or a referral
+    * Applying online and cold messaging are effectively useless. You can try it every once in a while, but don’t spend more than a few minutes on your application/message.
+    * Networking is crucial to get referrals. Getting into Big Tech is hard but not impossible. If you have 100 friends in tech, at least one of them will get into Big Tech within 2 years.
+    * If you live in a relevant geography, Big Tech will come find you once you have 2-3 YOE. Once you have 5+ YOE (generally considered the cutoff for a senior engineer), you’ll really start getting opportunities.
+    * “Nuclear” levers (to overcome junior-ness and bad geography):
+       * Massive side project - At least 10k+ users
+       * Major open-source contributions - Extremely clear way to show you’re capable of writing Big Tech level code, especially if you can merge into one of their repos. However, onboarding into such a strong codebase is extremely difficult.
+    * Recruiters bias for pattern matching; they want to get as many people in the door who are likely to pass the interview.
+4. **How do you balance between active office projects and self learning?**
+    * It depends on your priorities.
+    * If your goal is to get promoted at your job and you have a good support network there, you can just invest wholly into that. Essentially, if you’re learning a lot at work, you don’t need to do self learning.
+    * If your work is not supporting you at all, you can just do the bare minimum to not get fired and use self-learning to explore other opportunities. This is what Alex did at PayPal to transition into Android.
+    * In general, try not to get fired unless you are extremely financially comfortable.
+    * For self learning, try to incorporate them into side projects so it doesn’t feel as much like work (another thing Alex has done). Getting off work just to go into studying for a certification or something is not fun. If your self learning also feels like work, your brain won’t be able to handle it. There are many studies showing that the human mind simply cannot handle 40+ hours of work per week.
+    * You care about your career x 100, your startup cares about your company x 50, your big company cares about your career 10.
+    * It sounds scary but it’s actually liberating when you realize you can do things on your own.
+5. **What are your strategies for stopping procrastination?**
+    * You can only procrastinate with a far-off deadline and you generally only have far-off deadlines with big items. This means you can break down whatever your big task is into smaller tasks and milestones, with a small chunk being due at regular intervals.
+    * Social accountability is also powerful. You don’t want to be the person holding the team back. Find a buddy! One way to aggressively get rid of procrastination is to turn work into a race among the team.
+    * If you’re procrastinating but able to make the deadline anyways, you aren’t being challenged enough. Just move the deadline up if it’s something you set yourself.
+    * Turning things into a habit is extremely powerful. If the inertia for you to get going is really high, confront that inertia head-on by making a little bit of progress every single day or something close to that.
+    * Meta-point: Procrastination often stems from a lack of true passion and enjoyment. If you find yourself regularly procrastinating a certain type of work, ask yourself if you are in the right area to begin with.
+    * Use "just one thing" tactic, reflection, focus. Think about the next physical action.
+We will try to publish our responses as videos as soon as possible. Since a lot of folks weren't able to make this session, we will prioritize speed and quantity over quality here; we just want to get these out the door as soon as possible, and I'm sure many of you feel the same way. 
+
+
+## Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?
+
+[![ How To Get Big Tech Software Engineer Interviews ](img/session-recap/video-august-11-01.png)](https://www.youtube.com/watch?v=HkwcKVTeIdo)
+
+
+## How to Balance Your Time Between Your Job And Self Learning
+[![ How to Balance Your Time Between Your Job And Self Learning ](img/session-recap/video-august-11-02.png)](https://www.youtube.com/watch?v=qHYh_fiWH2Y)
+
+
+## How do you prepare the perfect portfolio to get discovered by recruiters?
+
+[![ How To Create A Perfect Tech Portfolio To Make Recruiters Come To You ](img/session-recap/video-august-11-03.png)](https://www.youtube.com/watch?v=Rh6hA9g6SUM)
+
+## As a software engineer, should you learn new technology with breadth or depth?
+
+[![ How To Learn Optimally As A Junior Engineer - Breadth vs. Depth ](img/session-recap/video-august-11-04.png)](https://www.youtube.com/watch?v=Pn-LWb_FoOQ)
+
+
+
+# August 28th
+
+## how to write a tech resume that gets you more opportunities
+
+Today was our session about how to write a tech resume that gets you more opportunities. Main points we touched on:
+**Meta**
+    * Remember that a recruiter will be reading a resume. Two important things to keep in mind are (1) They are non-technical and (2) They don’t have a lot of time (7.4 seconds on average) to read your resume.
+    * Recruiters make 3 piles of resumes: yes, no, maybe. Your goal is very simply avoid the “no” pile, and ideally get into the yes pile. Our advice is fairly straightforward - be weary of anyone charging you for money to create a “fancy” resume.
+    * Especially for junior engineers, having a clear resume is essential. The top tech giants will have hundreds of applicants. Look at your completed resume and check that it’s clear, and ideally, contains something unique + impressive.
+**Keep It Short And Focused**
+    * Rule of thumb: 1 page max for every 5 years of experience. In general, strive to have a 1-pager resume. Alex’s resume is only 1 page despite having ~7 years of experience.
+    * Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
+    * Resumes often have a skills overview section Be very careful about what you put here — you should be able to talk about these in depth.
+    * Aggressively compress old experience to stick to 1 page, don’t feel shy about cutting out old internships/jobs.
+    * Watch your spacing!
+        * Keep whitespace separations reasonable
+        * Look for “dangling” newlines where you just have a few words on an entire line all by themselves.
+**Spelling And Grammar Matter**
+    * Your resume should not have spelling/grammar mistakes.
+    * Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page. If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
+    * Take advantage of free tools like Grammarly that help you with this.
+    * If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
+**Show, Don’t Tell**
+* This is the concept that people struggle with the most, and it is arguably the most important idea to master.
+* Everybody wants to and can say that they’re a good engineer. In order to stand out, you must show that you’re a good engineer.
+* You do this by capturing the impact of your accomplishments (i.e. what is the delta you produced) and dictating it in a very concise, accessible way (remember, a recruiter is reading your resume!).
+* Tactical tips:
+    * Avoid brag summary sections, things like “fast learner” or “team player”
+    * Don’t self-rate your skills or familiarity in a technology
+    * Deploy projects to prod and link that - A GitHub repo has little value to a recruiter!
+**Resume Before and After**
+    * Putting technologies next to job is good since it contextualizes what you did
+    * Focus on business impact. Customers don’t care about the tech, they care about getting something done.
+**Have Basic Organization**
+* column is optimal to reduce cognitive load. 2     columns is also doable, and everything above that is too much. Everyone reads top to bottom - put important things first.
+* Have clear sections with dividers.
+* Avoid lengthy paragraphs. Split them up into punchy bullet points.
+**Most Practical --> Least Practical**
+* For software engineers, companies want to know the answer to the following question: Can this person ship code in a professional, production environment?
+* Go-to ordering working backwards from this question (after skills overview section):
+* Prior work experience: Other instances of you shipping code in professional, prod environment
+* Personal projects: You’re still shipping code to prod, just not in a formally professional environment.
+* Education (this is generally higher than it should be):
+    * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
+    * Bootcamps - More on the practical side, but too   short and work is often very “tech-demo-ey” so not a real production environment
+**FAQ**
+* Should I include my work experience if it’s not in the software industry? 
+    * Yes, it’s typically worthwhile to include “Irrelevant experience”, especially if you’re earlier in your career 
+    * Showing some experience is generally better than none, or showing long gaps in employment.
+* How can I talk about my impact without revealing company confidential info? 
+    * Talk about relative improvement, e.g. “onboarded customers 30% faster”
+    * Obfuscate details: “increased ad revenue from $X0 million to $X00 million”
+* Should I customize my resume for each job I’m applying to? 
+    * In general, this is not worth the time
+    * There may be value if the companies you’re applying to are meaningfully different.
+**Conclusion**
+* This session is about optimizing presentation, not the content itself. You can think of these resume tips as the “dressing” around your professional “core”, which is what you have actually accomplished. If your core is weak, you will have a hard time getting job opportunities - No amount of dressing will fix this.
+* If you aren’t getting the job opportunities you want due to a lack of experience or clout from top tech companies on your resume, you should build personal projects
+* People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. That’s our next session on Oct 2: https://www.linkedin.com/events/howtobuildandgrowtechproductsto6835076235345956864/
+
+# August 30th
+
+## How To Have The Proper Mindset In Big Tech Software Engineering Interviews
+
+We're super late on this, but here's the first video recap from the Big Tech interview session we gave on 7/17. It talks about how to have the proper mindset going into and during the interview. A lot of candidates (this probably includes some of you!) are more than capable of passing these prestigious interviews; you just get too nervous and anxious around the interview and are unable to show your true skill. This video talks about how to avoid that.
+
+
+[![ How To Have The Proper Mindset In Big Tech Software Engineering Interviews ](img/session-recap/video-august-30th.png)](https://www.youtube.com/watch?v=guxFTl_qIRg)
+
+
+# September 5th
+
+## How You Properly Learn Data Structures and Algorithms (DSA) 
+
+Here's the next recap from July's Big Tech interview session, covering how to optimally learn data structures & algorithms. This video breaks down the studying techniques I used to get into Facebook:
+
+[![ How You Properly Learn Data Structures and Algorithms ](img/session-recap/video-september-5th.png)](https://www.youtube.com/watch?v=j9FD_Y5JTbw)
+
+
+# September 21th
+
+## How to Mentally Prepare for Your Tech Interview
+
+Here's another recap from the Big Tech interviewing session, explaining how "feeling dumb" is naturally part of the process when it comes to mastering data structure and algorithms:
+
+[![ How to Mentally Prepare for Your Tech Interview ](img/session-recap/video-september-21th.png)](https://www.youtube.com/watch?v=LSLyly2GJo4)
+
+
+# October 2th
+
+Thanks to everyone who joined us today about building + growing personal projects with 500K+ users! Session recap:
+**We are extremely bullish on personal projects.**
+    * They can be just as valuable  (or more) as work experience if you get users
+    * Best non-professional learning, you’re creating “business impact” on your own
+    * Personal projects can help many people, it’s impactful work
+    * Showing off your interests can unlock career paths
+    * Hacking on stuff is fun + fulfilling
+**Minimum Viable Product**
+**Just 1 Thing**
+    * A good initial product is something that solves a specific user problem in a hyper-targeted way. Keep it simple, focused, and polished.
+    * Your goal is to have as few features as possible
+    * Go for depth over breadth. It’s far better to have 1 feature with extremely high quality vs. several with average to low quality.
+    * It’s ok if you want to do more, plan out your vision in terms of phases, and be clear about which phase you’re working on.
+    * Features you might not need: login/signup, a back-end, or a marketplace
+**Quality Is Key. And Difficult.**
+    * With the software boom, effectively every original idea has been exhausted. Innovation is overrated, execution is underrated
+    * Create apps with the highest quality, which is best for your learning and will get you more users.
+    * Think through the edge cases (Random Name Picker example: empty state, invalid input, deleting names, etc)
+    * Angry users are very loud
+**Least Clicks Design**
+    * If there’s 1 design concept to remember, it’s this: Minimize the amount of clicks it takes for the user to do your core action.
+    * Less than 3 clicks and/or 5 seconds to do the core user flow
+    * Make sure “90%” flow is always fast - push complexity behind menus like bottom sheet
+**Free Is Powerful**
+    * 2 core types of free: Product itself is free and there’s no ads (i.e. ad-free)
+    * People love free. If you’re building a product to strengthen your portfolio, learn, have fun, help people, and unlock job opportunities, you should leverage that as a superpower. Make your product, at least initially, free and ad-free.
+    * There are so many product spaces dominated by hucksters trying to nickel-and-dime people with ad-infested apps.
+    * You need your initial users to love your app, and that is very difficult to do if it’s paid or has ads.
+**Growing The Product And User Base**
+Eat Your Own Dogfood
+    * The most important user of your product is you
+    * If you don’t use your own product, it is hard to build user empathy as you’re not going through the pain yourself
+    * In the beginning, your product will feel clunky, both due to a lack of features and inefficiencies with your core flow. Dogfooding empowers you to fix this.
+    * You will have very little user feedback to go off of initially, so you need to do this to fuel the initial iteration.
+    * Alex used Random Name Picker for board game nights to help select the board game to play and the restaurant to eat at.
+**Feedback Is A Gift**
+    * User feedback is free product management: It’s really rare that the problem a user faces is unique to them, so just fixing their problem almost certainly improves your product and makes users love it more.
+    * Don’t be defensive with bad reviews. They often have clear, actionable feedback - The angry words are essentially wrapping up a valuable gift. Fix their issue, apologize in your reply, and let them know when the fix is out.
+    * Respond to every review. This is especially important initially as those users are the most valuable (every rating has a lot of weight, they took a chance on you).
+**Understand SEO**
+    * SEO is really not that hard: Figure out popular terms that users are searching for that are relevant to your product and include them, primarily in the title and description
+    * Pretend you are somebody looking for an app/website to solve your problem and just let your fingers do the typing - What do you search for?
+    * Look at competitor apps: how can you do better? What features can you add?
+**Keep Iterating And Improving**
+    * Like a lot of things in tech, particularly interviewing, product development is a marathon, not a sprint
+    * You can’t just release a v1 and expect it to explode. That’s the exception, not the rule. 
+    * Commit to at least 15 updates across 2 months. After that, if there’s still no traction, move on to something else.
+    * For the mobile stores in particular, update frequency are almost certainly factored into the search ranking algorithm
+
+
+# October 3th
+
+## How To Truly Master A Data Structures & Algorithms Problem
+
+[![ How To Truly Master A Data Structures & Algorithms Problem ](img/session-recap/video-october-3th.png)](https://www.youtube.com/watch?v=tfqPGGdS8Tk)
+
+
+# October 6th
+
+## Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews 
+
+I'm back with... you know what, haha. Anyways, here's another recap video from the Big Tech DSA interview session we had back in July, talking about the importance of communication in the context of Big Tech specifically and how to succeed on that axis:
+
+[![ Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews  ](img/session-recap/video-octobero-6th.png)](https://www.youtube.com/watch?v=TqjiQbyomx4)
+
+
+# October 7th
+
+## Stop Wasting Time In Your Tech Interviews By "Inventing The API
+
+We have one final snippet from the Big Tech DSA interview session :slightly_smiling_face: Time management is essential to succeeding in your coding interview. One tactic to do this is by “inventing the API”:
+
+[![Stop Wasting Time In Your Tech Interviews By "Inventing The API ](img/session-recap/video-october-7th.png)](https://youtu.be/XuOXRBYlidg)
+
+
+# October 12th
+
+## The BEST Way To Learn As A Software Engineer - Always Be Building
+
+We now have our 1st recap video from the side projects session on 10/2! In this video, we explain all the benefits of seriously building personal software projects and how it's much more conducive and symbiotic towards your growth vs. more "traditional" activities like DSA grinding: 
+
+[![The BEST Way To Learn As A Software Engineer - Always Be Building ](img/session-recap/video-October-12th.png)](hhttps://www.youtube.com/watch?v=Ciu8zwOr8PU)
+
+
+# October 14th
+
+## How To Build An Amazing Product - Do Just 1 Thing
+
+Continuing on to the 2nd recap from the personal projects session :tada: The most common mistake people make when building projects on their own is trying to make something too complicated.
+
+[![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-14th.png)](https://youtu.be/voUyG75SMLw)
+
+
+# October 17th
+
+## How to Learn Quickly in Tech”
+
+Thanks everyone for joining today about our session “How to Learn Quickly in Tech”!! We’ll eventually post snippets of the session on YT, but for now, please enjoy this text recap:
+**1. Ask effective questions**
+* Guiding principle: make it easy for others to help you
+* Asking good questions not only helps you, but the whole team: your question (plus follow up) will help others struggling in the same area.
+* Rule of thumb: if you’re struggling for > 15 min, ask a question
+* Avoid the leading hi, pass the 1st round Google test, Include context, and be appreciative!
+**2. Learn by doing**
+* The cost of writing (and rewriting) software is low, which means that you should jump right into doing/building
+* The best way to learn a new programming language or technology is to start tinkering
+* Don’t waste time on: waiting for a certificate, or reading excessive documentation
+* Share what you know, the reflection that you do will help you learn
+**3. Feedback is a gift**
+* Most of the people you work with are smart and well-intentioned, so their feedback will unlock lots of learning.
+* Invite feedback: you’re much more likely to hear it if you ask for for it. 
+* Write down feedback and convert it to action items -- this builds social capital.
+* If you don’t have colleagues to give you feedback, use the Tech Career Growth channel. 
+**4. The Lego model**
+* We combine legos in different ways to create valuable structures. 
+* You can think of tech components as legos, and we combine these into products.
+* To learn quickly, collect lots of legos and make sure they’re high quality + in demand.
+* Good legos: onboarding flows, displaying a list of items, displaying images
+**5. Build a powerful learning roadmap**
+* You’ll maximize your learning if you move away from strict structure and build your own things
+* Learn to embrace discomfort and unknowns - this is a constant in the tech world
+* Work backwards from your destination, instead of following an exact prescription
+* imberapp.com is designed to give you feedback + encouragement on your personal projects as you create your own experience 
+
+
+# TODO -- October 19th
+
