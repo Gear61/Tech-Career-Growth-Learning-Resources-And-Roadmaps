@@ -986,4 +986,4 @@ Thanks everyone for joining today about our session “How to Learn Quickly in T
 * imberapp.com is designed to give you feedback + encouragement on your personal projects as you create your own experience 
 
 
-# TODO - October 19th
+# TODO -- October 19th
