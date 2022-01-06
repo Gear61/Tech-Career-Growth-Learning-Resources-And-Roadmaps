@@ -557,7 +557,6 @@ The video covers a common misconception when it comes side projects: In order fo
 This is 100% not the case: There is a lot of beauty in simplicity, and there are a ton of projects that are both very feasible and extremely exciting.
 Anyways, check out the video to figure out how you change your mental framework to start recognizing these kinds of ideas. These are the ideas that you can both easily build and get a ton of users for, supercharging your resume and unlocking amazing job opportunities.
 
-
 [![ How To Build Apps With 100k+ Users: Feasibility vs. Excitement  ](img/session-recap/video-june-29th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
 
 
@@ -987,3 +986,4 @@ Thanks everyone for joining today about our session “How to Learn Quickly in T
 
 
 # TODO -- October 19th
+
