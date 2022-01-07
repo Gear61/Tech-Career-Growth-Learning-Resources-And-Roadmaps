@@ -228,7 +228,11 @@ None yet
 * [Why Imber Failed](./threads/Why%20Imber%20Failed.md)
 * [What software engineering paths are there if I don't like front end?](./threads/How%20To%20Build%20Non%20Front-End%20Projects.md)
 
-### Posts
+## Better Sessions Recap :tv:
+* :calendar: [Sessions Recap 2021](SessionsRecapsHistory.md)
+
+
+## Posts
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
 [...] it seems like you have a decent company you're working for, but you're having trouble growing and also finding an outside place that's clearly better for your growth.
 
