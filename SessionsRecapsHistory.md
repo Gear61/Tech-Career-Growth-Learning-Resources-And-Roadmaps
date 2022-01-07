@@ -4,6 +4,7 @@ Table of Contents
 =================
 
 * [Session Recaps History](#session-recaps-history)
+* [Table of Contents](#table-of-contents)
 * [2021](#2021)
 * [March 13th <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
    * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
@@ -34,7 +35,65 @@ Table of Contents
 * [June 19th](#june-19th)
    * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
 * [June 29th](#june-29th)
-* [TODO - July 5th](#todo---july-5th)
+* [July 5th](#july-5th)
+* [July 10th](#july-10th)
+   * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
+* [July 17th](#july-17th)
+* [July 22th](#july-22th)
+   * [how to advance your career faster through promotions!](#how-to-advance-your-career-faster-through-promotions)
+* [July 27th](#july-27th)
+   * [How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea](#how-to-identify-100k-users-app-ideas-you-can-actually-build---good-idea-vs-bad-idea)
+* [August 5th](#august-5th)
+   * [Answering to the Top 5 questions](#answering-to-the-top-5-questions)
+   * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
+   * [How to Balance Your Time Between Your Job And Self Learning](#how-to-balance-your-time-between-your-job-and-self-learning)
+   * [How do you prepare the perfect portfolio to get discovered by recruiters?](#how-do-you-prepare-the-perfect-portfolio-to-get-discovered-by-recruiters)
+   * [As a software engineer, should you learn new technology with breadth or depth?](#as-a-software-engineer-should-you-learn-new-technology-with-breadth-or-depth)
+* [August 28th](#august-28th)
+   * [how to write a tech resume that gets you more opportunities](#how-to-write-a-tech-resume-that-gets-you-more-opportunities)
+* [August 30th](#august-30th)
+   * [How To Have The Proper Mindset In Big Tech Software Engineering Interviews](#how-to-have-the-proper-mindset-in-big-tech-software-engineering-interviews)
+* [September 5th](#september-5th)
+   * [How You Properly Learn Data Structures and Algorithms (DSA)](#how-you-properly-learn-data-structures-and-algorithms-dsa)
+* [September 21th](#september-21th)
+   * [How to Mentally Prepare for Your Tech Interview](#how-to-mentally-prepare-for-your-tech-interview)
+* [October 2th](#october-2th)
+* [October 3th](#october-3th)
+   * [How To Truly Master A Data Structures &amp; Algorithms Problem](#how-to-truly-master-a-data-structures--algorithms-problem)
+* [October 6th](#october-6th)
+   * [Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews](#acing-tech-interviews-is-more-than-just-the-solution---how-to-properly-communicate-in-interviews)
+* [October 7th](#october-7th)
+   * [Stop Wasting Time In Your Tech Interviews By "Inventing The API](#stop-wasting-time-in-your-tech-interviews-by-inventing-the-api)
+* [October 12th](#october-12th)
+   * [The BEST Way To Learn As A Software Engineer - Always Be Building](#the-best-way-to-learn-as-a-software-engineer---always-be-building)
+* [October 14th](#october-14th)
+   * [How To Build An Amazing Product - Do Just 1 Thing](#how-to-build-an-amazing-product---do-just-1-thing)
+* [October 17th](#october-17th)
+   * [How to Learn Quickly in Tech”](#how-to-learn-quickly-in-tech-1)
+* [October 19th](#october-19th)
+   * [How To Build An Amazing Product - Do Just 1 Thing](#how-to-build-an-amazing-product---do-just-1-thing-1)
+   * [Where The TRUE Learning As A Developer Comes In - Winning With Quality](#where-the-true-learning-as-a-developer-comes-in---winning-with-quality)
+   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech-2)
+* [October 25th](#october-25th)
+   * [The EASIEST Way To Make Users Love Your Product - The Power Of Free](#the-easiest-way-to-make-users-love-your-product---the-power-of-free)
+* [Octover 27th](#octover-27th)
+   * [This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding](#this-is-how-facebook-makes-amazing-apps---the-importance-of-dogfooding)
+   * [How To Ask Amazing Questions That Get Answers Fast](#how-to-ask-amazing-questions-that-get-answers-fast)
+* [November 1st](#november-1st)
+   * [Bad Question vs. Good Question Example - Tech Career Growth](#bad-question-vs-good-question-example---tech-career-growth)
+* [November 5st](#november-5st)
+   * [This Is How To Learn A New Codebase FAST](#this-is-how-to-learn-a-new-codebase-fast)
+* [November 6st](#november-6st)
+   * [How To Ace Your Big Tech Interview - System Design](#how-to-ace-your-big-tech-interview---system-design)
+* [November 10st](#november-10st)
+   * [Why You Should Be The DUMBEST Person In The Room](#why-you-should-be-the-dumbest-person-in-the-room)
+* [November 11st](#november-11st)
+   * [There Is No Such Thing As A Stupid Question](#there-is-no-such-thing-as-a-stupid-question)
+* [November 14st](#november-14st)
+   * [The #1 Tactic To Become A Senior Engineer Faster](#the-1-tactic-to-become-a-senior-engineer-faster)
+* [December 21](#december-21)
+   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech-3)
+
 
 
 # 2021
@@ -380,7 +439,7 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
 Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
 
 <a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
- <img  alt="slide" width="200" height="100" src="img/session-recap/recap-001.png"></a>
+ <img  alt="slide" width="400" height="200" src="img/session-recap/recap-001.png"></a>
 
 
 # May 29th
@@ -703,7 +762,7 @@ I’ll also point you to the LI article I wrote about promotion. Thanks for join
 ## How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea
 
 
-[![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27th.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
+[![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
 
 
 # August 5th
@@ -932,7 +991,7 @@ I'm back with... you know what, haha. Anyways, here's another recap video from t
 
 We have one final snippet from the Big Tech DSA interview session :slightly_smiling_face: Time management is essential to succeeding in your coding interview. One tactic to do this is by “inventing the API”:
 
-[![Stop Wasting Time In Your Tech Interviews By "Inventing The API ](img/session-recap/video-october-7th.png)](https://youtu.be/XuOXRBYlidg)
+[![Stop Wasting Time In Your Tech Interviews By "Inventing The API ](img/session-recap/video-october-07.png)](https://youtu.be/XuOXRBYlidg)
 
 
 # October 12th
@@ -985,5 +1044,144 @@ Thanks everyone for joining today about our session “How to Learn Quickly in T
 * imberapp.com is designed to give you feedback + encouragement on your personal projects as you create your own experience 
 
 
-# TODO -- October 19th
+# October 19th
+
+## How To Build An Amazing Product - Do Just 1 Thing
+
+We have 2 more recap videos out from the session on how to build software projects that get 500k+ users and actually prepare you for the job market.
+The first is about how a good product should do just 1 thing with an extremely high-level of focus and polish, especially initially. I actually feel like Facebook struggles with this a lot:
+
+[![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-19-01.png)](https://www.youtube.com/watch?v=voUyG75SMLw&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF&index=3)
+
+
+
+## Where The TRUE Learning As A Developer Comes In - Winning With Quality
+The second is about something that is seriously underrated: Quality. As alluded to in the "How To Learn Quickly In Tech" session as well, true learning comes when you really push a product/component to its limit, building something that is truly robust, smooth, and delightful. This is where junior engineers often struggle when building personal software projects:
+
+This Is How You Grow From A Mediocre Software Engineer To A Good One
+
+[![Where The TRUE Learning As A Developer Comes In - Winning With Quality ](img/session-recap/video-october-19-02.png)](https://www.youtube.com/watch?v=144YS6pZuqo)
+
+
+## How To Learn Quickly In Tech
+
+Slides -> 
+[![How To Learn Quickly In Tech](img/session-recap/recap-october-25.png)](https://docs.google.com/presentation/d/1C0RYphpovijVp8s3JVjG9iYFT6hgPJNHabIeP8WF7V4/edit)
+
+
+
+# October 25th
+
+## The EASIEST Way To Make Users Love Your Product - The Power Of Free 
+
+Hot off the press, here's another recap video from the side projects session on 10/2. It covers an extremely powerful and 0 effort way you can make your personal software project 10x more appealing as a product compared to the rest of the field:
+
+
+[![The EASIEST Way To Make Users Love Your Product - The Power Of Free](img/session-recap/video-october-25.png)](https://www.youtube.com/watch?v=jM-kV1geEP8)
+
+
+# Octover 27th
+
+## This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding 
+
+Here’s another one: the importance of eating your dogfood :innocent: Basically, make sure you use the product you’re building so you know how to improve it!
+
+[![This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding ](img/session-recap/video-october-27.png)](https://youtu.be/8f_XVXeYNas)
+
+
+## How To Ask Amazing Questions That Get Answers Fast 
+
+Here's the snippet from our "How To Learn Quickly In Tech" session on 10/16 where we break down how to ask an effective question. If you're a junior engineer trying to find your way within a new team or you're just trying to get some great answers within this Slack community, definitely check it out here
+
+[![How To Ask Amazing Questions That Get Answers Fast ](img/session-recap/video-october-28.png)](https://www.youtube.com/watch?v=VS75nql2Csg)
+
+
+# November 1st
+
+## Bad Question vs. Good Question Example - Tech Career Growth 
+
+Following up on the prior recap video, here's a snippet where we break down an in-depth example with what is originally an ineffective question, which then turns into an effective question
+
+[![ Bad Question vs. Good Question Example - Tech Career Growth ](img/session-recap/video-november-01.png)](https://www.youtube.com/watch?v=24CGlaL5bXo)
+
+
+# November 5st
+
+## This Is How To Learn A New Codebase FAST 
+
+Here's our latest session recap video, which covers how to learn a new codebase the most quickly. Definitely do this if you're a freshly hired junior engineer trying to learn the ropes of your new team!
+
+
+[![This Is How To Learn A New Codebase FAST ](img/session-recap/video-november-05.png)](https://www.youtube.com/watch?v=QLCq91qrMC0)
+
+# November 6st
+
+## How To Ace Your Big Tech Interview - System Design
+
+Starting off the session recap early this time (we're still doing the session!) - Anyways, here are the slides we used for the system design interview session:
+
+
+[![How To Ace Your Big Tech Interview - System Design ](img/session-recap/recap-november-06.png)](https://docs.google.com/presentation/d/1z4yX5LiiSxbHiNrBOTPIiDfhBL5qmwRUrDojT71OROY/edit?usp=sharing)
+
+# November 10st
+
+## Why You Should Be The DUMBEST Person In The Room 
+
+For those of you who missed the "How To Learn Quickly In Tech" session, here's another recap video from it, explaining why you should try to be the dumbest person in the room to maximize your growth: https://www.youtube.com/watch?v=1jJf0ehQ7Fo
+On the flip side, if you feel like you're always the smartest person in the room, you might want to leave your team/company if growth is one of your priorities. This was actually the case for me at Course Hero - I was the 1st Android engineer and lead, and I could never hire anyone more senior than myself or even at the same level but specializing in a different part of Android. My growth at Course Hero was pretty stagnant because of this, which is a big reason why I left - I was the smartest person in the room way too often.
+And then I went to Facebook where I was the dumbest person in the room most of the time :rolling_on_the_floor_laughing:
+
+[![Why You Should Be The DUMBEST Person In The Room ](img/session-recap/video-november-10.png)](https://www.youtube.com/watch?v=1jJf0ehQ7Fo)
+
+
+# November 11st
+
+## There Is No Such Thing As A Stupid Question 
+
+Hey everyone, we recently wrapped up our video recaps for the question asking portion of the "How To Learn Quickly In Tech" session.
+If there's one series of recaps you should absolutely watch, it's this one because, well, you're in this Slack community and the main thing we do here is ask and answer questions. Questions are one of the most powerful tools for any engineer's growth and one of the most straightforward as well: We all grew up asking questions, but very few of us grew up building globally deployable #side-projects for example. However, there's 3 things that make question asking hard:
+* Mustering up the courage to ask the question in the first place
+* Adding enough context so that it can be easily and effectively answered
+* Using it as a social-capital building mechanism to actually build respect and relationships as opposed to being a purely  tactical mechanism,
+
+This is why @Rahul Pandey and I covered question asking in 20+ minutes of content across 4 videos; there's really a lot more to it than people think. Anyways, we hope this helps!
+
+ You can find them all in the playlist here:
+
+[![There Is No Such Thing As A Stupid Question  ](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
+
+
+# November 14st
+
+## The #1 Tactic To Become A Senior Engineer Faster
+
+Feedback is critical to getting better as an engineer. In this video, @Alex and I talk about the best ways to receive more high-quality feedback from the people around you. For example:
+* In 1:1s, instead of just saying “Do you have any feedback for me?” say “What should I start doing to be more effective? What should I stop doing?”
+* In code reviews, proactively identify areas where you’d love extra eyes or feedback
+Let us know if these help!
+
+
+[![The #1 Tactic To Become A Senior Engineer Faster](img/session-recap/video-november-14.png)](https://youtu.be/r6D9dirIqLs)
+
+
+# December 21th
+
+## How To Learn Quickly In Tech
+
+Oh wow, it's been over a month since the last message in this channel. Anyways, I looked back again and realized that we didn't share that our playlist for the "How To Learn Quickly In Tech" session is now completed! 
+This is arguably our most important session and content ever as tech is always changing, so everyone is constantly learning new stuff, even seasoned folks like @Rahul Pandey and myself! Of course, topics like interview prep, resume writing, and figuring out promotion systems are important, but in the end, each one is 1 topic out of infinite within the tech ecosystem. This playlist teaches you how to learn anything optimally in tech, regardless of what it is!
+Some topics covered in this session include:
+* How to ask effective questions that get awesome answers quickly
+* How to get salient feedback that you can apply to yourself to improve fast
+* How to figure out what to learn and how to learn it
+
+You can find it here:
+
+[![How To Learn Quickly In Tech](img/session-recap/video-december-21.png)]( https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBAFZweJNwMu2i74FcuITUYI)
+
+
+
+Check all the playlist of Tech Career Growth - Alex & Rahul :point_right:    
+[YouTube PlayList]( https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF)
+
 
