@@ -5,8 +5,9 @@ Table of Contents
 
 * [Session Recaps History](#session-recaps-history)
 * [Table of Contents](#table-of-contents)
-* [2021](#2021)
-* [March 13th <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
+* [January 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
+   * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
+* [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
    * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
    * [Evolving Your Job As Your Company Changes](#evolving-your-job-as-your-company-changes)
    * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
@@ -98,14 +99,14 @@ Table of Contents
 
 # 2021
 
-# March 13th :calendar:
+# March 13th, 2021 :calendar:
 
 ## Optimizing For Promotion In Tech
 Our recap for this first session was actually quite brief as this was before the Slack community and @Rahul Pandey and I had 0 clue what we were doing. So here's a real recap of that session:
-1. Promotion is about behavior, not output
-    a. This is the #1 most important thing about promotion if you're only going to retain 1 thing from this recap, make it this.
-    b. You can only scale output so much as you are limited by the number of hours in a day and how much you can push your body/mind before it burns out.
-    c. Senior engineers are senior because they add multiplicative value, not additive. They build solutions that help broad swaths of people across the company, not 1-off implementations for random features that junior engineers are often saddled with.
+* Promotion is about behavior, not output
+  * This is the #1 most important thing about promotion if you're only going to retain 1 thing from this recap, make it this.
+  * You can only scale output so much as you are limited by the number of hours in a day and how much you can push your body/mind before it burns out.
+  * Senior engineers are senior because they add multiplicative value, not additive. They build solutions that help broad swaths of people across the company, not 1-off implementations for random features that junior engineers are often saddled with.
 2. Perception matters. Acting altruistically will give you a higher chance of promotion
     a. In the end, you always work on a team. Don't be someone who only cares about promotion as this will lead to toxic and territorial behavior that ultimately hurts your chances of promotion.
 2. Engineers become more senior because they increase their scope, helping and empowering more people across the company. You can't do this if you act in a selfish way.
