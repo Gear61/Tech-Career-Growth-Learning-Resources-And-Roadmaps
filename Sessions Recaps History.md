@@ -1,12 +1,7 @@
 # Session Recaps History
 
-Table of Contents
-=================
-
-* [Session Recaps History](#session-recaps-history)
-* [Table of Contents](#table-of-contents)
-* [January 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
-   * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
+## Table of Contents
+* [1/28/2021 - Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
 * [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
    * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
    * [Evolving Your Job As Your Company Changes](#evolving-your-job-as-your-company-changes)
@@ -95,13 +90,7 @@ Table of Contents
 * [December 21](#december-21)
    * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech-3)
 
-
-
-# 2021
-
-# March 13th, 2021 :calendar:
-
-## Optimizing For Promotion In Tech
+## 1/28/2021 - Optimizing For Promotion In Tech
 Our recap for this first session was actually quite brief as this was before the Slack community and @Rahul Pandey and I had 0 clue what we were doing. So here's a real recap of that session:
 * Promotion is about behavior, not output
   * This is the #1 most important thing about promotion if you're only going to retain 1 thing from this recap, make it this.
