@@ -41,11 +41,6 @@
   * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
 * July 21st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
-* [July 17th](#july-17th)
-* [July 22th](#july-22th)
-   * [how to advance your career faster through promotions!](#how-to-advance-your-career-faster-through-promotions)
-* [July 27th](#july-27th)
-   * [How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea](#how-to-identify-100k-users-app-ideas-you-can-actually-build---good-idea-vs-bad-idea)
 * [August 5th](#august-5th)
    * [Answering to the Top 5 questions](#answering-to-the-top-5-questions)
    * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
@@ -521,7 +516,7 @@ Alex and Rahul gave a talk for our Tech Career Growth community about writing an
 #### THIS Is Why Your Resume Is Bad - Telling vs Showing
 Let's improve a resume by showing the business impact. We also talk about the importance of side projects - in tech you don't need "experience" since you can create your own.
 
-[![ THIS Is Why Your Resume Is Bad  ](img/session-recap/r-video-002.png)](https://www.youtube.com/watch?v=sDbK84GEE94)
+[![ THIS Is Why Your Resume Is Bad](img/session-recap/r-video-002.png)](https://www.youtube.com/watch?v=sDbK84GEE94)
 
 [LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
 
@@ -599,6 +594,9 @@ Especially for those with low experience, side projects are arguably the #1 alte
 Check out all that Rahul Pandey and Alex Chiou have to emphasize about the importance of side projects here: https://lnkd.in/dQK2Utb
 
 [![How to SUPERCHARGE Your Software Engineer Resume](img/session-recap/video-july-5th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
+
+#### How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea
+[![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
 
 [LinkedIn Event](https://www.linkedin.com/events/6801549135905464320/)
 
@@ -749,14 +747,6 @@ You’re not beholden to your company, so you should feel empowered to switch jo
 I’ll also point you to the [LI article](https://www.linkedin.com/pulse/5-things-i-wish-knew-promotion-engineer-rahul-pandey/) I wrote about promotion.
 
 [LinkedIn Event](https://www.linkedin.com/events/6819793254716989440/)
-
-# July 27th
-
-## How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea
-
-
-[![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
-
 
 # August 5th
 
