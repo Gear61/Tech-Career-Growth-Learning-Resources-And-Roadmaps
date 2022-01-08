@@ -11,8 +11,12 @@
   * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
 * February 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
+* February 20th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
+* February 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Learn Quickly In The Tech Industry](#how-to-learn-quickly-in-the-tech-industry)
 * [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
-   * [How To Learn Quickly In Tech"](#how-to-learn-quickly-in-tech)
+   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech)
    * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
    * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
    * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
@@ -155,31 +159,33 @@ On a side note, notion is supposedly a great note taking tool: https://www.notio
 
 [LinkedIn Event](https://www.linkedin.com/events/6766888028293214208/)
 
-## How To Learn Quickly In Tech"
-1. Don't be afraid to ask questions
-    a. If there's a metric you should judge yourself against in your first 2 months on a new team, it's how many questions you ask.
-    b. It is not a sign of strength to "tough it out" and figure out a complex thing on your own after several days/weeks when you can figure it out in just 30 minutes by asking someone for help. It is a sign of weakness to do this as you are afraid to confront your own weaknesses. Conversely, it is a sign of emotional strength to be vulnerable and share this with someone else, asking them for help.
-    c. There is no such thing as a stupid question. Don't fret too much about the optics of your question and just ask!
-    d. In the end, you will "feed back into" the balance as you will eventually reach a point where you are the one answering questions. By helping foster a truly open culture where anybody is comfortable asking or answering a question, you set up your entire team for success.
-2. Ask effective questions
-    a. In general, try to unblock yourself for 15-30 minutes before asking a question, a few hours tops. You just want to avoid the nightmare scenario from before where you just bang your head against a wall for days/weeks.
-    b. Explain where you are now. Detail what you tried already and what outcome it produced. You should have this from the 15-30 minutes of work mentioned before. Your goal here is to cut out the wasteful feedback loops where you go to someone and they ask if you have already done some pretty obvious thing (which you should have done in that 15-30 minutes).
-    c. Be polite - Make it clear that you respect the answerer's time by including phrases like "Whenever you get a moment" and "If you're too busy, no worries if you can't answer". Always thank the answerer, even if they didn't give you a complete answer or any answer at all. Remember, the answerer gifted you their most valuable resource: Time.
-    d. Attach resources - Screenshot, stack traces, actual code: Doesn't matter what it is, just attach it to your question. A picture (or code snippet) is worth 1,000 words.
-3. Work backwards from where you want to be
-    a. When you focus only on what you already have and are now, it's easy to get tunnel vision, lose sight of the bigger picture, and fall into a reactive state. When you're just starting a project, it's also common to just feel helpless when you're only thinking of where you are now because you simply have nothing.
-    b. By working backwards and envisioning every single piece that needs to fall into place, it forces you to have a holistic view of the system. From there, you can break the overall system into components and then talk to the proper POC for each component to get a high-level overview of the entire system, putting you well on your way towards becoming a lead in that space.
-
-Here's also a very tactical "playbook" to becoming familiar in a new team:
-[A Career Cold Start Algorithm" from Andrew Bosworth, a Facebook VP](https://boz.com/articles/career-cold-start)
-
-[LinkedIn Event]()
-
 ## How To Build A Successful Startup
 Recap of the session with @Clarence Chio, the founder of Unit21, a security startup that's funded by Google and recently secured its Series A:
 * You must talk to customers and understand what product to build. You cannot build your way to a solution in a startup. Put in a very concrete way, building actually comes last.
 * You will likely be very bad at hiring and managing a team as a first time founder. Find a coach who can help you get better, and be prepared to learn on the job.
 * Finding a community of like-minded people is important for finding a cofounder and committing to a startup. Clarence was part of South Park Commons for example, a community of domain experts where everyone can jam on ideas together.
+
+[LinkedInEvent](https://www.linkedin.com/events/6766892651678724096/)
+
+## How To Learn Quickly In The Tech Industry
+* Don't be afraid to ask questions
+  * If there's a metric you should judge yourself against in your first 2 months on a new team, it's how many questions you ask.
+  * It is not a sign of strength to "tough it out" and figure out a complex thing on your own after several days/weeks when you can figure it out in just 30 minutes by asking someone for help. It is a sign of weakness to do this as you are afraid to confront your own weaknesses. Conversely, it is a sign of emotional strength to be vulnerable and share this with someone else, asking them for help.
+  * There is no such thing as a stupid question. Don't fret too much about the optics of your question and just ask!
+  * In the end, you will "feed back into" the balance as you will eventually reach a point where you are the one answering questions. By helping foster a truly open culture where anybody is comfortable asking or answering a question, you set up your entire team for success.
+* Ask effective questions
+  * In general, try to unblock yourself for 15-30 minutes before asking a question, a few hours tops. You just want to avoid the nightmare scenario from before where you just bang your head against a wall for days/weeks.
+  * Explain where you are now. Detail what you tried already and what outcome it produced. You should have this from the 15-30 minutes of work mentioned before. Your goal here is to cut out the wasteful feedback loops where you go to someone and they ask if you have already done some pretty obvious thing (which you should have done in that 15-30 minutes).
+  * Be polite - Make it clear that you respect the answerer's time by including phrases like "Whenever you get a moment" and "If you're too busy, no worries if you can't answer". Always thank the answerer, even if they didn't give you a complete answer or any answer at all. Remember, the answerer gifted you their most valuable resource: Time.
+  * Attach resources - Screenshot, stack traces, actual code: Doesn't matter what it is, just attach it to your question. A picture (or code snippet) is worth 1,000 words.
+* Work backwards from where you want to be
+  * When you focus only on what you already have and are now, it's easy to get tunnel vision, lose sight of the bigger picture, and fall into a reactive state. When you're just starting a project, it's also common to just feel helpless when you're only thinking of where you are now because you simply have nothing.
+  * By working backwards and envisioning every single piece that needs to fall into place, it forces you to have a holistic view of the system. From there, you can break the overall system into components and then talk to the proper POC for each component to get a high-level overview of the entire system, putting you well on your way towards becoming a lead in that space.
+
+Here's also a very tactical "playbook" to becoming familiar in a new team:
+[A Career Cold Start Algorithm" from Andrew Bosworth, a Facebook VP](https://boz.com/articles/career-cold-start)
+
+[LinkedIn Event](https://www.linkedin.com/events/6769366496738185216/)
 
 ## How To Ace Your Tech Interview
 **Overall Approach**
