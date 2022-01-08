@@ -25,8 +25,8 @@
   * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
 * March 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
-* [April 10th](#april-10th)
-   * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
+* April 10th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
 * [May 01th](#may-01th)
    * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
 * [May 16th](#may-16th)
@@ -283,8 +283,6 @@ The path can be demoralizing if you’re self-taught. Believe in yourself and fi
 
 [LinkedIn Event](https://www.linkedin.com/events/6779125429795205120/)
 
-# April 10th
-
 ## How To Build Side Project Apps With 100k+ Users (For Free!)
 Huge thanks to the ~175 of you who showed up for the session today. In case you missed it (or if you just want something for your notes), here's the recap for the session:
 
@@ -319,6 +317,7 @@ Huge thanks to the ~175 of you who showed up for the session today. In case you 
 * There is a lot of value in simply doing something better than everybody else. That’s actually what most successful tech companies are (look at WhatsApp). It is pretty rare for something to be successful merely because of the raw innovation behind the idea.
 * It took 3 months before Random Name Picker moved out of single digit downloads per day.
 * True value comes from what you can’t simply find within an online tutorial. Growing a product and the community that blossoms around it fall into this category.
+
 **Provide 6 Stars out of 5 service**
 * This is how Brian Chesky started Airbnb: In the beginning, it is so crucial that your initial users don’t just like you and your product but that they love it. Chesky achieved this by imagining what 5 star service would be and then going 1 step beyond.
 * Some examples of Airbnb doing this: Visiting every single one of their first 100 users. Taking professional photos for them. Alex does this by responding to every single review and feedback email for an app he cares about until 1,000 reviews (which ends up being 25-50k downloads).
@@ -330,6 +329,8 @@ Huge thanks to the ~175 of you who showed up for the session today. In case you 
 For those of you who missed the session but wanted to attend it - Don't worry, we will probably give it again in a few months. For future sessions, just make sure you check out the #general channel every once in a while or follow the LinkedIn community: https://www.linkedin.com/company/techcareergrowth/. 
 
 Have an amazing weekend everyone! 
+
+[LinkedIn Event](https://www.linkedin.com/events/6781726576129253376/)
 
 # May 01th
 
