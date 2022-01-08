@@ -37,6 +37,8 @@
   * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
 * July 9th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
+* July 17th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
 * [July 17th](#july-17th)
 * [July 22th](#july-22th)
    * [how to advance your career faster through promotions!](#how-to-advance-your-career-faster-through-promotions)
@@ -638,9 +640,9 @@ The session from this evening about time management was so much fun!
 
 [LinkedIn Event](https://www.linkedin.com/events/6807069050255106048/)
 
-# July 17th
-
+# How To Ace Your Big Tech Interview With Data Structures And Algorithms
 Hey everyone, thanks so much for your support for the earlier session today about interviewing for Big Tech, specially on the DSA portion. As usual, here's a thorough session recap for those who missed it or just want something for your notes.
+
 **The Mental Game**
 * Progress with DSA will be exponential. You will struggle in the beginning for a long time. You will eventually hit an inflection point where you start recognizing patterns and finally feel like you’re making real progress. Hang in there.
 * Sometimes it’s not clear what steps you need to take to achieve a goal. For example, I used to have a goal of making at least one code change in a project everyday (Github commit streak). There’s nothing inherently wrong with this, but if the higher-level objective is to build a startup, a goal of writing code everyday is unlikely to be the best measure of progress.
@@ -654,6 +656,7 @@ Hey everyone, thanks so much for your support for the earlier session today abou
 * Turn it into a habit like exercise. DSA is not meant to be done in giant bursts.
 * Do not cram! Relax before the interview instead. It is crucial that your mental state is nimble going into DSA rounds. You will likely get a problem you haven’t seen before.
 * Don’t view the opportunity as make or break. Treat it as much as any other day; Alex views all his interviews as just a chance to chat with some cool tech people. The less you care about the interview, the less stressed out you are. It’s okay if you will; there will be more chances.
+
 **Preparation**
 * Just buy Leetcode Premium - We all love to save money, but Leetcode Premium is a no brainer if you are interviewing with any big company. Even if it only increases your chances of getting an offer by 5%, that’s a 5% higher chance for a job paying 100k+.
     * What to expect:
@@ -663,12 +666,14 @@ Glassdoor is an extremely valuable resource with Big Tech as its usefulness scal
 * If possible, use a compact, efficient language like Python/JavaScript since time control is crucial during DSA rounds. Avoid very verbose languages like C/C++.
 * You are looking to learn patterns, not individual solutions. 80%+ of DSA problems fall within ~15 different core patterns. Don’t try to memorize individual solutions for everything; that is not scalable. You will also have to memorize some solutions for the really tricky hards; if you’re memorizing for easy/medium as well, you will quickly run out of brain space.
 * Extensively write comments on the problems you solve; in particular, try to capture the key to the problem (e.g. sort the list and then use sliding window). You want to be able to convert keys to problems into all the code needed for the solution vs. remembering the code itself.
+
 **Communication**
 * The bigger the company, the more soft skills are valued. In particular, great communication skills are crucial.
 * With Big Tech, it isn’t only about the right answer. It’s also about how you got to that answer (i.e. how well did you communicate with the interviewer).
 * Interview process at Big Tech is streamlined and efficient. Interviewer is trained to get as much good signal from the candidate as possible. This means they want to collaborate with you. Relationship is bidirectional (you work together with interviewer) instead of unidirectional (you quietly solve the problem on your own and are then judged afterwards)
 * Listen carefully to what the interviewer says. They may be trying to help you, especially when you have tunnel vision.
 * 5 min+ of silence = bad. Don’t just write code in silence, especially as the language you’re using may not be the primary language of the interviewer.
+
 **Process**
 * Ask questions to clarify the scope of the problem
 * Explain your overall approach to the problem
@@ -685,7 +690,10 @@ Glassdoor is an extremely valuable resource with Big Tech as its usefulness scal
 * Understand how to come up with good test cases (i.e. extreme/wonky inputs)
 
 I also recently wrote a massive LinkedIn post sharing a bunch more resources related to interviewing and Big Tech (including the slides we used), which you can find here: https://www.linkedin.com/posts/activity-6822250780913991680-gehC
-LinkedIn is the main way we get the word out about this community, so any support on the LinkedIn would be appreciate. Have an amazing weekend everyone
+
+LinkedIn is the main way we get the word out about this community, so any support on the LinkedIn would be appreciate. Have an amazing weekend everyone!
+
+[LinkedIn Event](https://www.linkedin.com/events/6815075152741695488/)
 
 # July 22th
 
