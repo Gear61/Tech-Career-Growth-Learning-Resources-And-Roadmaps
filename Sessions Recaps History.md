@@ -17,8 +17,10 @@
   * [How To Learn Quickly In The Tech Industry](#how-to-learn-quickly-in-the-tech-industry)
 * March 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
-* [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
-   * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
+* March 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
+* March 11th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
 * [March 18th](#march-18th)
    * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
 * [March 27th](#march-27th)
@@ -237,6 +239,8 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 1. If you like growing people, consider becoming a manager. This is something introverts can be good at too as a lot of management is deep 1:1 connection.
 2. If you like connecting and empowering people but want to stay within the code, you can become a tech lead.
 3. If you like deep tech work as a lone wolf, you can become a technical specialist. Big companies are generally better for these kinds of engineers.
+
+[LinkedIn Event](https://www.linkedin.com/events/6774100246692802560/)
 
 # March 18th
 
