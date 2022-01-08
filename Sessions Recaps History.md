@@ -43,14 +43,8 @@
   * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
 * August 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Answering Your Top 5 Questions](#answering-your-top-5-questions)
-* [August 5th](#august-5th)
-   * [Answering to the Top 5 questions](#answering-to-the-top-5-questions)
-   * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
-   * [How to Balance Your Time Between Your Job And Self Learning](#how-to-balance-your-time-between-your-job-and-self-learning)
-   * [How do you prepare the perfect portfolio to get discovered by recruiters?](#how-do-you-prepare-the-perfect-portfolio-to-get-discovered-by-recruiters)
-   * [As a software engineer, should you learn new technology with breadth or depth?](#as-a-software-engineer-should-you-learn-new-technology-with-breadth-or-depth)
-* [August 28th](#august-28th)
-   * [how to write a tech resume that gets you more opportunities](#how-to-write-a-tech-resume-that-gets-you-more-opportunities)
+* August 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+   * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-tech-resume-that-gets-you-more-job-opportunities)
 * [August 30th](#august-30th)
    * [How To Have The Proper Mindset In Big Tech Software Engineering Interviews](#how-to-have-the-proper-mindset-in-big-tech-software-engineering-interviews)
 * [September 5th](#september-5th)
@@ -813,15 +807,14 @@ We will try to publish our responses as videos as soon as possible. Since a lot 
 
 [LinkedIn Event](https://www.linkedin.com/events/6821285790581190656/)
 
-# August 28th
-
-## how to write a tech resume that gets you more opportunities
-
+## How To Write A Stellar Resume That Gets You More Job Opportunities
 Today was our session about how to write a tech resume that gets you more opportunities. Main points we touched on:
+
 **Meta**
     * Remember that a recruiter will be reading a resume. Two important things to keep in mind are (1) They are non-technical and (2) They don’t have a lot of time (7.4 seconds on average) to read your resume.
     * Recruiters make 3 piles of resumes: yes, no, maybe. Your goal is very simply avoid the “no” pile, and ideally get into the yes pile. Our advice is fairly straightforward - be weary of anyone charging you for money to create a “fancy” resume.
     * Especially for junior engineers, having a clear resume is essential. The top tech giants will have hundreds of applicants. Look at your completed resume and check that it’s clear, and ideally, contains something unique + impressive.
+
 **Keep It Short And Focused**
     * Rule of thumb: 1 page max for every 5 years of experience. In general, strive to have a 1-pager resume. Alex’s resume is only 1 page despite having ~7 years of experience.
     * Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
@@ -830,11 +823,13 @@ Today was our session about how to write a tech resume that gets you more opport
     * Watch your spacing!
         * Keep whitespace separations reasonable
         * Look for “dangling” newlines where you just have a few words on an entire line all by themselves.
+
 **Spelling And Grammar Matter**
     * Your resume should not have spelling/grammar mistakes.
     * Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page. If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
     * Take advantage of free tools like Grammarly that help you with this.
     * If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
+
 **Show, Don’t Tell**
 * This is the concept that people struggle with the most, and it is arguably the most important idea to master.
 * Everybody wants to and can say that they’re a good engineer. In order to stand out, you must show that you’re a good engineer.
@@ -843,13 +838,16 @@ Today was our session about how to write a tech resume that gets you more opport
     * Avoid brag summary sections, things like “fast learner” or “team player”
     * Don’t self-rate your skills or familiarity in a technology
     * Deploy projects to prod and link that - A GitHub repo has little value to a recruiter!
+
 **Resume Before and After**
     * Putting technologies next to job is good since it contextualizes what you did
     * Focus on business impact. Customers don’t care about the tech, they care about getting something done.
+
 **Have Basic Organization**
 * column is optimal to reduce cognitive load. 2     columns is also doable, and everything above that is too much. Everyone reads top to bottom - put important things first.
 * Have clear sections with dividers.
 * Avoid lengthy paragraphs. Split them up into punchy bullet points.
+
 **Most Practical --> Least Practical**
 * For software engineers, companies want to know the answer to the following question: Can this person ship code in a professional, production environment?
 * Go-to ordering working backwards from this question (after skills overview section):
@@ -858,6 +856,7 @@ Today was our session about how to write a tech resume that gets you more opport
 * Education (this is generally higher than it should be):
     * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
     * Bootcamps - More on the practical side, but too   short and work is often very “tech-demo-ey” so not a real production environment
+
 **FAQ**
 * Should I include my work experience if it’s not in the software industry? 
     * Yes, it’s typically worthwhile to include “Irrelevant experience”, especially if you’re earlier in your career 
@@ -868,10 +867,13 @@ Today was our session about how to write a tech resume that gets you more opport
 * Should I customize my resume for each job I’m applying to? 
     * In general, this is not worth the time
     * There may be value if the companies you’re applying to are meaningfully different.
+
 **Conclusion**
 * This session is about optimizing presentation, not the content itself. You can think of these resume tips as the “dressing” around your professional “core”, which is what you have actually accomplished. If your core is weak, you will have a hard time getting job opportunities - No amount of dressing will fix this.
 * If you aren’t getting the job opportunities you want due to a lack of experience or clout from top tech companies on your resume, you should build personal projects
 * People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. That’s our next session on Oct 2: https://www.linkedin.com/events/howtobuildandgrowtechproductsto6835076235345956864/
+
+[LinkedIn Event](https://www.linkedin.com/events/6824212767390756864/)
 
 # August 30th
 
