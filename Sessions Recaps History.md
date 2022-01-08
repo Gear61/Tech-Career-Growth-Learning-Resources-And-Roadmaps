@@ -23,8 +23,8 @@
   * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
 * March 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
-* [March 27th](#march-27th)
-   * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
+* March 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
 * [April 10th](#april-10th)
    * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
 * [May 01th](#may-01th)
@@ -242,8 +242,6 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 
 [LinkedIn Event](https://www.linkedin.com/events/6774100246692802560/)
 
-# March 18th
-
 ## Using Content Creation To Boost Your Tech Skills
 1. **There are a ton of benefits to technical content creation**
     * Teaching forces you to learn. You’ll be able to communicate a concept clearly when you understand it well.
@@ -266,14 +264,14 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 
 [Linked Event](https://www.linkedin.com/events/6775847302641938432/)
 
-# March 27th
-
 ## Succeeding as a Self Taught Dev/Bootcamp Grad
+Thanks to special guest [@Kris](https://www.linkedin.com/in/khristinasar/) for joining us!
+
 1. Studying
     * Know what type of SWE you want to become, e.g. front-end, back-end, automation engineer, etc.
     * Pick the best studying option for yourself: studying on your own or going to a boot camp. The answer here depends on how much help/mentorship you can get on your own, and how much you want the structure of a bootcamp.
     * Learn everything you need to know to land the job you want.
-2. Apply for jobs is a numbers game: the more you apply, the higher your chances.   * It’s easy to apply for many jobs through sites like LinkedIn or AngelList. Find a referral if you can. Try to stand out from other applicants with your projects.
+2. Applying for jobs is a numbers game: the more you apply, the higher your chances. It’s easy to apply for many jobs through sites like LinkedIn or AngelList. Find a referral if you can. Try to stand out from other applicants with your projects.
 3. Passing the interview
     * Study common algorithm patterns and practice on sites like LeetCode.
     * Prepare for all kinds of interviews - technical, behavioral, company fit.
@@ -283,6 +281,7 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 
 The path can be demoralizing if you’re self-taught. Believe in yourself and find motivation from other successful devs with a similar background. You will succeed!! 
 
+[LinkedIn Event](https://www.linkedin.com/events/6779125429795205120/)
 
 # April 10th
 
