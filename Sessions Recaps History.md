@@ -97,16 +97,16 @@ Our recap for this first session was actually quite brief as this was before the
   * This is the #1 most important thing about promotion if you're only going to retain 1 thing from this recap, make it this.
   * You can only scale output so much as you are limited by the number of hours in a day and how much you can push your body/mind before it burns out.
   * Senior engineers are senior because they add multiplicative value, not additive. They build solutions that help broad swaths of people across the company, not 1-off implementations for random features that junior engineers are often saddled with.
-2. Perception matters. Acting altruistically will give you a higher chance of promotion
-    a. In the end, you always work on a team. Don't be someone who only cares about promotion as this will lead to toxic and territorial behavior that ultimately hurts your chances of promotion.
-2. Engineers become more senior because they increase their scope, helping and empowering more people across the company. You can't do this if you act in a selfish way.
-3. Proper self-presentation is crucial
-    a. In an ideal world, your manager and everyone in your reporting chain would automatically know all the hard work you did and you'll get promoted every time you deserve it. That is not the case, especially in a fast-moving, chaotic company (which most top tech companies like Facebook are).
-    b. At Facebook, there is something called the "self-review" where you laid out everything major you did and the impact you had in an organized way. If the company doesn't force you to do this, you should just do it yourself whenever it's promo season.
-    c. It is immensely helpful to keep a running journal of everything you did each week, so you don't need to claw back 6-12 months into the past every promo cycle.
-4. Switching companies is a powerful lever
-    a. Companies are not exactly pure engines of goodwill, even top tech companies like Facebook.
-2. Often times you will be kept stagnant in your current job due to some mix of stupid obstacles. In this scenario, keep finding a job at a different company in mind as a powerful option. If you're a good engineer and you do well on a company's interview, they need to sweeten the deal to make up for the friction of you leaving your current job to join them. This can end up being a promotion!
+* Perception matters. Acting altruistically will give you a higher chance of promotion
+  * In the end, you always work on a team. Don't be someone who only cares about promotion as this will lead to toxic and territorial behavior that ultimately hurts your chances of promotion.
+  * Engineers become more senior because they increase their scope, helping and empowering more people across the company. You can't do this if you act in a selfish way.
+* Proper self-presentation is crucial
+  * In an ideal world, your manager and everyone in your reporting chain would automatically know all the hard work you did and you'll get promoted every time you deserve it. That is not the case, especially in a fast-moving, chaotic company (which most top tech companies like Facebook are).
+  * At Facebook, there is something called the "self-review" where you laid out everything major you did and the impact you had in an organized way. If the company doesn't force you to do this, you should just do it yourself whenever it's promo season.
+  * It is immensely helpful to keep a running journal of everything you did each week, so you don't need to claw back 6-12 months into the past every promo cycle.
+* Switching companies is a powerful lever
+  * Companies are not exactly pure engines of goodwill, even top tech companies like Facebook.
+  * Often times you will be kept stagnant in your current job due to some mix of stupid obstacles. In this scenario, keep finding a job at a different company in mind as a powerful option. If you're a good engineer and you do well on a company's interview, they need to sweeten the deal to make up for the friction of you leaving your current job to join them. This can end up being a promotion!
 
 
 ## Evolving Your Job As Your Company Changes
