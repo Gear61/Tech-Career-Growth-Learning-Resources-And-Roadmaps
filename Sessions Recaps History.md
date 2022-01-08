@@ -33,10 +33,6 @@
   * [How To Become A 10x Engineer](#how-to-become-a-10x-engineer)
 * May 29th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
-* [June 13th](#june-13th)
-   * [Why You Should Be BORING With Your Tech Resume](#why-you-should-be-boring-with-your-tech-resume)
-* [June 17th](#june-17th)
-   * [THIS Is Why Your Resume Is Bad - Telling vs Showing](#this-is-why-your-resume-is-bad---telling-vs-showing)
 * [June 19th](#june-19th)
    * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
 * [June 29th](#june-29th)
@@ -279,7 +275,7 @@ Thanks to special guest [@Kris](https://www.linkedin.com/in/khristinasar/) for j
     * Negotiate your offers. There are many resources for this online, and we’ll likely have a session about it!
 4. After landing your first job, it’ll be much easier to land your next job. The lack of a CS degree won’t matter after your first job.
 
-The path can be demoralizing if you’re self-taught. Believe in yourself and find motivation from other successful devs with a similar background. You will succeed!! 
+The path can be demoralizing if you’re self-taught. Believe in yourself and find motivation from other successful devs with a similar background. You will succeed!!
 
 [LinkedIn Event](https://www.linkedin.com/events/6779125429795205120/)
 
@@ -390,7 +386,7 @@ For future sessions, make sure you check out the #general channel every once in 
 
 [LinkedIn Event](https://www.linkedin.com/events/6787605251085217792/)
 
-## How To Become A 10x Engineer! 
+## How To Become A 10x Engineer
 Thanks for joining a tumultuous session yesterday about How To Become A 10x Engineer! Recap:
 
 **Outliers Are Uniquely Possible in Software**
@@ -505,7 +501,6 @@ Here is the session recap for today's session, "How To Write A More Effective Te
     * Startups will value customization/thoughtfulness more than big companies (who will barely care)
 
 **Concluding Meta Point**
-
 * In the end, this session is about optimizing presentation, not the content itself. You can think of these resume tips as the “dressing” around your professional “core”, which is what you have actually accomplished. If your core is weak, you will have a hard time getting job opportunities - No amount of dressing will fix this.
 * If you aren’t getting the job opportunities you want due to a lack of experience or clout from top tech companies on your resume, you should join us for our sessions on side projects, starting off with the next session after this one! Side projects are a lever that anybody can use to make their “core” extremely strong; let us teach you how!
 * People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. A tech company’s purpose is to ship a software product to thousands/millions of users. You can do the exact same thing via side projects.
@@ -514,24 +509,19 @@ Here are the slides we used as well:
 
 <a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
 
-[LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
+### YouTube Recaps
 
-# June 13th
-
-## Why You Should Be BORING With Your Tech Resume 
-
+#### Why You Should Be BORING With Your Tech Resume 
 Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below. Video :arrow_right: :movie_camera:
 
 [![ Why You Should Be BORING With Your Tech Resume ](img/session-recap/r-video-001.png)](https://www.youtube.com/watch?v=MByD2CTwfmM)
 
-
-# June 17th
-
-## THIS Is Why Your Resume Is Bad - Telling vs Showing
-
+#### THIS Is Why Your Resume Is Bad - Telling vs Showing
 Let's improve a resume by showing the business impact. We also talk about the importance of side projects - in tech you don't need "experience" since you can create your own.
 
 [![ THIS Is Why Your Resume Is Bad  ](img/session-recap/r-video-002.png)](https://www.youtube.com/watch?v=sDbK84GEE94)
+
+[LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
 
 # June 19th
 
@@ -552,7 +542,6 @@ It’s extremely fun and fulfilling.
 * Two dimensions to evaluate side projects are feasibility and excitement. We are always working on increasing our feasibility, but you can also improve your level of excitement. Train yourself to get excited by ideas by connecting it to a larger vision, and your (simple/small) project is a stepping stone toward that.
 
 **Think Small**
-
 * Solve for as small a problem as possible. This is a side project, not a full-blown startup.
     * The smaller it is, the more likely you are to actually publish something. Avoid “zombie projects”.
     * Publish something limited but focused and polished. From there, iterate on it. “Done is better than perfect”
@@ -560,7 +549,6 @@ It’s extremely fun and fulfilling.
 * Keep it local - You shouldn’t try to save the world and help billions of people with your side project. Solve for a problem that is within your life or a friend’s life. You’ll be more passionate about it, you’ll have a tighter feedback loop, and you’ll “succeed” even if your app doesn’t become huge. 
 
 **Keep The Tech Simple**
-
 * You have now identified a problem and are now envisioning an app that solves it.
 * There are 3 “levels” of product technical complexity:
     * Local utility apps - No back-end, no accounts, everything local to device.
@@ -570,7 +558,6 @@ It’s extremely fun and fulfilling.
 * “Level 3" projects are poor choices since the problem isn’t mainly technical anymore (people interacting with each other) and will have a huge BizDev (Business Development) component. 
 
 **Scout The Competition**
-
 * The idea is simple: Search for products already solving the problem you have and evaluate them.
     * If you’re building mobile apps, search the Google Play/Apple App store.
     * If you’re building a website, search Google.
@@ -580,13 +567,11 @@ It’s extremely fun and fulfilling.
     * The competition isn’t perfect. If you’re solving for a “Level 1” micro-problem, the competition almost certainly won’t be perfect.
 
 **Be Patient & Keep Trying**
-
 * It takes a while to come up with good ideas. Your first few ideas probably won’t be as big as you want them to be. That’s okay. Quantity over quality. 
 * Even good ideas will take a while to “blossom”. Random Name Picker was at single digit downloads for months.
 * “Plan to throw one away; you will anyhow” - Fred Brooks, The Mythical Man Month. Side projects have the beautiful characteristic that you are able to throw it away: no one has paid you in a contractual obligation, you understand the whole thing, there’s no communication overhead.
 
 **The Power Of Mobile**
-
 * Mobile has more opportunity than web as it’s newer and therefore has far less competition. If you want to maximize your chances of getting those 100k users, build for mobile.
 * For mobile, Android is far superior by virtue of having way more users than iOS (3-5x). I am consistently surprised by how many random apps can get 10-50k installs.
 * Impact is easier to gauge as the developer consoles give you all of that “for free”.
