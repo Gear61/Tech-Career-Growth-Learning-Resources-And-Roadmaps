@@ -33,10 +33,8 @@
   * [How To Become A 10x Engineer](#how-to-become-a-10x-engineer)
 * May 29th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
-* [June 19th](#june-19th)
-   * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
-* [June 29th](#june-29th)
-* [July 5th](#july-5th)
+* June 19th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
 * [July 10th](#july-10th)
    * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
 * [July 17th](#july-17th)
@@ -523,11 +521,7 @@ Let's improve a resume by showing the business impact. We also talk about the im
 
 [LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
 
-# June 19th
-
 ## How To Come Up With 100k+ Users App Ideas You Can Build For Free
-
-
 **Why Side Projects**
 * The point of a tech company is to ship software products to tons of users at scale. Side projects are the closest thing you can get to work experience without actually getting work experience. 
 * Side projects maximize learning, because software is inherently chaotic. You learn the most when you’re free-styling and don’t have guardrails (tutorial, certification, etc). 
@@ -535,7 +529,6 @@ Let's improve a resume by showing the business impact. We also talk about the im
 It’s extremely fun and fulfilling.
 
 **Look For Problems**
-
 * Work backwards from a problem. Don’t work forward from a trendy piece of technology (blockchain, computer vision) or an existing popular app, e.g. “Airbnb for X!”
 * We are living in the age of innovation - imperfections are opportunities. 
 * If some relatively small process seems just a tad frustrating or inefficient to you: Congratulations! You may have discovered a golden side project opportunity.
@@ -580,27 +573,30 @@ BTW, here is @Alex’s portfolio of published Android apps: :arrow_heading_down:
 
 <a href="https://play.google.com/store/apps/collection/cluster?clp=igM4ChkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDEhkKEzkwOTM0Mzg1NTM3MTMzODk5MTYQCBgDGAA%3D:S:ANO1ljK98hk&gsr=CjuKAzgKGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMSGQoTOTA5MzQzODU1MzcxMzM4OTkxNhAIGAMYAA%3D%3D:S:ANO1ljJDe_k"> <img  alt="slide" width="300" height="200" src="img/session-recap/recap-003.png"></a>
 
+### YouTube Recaps
 
-
-# June 29th
-
+#### How To Build Apps With 100k+ Users: Feasibility vs. Excitement
 The video covers a common misconception when it comes side projects: In order for something to be exciting, it has to be incredibly complex (and therefore not feasible). If something is feasible and simple, it is boring and not worth doing.
+
 This is 100% not the case: There is a lot of beauty in simplicity, and there are a ton of projects that are both very feasible and extremely exciting.
+
 Anyways, check out the video to figure out how you change your mental framework to start recognizing these kinds of ideas. These are the ideas that you can both easily build and get a ton of users for, supercharging your resume and unlocking amazing job opportunities.
 
-[![ How To Build Apps With 100k+ Users: Feasibility vs. Excitement  ](img/session-recap/video-june-29th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
+[![How To Build Apps With 100k+ Users: Feasibility vs. Excitement](img/session-recap/video-june-29th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
 
-
-# July 5th
-
+#### How to SUPERCHARGE Your Software Engineer Resume
 Howdy team - Addy Hebou here! I’ve been creating the video snippets and the logo design from the sessions that Alex & Rahul put on, so I’ll be posting here occasionally with new videos - starting with this one!
+
 Have you ever heard of the expression “you can put all the makeup on a pig, but it still doesn’t make it pretty”?
+
 It’s the same way with tech resumes - without enough experience, it’s hard to display substance in a resume. So what’s the best way to gain that substance? To make that content? You guessed it - side projects.
+
 Especially for those with low experience, side projects are arguably the #1 alternative to display experience outside of employment. Projects that can generate hundreds, even thousands of users monthly, project to employers that you know how to program to gain customers, which is crucial for companies.
 Check out all that Rahul Pandey and Alex Chiou have to emphasize about the importance of side projects here: https://lnkd.in/dQK2Utb
 
-[![ How to SUPERCHARGE Your Software Engineer Resume ](img/session-recap/video-july-5th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
+[![How to SUPERCHARGE Your Software Engineer Resume](img/session-recap/video-july-5th.png)](https://www.youtube.com/watch?v=6vDwkELh4CQ)
 
+[LinkedIn Event](https://www.linkedin.com/events/6801549135905464320/)
 
 # July 10th
 
