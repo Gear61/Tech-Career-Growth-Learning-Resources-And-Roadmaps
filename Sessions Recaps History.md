@@ -46,8 +46,7 @@
 * August 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
 * October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-   * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k+-users-for-free)
-* [October 2th](#october-2th)
+   * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
 * [October 3th](#october-3th)
    * [How To Truly Master A Data Structures &amp; Algorithms Problem](#how-to-truly-master-a-data-structures--algorithms-problem)
 * [October 6th](#october-6th)
@@ -937,7 +936,7 @@ Thanks to everyone who joined us today about building + growing personal project
 
 **Growing The Product And User Base**
 
-** Eat Your Own Dogfood
+**Eat Your Own Dogfood**
 * The most important user of your product is you
 * If you don’t use your own product, it is hard to build user empathy as you’re not going through the pain yourself
 * In the beginning, your product will feel clunky, both due to a lack of features and inefficiencies with your core flow. Dogfooding empowers you to fix this.
