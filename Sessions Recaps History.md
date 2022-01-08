@@ -599,11 +599,13 @@ Check out all that Rahul Pandey and Alex Chiou have to emphasize about the impor
 [LinkedIn Event](https://www.linkedin.com/events/6801549135905464320/)
 
 ## How To Manage Your Time Optimally In Tech And Achieve More Results
-The session from this evening about time management was so much fun! “How To Manage Your Time Optimally In Tech And Achieve More Results”:
+The session from this evening about time management was so much fun!
+
+**Key Points**
 * You can’t create more time like can create more of other resources. It’s worth thinking about how you spend your time, and consequently, your life.
 * Focus on your system. This is the most important point we covered. Your willpower to do things will change day-to-day, but your framework doesn’t. Create a system that makes it easy to do the right thing and hard to do the wrong thing (procrastinate).
+* We covered 5 pillars of an effective time management system, covered below.
 
-* We covered 5 pillars of an effective time management system:
 **One Big Thing**
 * Establish exactly one thing which must get done the next day. Write it down so it’s out of your head. 
 * Calibrate the size of the task to ensure you can get it done in the next day.
