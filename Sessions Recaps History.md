@@ -31,8 +31,8 @@
   * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
 * May 15th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Become A 10x Engineer](#how-to-become-a-10x-engineer)
-* [May 29th](#may-29th)
-   * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
+* May 29th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
 * [June 13th](#june-13th)
    * [Why You Should Be BORING With Your Tech Resume](#why-you-should-be-boring-with-your-tech-resume)
 * [June 17th](#june-17th)
@@ -435,10 +435,7 @@ Adding on to the above, here's an extended version of the slides we used for the
 
 [LinkedIn Event](https://www.linkedin.com/events/6794742587510140928/)
 
-# May 29th
-
 ## How To Write A More Effective Tech Resume To Get More Job Opportunities
-
 Here is the session recap for today's session, "How To Write A More Effective Tech Resume To Get More Job Opportunities":
 
 **Meta Points**
@@ -453,7 +450,6 @@ Here is the session recap for today's session, "How To Write A More Effective Te
     * Be wary of sites that charge you for fancy resume templates - They are generally harder to read and will likely hurt you instead of help
 
 **Keep It Short And Focused**
-
 * Rule of thumb: 1 page tops for every 5 years of experience. In general, strive to have a 1-pager resume.
 * Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
 * Resumes often have a skills overview section (this is useful to quickly signal to recruiters what stacks you have experience in), and you should be very, very careful about what you put here. Don’t just put down anything you have ever worked with.
@@ -464,14 +460,12 @@ Here is the session recap for today's session, "How To Write A More Effective Te
     * Look for “dangling” newlines where you just have a few words on an entire line all by themselves. Try to shrink this point or add more “meat” to it
 
 **Spelling And Grammar Matter**
-
 * Your resume should have 0 obvious spelling/grammar mistakes. This is one of the easiest ways recruiters toss out resumes.
 * Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page (most of the time). If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
 * Take advantage of free tools like Grammarly that help you with this.
 * If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
 
 **Show, Don’t Tell**
-
 * Meta-point: This is the concept that people struggle with the most, and it is arguably the most important idea to master.
 * Everybody wants to and can say that they’re a good engineer. In order to stand out, you must show that you’re a good engineer.
 * You do this by capturing the impact of your accomplishments (i.e. what is the delta you produced) and dictating it in a very concise, accessible way (remember, a recruiter is reading your resume!).
@@ -483,8 +477,7 @@ Here is the session recap for today's session, "How To Write A More Effective Te
     * Don't include personal info like your picture (save that for LinkedIn) and try not to tell your entire life story in general
 
 **Have Basic Organization**
-
-* column is optimal to reduce cognitive load. 2 columns is also doable, and everything above that is too much.
+* 1 column is optimal to reduce cognitive load. 2 columns is also doable, and everything above that is too much.
 * Have clear sections with dividers.
 * Avoid lengthy paragraphs. Split them up into punchy bullet points.
 
@@ -521,6 +514,7 @@ Here are the slides we used as well:
 
 <a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
 
+[LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
 
 # June 13th
 
