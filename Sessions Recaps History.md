@@ -21,8 +21,8 @@
   * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
 * March 11th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
-* [March 18th](#march-18th)
-   * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
+* March 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
 * [March 27th](#march-27th)
    * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
 * [April 10th](#april-10th)
@@ -245,14 +245,13 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 # March 18th
 
 ## Using Content Creation To Boost Your Tech Skills
-
 1. **There are a ton of benefits to technical content creation**
     * Teaching forces you to learn. You’ll be able to communicate a concept clearly when you understand it well.
     * Content creation will lead to improving your communication and presentation skills. This becomes increasingly important as you become more senior as a tech lead or manager- your job is about influence. 
     * Creating content will naturally lead to developing your brand, which will lead to speaking opportunities or jobs.
     * More broadly, your content will give you the opportunity to “find serendipity” - people are better able to connect you with opportunity.
     * You have the ability to help people, especially if you put your content on a platform where you can get searched or recommended (YouTube/Medium).
-2. **Our best advice to get started:**
+2. **Our best advice is to just get started:**
     * Focus on quantity over quality. Rather than spending too much time on making perfect content, make content that’s good enough and hit the publish button. The more content you make, the better you’ll get, simply in the process of doing. 
     * Don’t worry about judgment from friends or family. You’re almost certainly overestimating how much they care and/or how much time they’ll spend on you.
     * Don’t be discouraged if no one consumes your content. Trust the process- due to the nonlinear nature of these digital platforms, you can create 50 pieces of content, and then the 51st will be watched/read more than everything prior.
@@ -264,6 +263,8 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
     * Your own blog: preferred if you’re writing more for yourself. You can cross post content to Medium. For discovery, you’ll have to rely on Google SEO which takes a long time. 
     * Other platforms: LinkedIn, Twitter, Clubhouse, TikTok. Do them if you enjoy them, but it’s really hard to create a “portfolio” of high quality content, and it may be harder to stand out.
     * I picked YT since it combines 3 skills: technical competency, communication ability, and video editing. The combination of all 3 is quite rare, which makes the content more valuable.
+
+[Linked Event](https://www.linkedin.com/events/6775847302641938432/)
 
 # March 27th
 
