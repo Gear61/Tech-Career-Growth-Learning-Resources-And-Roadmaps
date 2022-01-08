@@ -15,11 +15,9 @@
   * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
 * February 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Learn Quickly In The Tech Industry](#how-to-learn-quickly-in-the-tech-industry)
+* March 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
 * [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
-   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech)
-   * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
-   * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
-   * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
    * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
 * [March 18th](#march-18th)
    * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
@@ -211,7 +209,8 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 1. If you are coding, you are failing. You should be drawing boxes with arrows.
 2. You can easily prepare for these by learning how major products are built at a high-level. These companies often times have engineering blogs where they explain this. Read them.
 3. There is no right answer with these questions. What's important is that you have a deep understanding of pros and cons of all the different approaches.
-interviewing.iointerviewing.io
+
+[LinkedIn Event](https://www.linkedin.com/events/6771179650782777344/)
 
 ## Choosing Your Path As A Software Engineer
 
