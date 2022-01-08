@@ -45,12 +45,8 @@
   * [Answering Your Top 5 Questions](#answering-your-top-5-questions)
 * August 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
-* [August 30th](#august-30th)
-   * [How To Have The Proper Mindset In Big Tech Software Engineering Interviews](#how-to-have-the-proper-mindset-in-big-tech-software-engineering-interviews)
-* [September 5th](#september-5th)
-   * [How You Properly Learn Data Structures and Algorithms (DSA)](#how-you-properly-learn-data-structures-and-algorithms-dsa)
-* [September 21th](#september-21th)
-   * [How to Mentally Prepare for Your Tech Interview](#how-to-mentally-prepare-for-your-tech-interview)
+* October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+   * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k+-users-for-free)
 * [October 2th](#october-2th)
 * [October 3th](#october-3th)
    * [How To Truly Master A Data Structures &amp; Algorithms Problem](#how-to-truly-master-a-data-structures--algorithms-problem)
@@ -204,7 +200,6 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 [LinkedIn Event](https://www.linkedin.com/events/6771179650782777344/)
 
 ## Choosing Your Path As A Software Engineer
-
 **Discovering Your Passion**
 1. You’re not born with a passion - it’s something you work on and cultivate over time.
 2. Experiment early on in your career when you can handle the chaos. It’s easier to experiment at large companies since they have the infrastructure to support engineers shifting around. 
@@ -905,56 +900,65 @@ Today was our session about how to write a tech resume that gets you more opport
 
 [LinkedIn Event](https://www.linkedin.com/events/6824212767390756864/)
 
-# October 2th
-
+## How To Build And Grow Tech Products To 500k+ Users For Free
 Thanks to everyone who joined us today about building + growing personal projects with 500K+ users! Session recap:
 **We are extremely bullish on personal projects.**
-    * They can be just as valuable  (or more) as work experience if you get users
-    * Best non-professional learning, you’re creating “business impact” on your own
-    * Personal projects can help many people, it’s impactful work
-    * Showing off your interests can unlock career paths
-    * Hacking on stuff is fun + fulfilling
+* They can be just as valuable  (or more) as work experience if you get users
+* Best non-professional learning, you’re creating “business impact” on your own
+* Personal projects can help many people, it’s impactful work
+* Showing off your interests can unlock career paths
+* Hacking on stuff is fun + fulfilling
+    
 **Minimum Viable Product**
+
 **Just 1 Thing**
-    * A good initial product is something that solves a specific user problem in a hyper-targeted way. Keep it simple, focused, and polished.
-    * Your goal is to have as few features as possible
-    * Go for depth over breadth. It’s far better to have 1 feature with extremely high quality vs. several with average to low quality.
-    * It’s ok if you want to do more, plan out your vision in terms of phases, and be clear about which phase you’re working on.
-    * Features you might not need: login/signup, a back-end, or a marketplace
+* A good initial product is something that solves a specific user problem in a hyper-targeted way. Keep it simple, focused, and polished.
+* Your goal is to have as few features as possible
+* Go for depth over breadth. It’s far better to have 1 feature with extremely high quality vs. several with average to low quality.
+* It’s ok if you want to do more, plan out your vision in terms of phases, and be clear about which phase you’re working on.
+* Features you might not need: login/signup, a back-end, or a marketplace
+
 **Quality Is Key. And Difficult.**
-    * With the software boom, effectively every original idea has been exhausted. Innovation is overrated, execution is underrated
-    * Create apps with the highest quality, which is best for your learning and will get you more users.
-    * Think through the edge cases (Random Name Picker example: empty state, invalid input, deleting names, etc)
-    * Angry users are very loud
+* With the software boom, effectively every original idea has been exhausted. Innovation is overrated, execution is underrated
+* Create apps with the highest quality, which is best for your learning and will get you more users.
+* Think through the edge cases (Random Name Picker example: empty state, invalid input, deleting names, etc)
+* Angry users are very loud
+
 **Least Clicks Design**
-    * If there’s 1 design concept to remember, it’s this: Minimize the amount of clicks it takes for the user to do your core action.
-    * Less than 3 clicks and/or 5 seconds to do the core user flow
-    * Make sure “90%” flow is always fast - push complexity behind menus like bottom sheet
+* If there’s 1 design concept to remember, it’s this: Minimize the amount of clicks it takes for the user to do your core action.
+* Less than 3 clicks and/or 5 seconds to do the core user flow
+* Make sure “90%” flow is always fast - push complexity behind menus like bottom sheet
+
 **Free Is Powerful**
-    * 2 core types of free: Product itself is free and there’s no ads (i.e. ad-free)
-    * People love free. If you’re building a product to strengthen your portfolio, learn, have fun, help people, and unlock job opportunities, you should leverage that as a superpower. Make your product, at least initially, free and ad-free.
-    * There are so many product spaces dominated by hucksters trying to nickel-and-dime people with ad-infested apps.
-    * You need your initial users to love your app, and that is very difficult to do if it’s paid or has ads.
+* 2 core types of free: Product itself is free and there’s no ads (i.e. ad-free)
+* People love free. If you’re building a product to strengthen your portfolio, learn, have fun, help people, and unlock job opportunities, you should leverage that as a superpower. Make your product, at least initially, free and ad-free.
+* There are so many product spaces dominated by hucksters trying to nickel-and-dime people with ad-infested apps.
+* You need your initial users to love your app, and that is very difficult to do if it’s paid or has ads.
+
 **Growing The Product And User Base**
-Eat Your Own Dogfood
-    * The most important user of your product is you
-    * If you don’t use your own product, it is hard to build user empathy as you’re not going through the pain yourself
-    * In the beginning, your product will feel clunky, both due to a lack of features and inefficiencies with your core flow. Dogfooding empowers you to fix this.
-    * You will have very little user feedback to go off of initially, so you need to do this to fuel the initial iteration.
-    * Alex used Random Name Picker for board game nights to help select the board game to play and the restaurant to eat at.
+
+** Eat Your Own Dogfood
+* The most important user of your product is you
+* If you don’t use your own product, it is hard to build user empathy as you’re not going through the pain yourself
+* In the beginning, your product will feel clunky, both due to a lack of features and inefficiencies with your core flow. Dogfooding empowers you to fix this.
+* You will have very little user feedback to go off of initially, so you need to do this to fuel the initial iteration.
+* Alex used Random Name Picker for board game nights to help select the board game to play and the restaurant to eat at.
+
 **Feedback Is A Gift**
-    * User feedback is free product management: It’s really rare that the problem a user faces is unique to them, so just fixing their problem almost certainly improves your product and makes users love it more.
-    * Don’t be defensive with bad reviews. They often have clear, actionable feedback - The angry words are essentially wrapping up a valuable gift. Fix their issue, apologize in your reply, and let them know when the fix is out.
-    * Respond to every review. This is especially important initially as those users are the most valuable (every rating has a lot of weight, they took a chance on you).
+* User feedback is free product management: It’s really rare that the problem a user faces is unique to them, so just fixing their problem almost certainly improves your product and makes users love it more.
+* Don’t be defensive with bad reviews. They often have clear, actionable feedback - The angry words are essentially wrapping up a valuable gift. Fix their issue, apologize in your reply, and let them know when the fix is out.
+* Respond to every review. This is especially important initially as those users are the most valuable (every rating has a lot of weight, they took a chance on you).
+
 **Understand SEO**
-    * SEO is really not that hard: Figure out popular terms that users are searching for that are relevant to your product and include them, primarily in the title and description
-    * Pretend you are somebody looking for an app/website to solve your problem and just let your fingers do the typing - What do you search for?
-    * Look at competitor apps: how can you do better? What features can you add?
+* SEO is really not that hard: Figure out popular terms that users are searching for that are relevant to your product and include them, primarily in the title and description
+* Pretend you are somebody looking for an app/website to solve your problem and just let your fingers do the typing - What do you search for?
+* Look at competitor apps: how can you do better? What features can you add?
+
 **Keep Iterating And Improving**
-    * Like a lot of things in tech, particularly interviewing, product development is a marathon, not a sprint
-    * You can’t just release a v1 and expect it to explode. That’s the exception, not the rule. 
-    * Commit to at least 15 updates across 2 months. After that, if there’s still no traction, move on to something else.
-    * For the mobile stores in particular, update frequency are almost certainly factored into the search ranking algorithm
+* Like a lot of things in tech, particularly interviewing, product development is a marathon, not a sprint
+* You can’t just release a v1 and expect it to explode. That’s the exception, not the rule. 
+* Commit to at least 15 updates across 2 months. After that, if there’s still no traction, move on to something else.
+* For the mobile stores in particular, update frequency are almost certainly factored into the search ranking algorithm
 
 # October 12th
 
