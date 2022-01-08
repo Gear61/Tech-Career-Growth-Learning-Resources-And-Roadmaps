@@ -44,7 +44,7 @@
 * August 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Answering Your Top 5 Questions](#answering-your-top-5-questions)
 * August 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-   * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-tech-resume-that-gets-you-more-job-opportunities)
+   * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
 * [August 30th](#august-30th)
    * [How To Have The Proper Mindset In Big Tech Software Engineering Interviews](#how-to-have-the-proper-mindset-in-big-tech-software-engineering-interviews)
 * [September 5th](#september-5th)
@@ -811,40 +811,40 @@ We will try to publish our responses as videos as soon as possible. Since a lot 
 Today was our session about how to write a tech resume that gets you more opportunities. Main points we touched on:
 
 **Meta**
-    * Remember that a recruiter will be reading a resume. Two important things to keep in mind are (1) They are non-technical and (2) They don’t have a lot of time (7.4 seconds on average) to read your resume.
-    * Recruiters make 3 piles of resumes: yes, no, maybe. Your goal is very simply avoid the “no” pile, and ideally get into the yes pile. Our advice is fairly straightforward - be weary of anyone charging you for money to create a “fancy” resume.
-    * Especially for junior engineers, having a clear resume is essential. The top tech giants will have hundreds of applicants. Look at your completed resume and check that it’s clear, and ideally, contains something unique + impressive.
+* Remember that a recruiter will be reading a resume. Two important things to keep in mind are (1) They are non-technical and (2) They don’t have a lot of time (7.4 seconds on average) to read your resume.
+* Recruiters make 3 piles of resumes: yes, no, maybe. Your goal is very simply avoid the “no” pile, and ideally get into the yes pile. Our advice is fairly straightforward - be weary of anyone charging you for money to create a “fancy” resume.
+* Especially for junior engineers, having a clear resume is essential. The top tech giants will have hundreds of applicants. Look at your completed resume and check that it’s clear, and ideally, contains something unique + impressive.
 
 **Keep It Short And Focused**
-    * Rule of thumb: 1 page max for every 5 years of experience. In general, strive to have a 1-pager resume. Alex’s resume is only 1 page despite having ~7 years of experience.
-    * Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
-    * Resumes often have a skills overview section Be very careful about what you put here — you should be able to talk about these in depth.
-    * Aggressively compress old experience to stick to 1 page, don’t feel shy about cutting out old internships/jobs.
-    * Watch your spacing!
-        * Keep whitespace separations reasonable
-        * Look for “dangling” newlines where you just have a few words on an entire line all by themselves.
+* Rule of thumb: 1 page max for every 5 years of experience. In general, strive to have a 1-pager resume. Alex’s resume is only 1 page despite having ~7 years of experience.
+* Avoid the instinct of including everything you have ever done to try to claim as much “credit” as possible - Especially if it’s not very directly related to software. Trim the fat!
+* Resumes often have a skills overview section Be very careful about what you put here — you should be able to talk about these in depth.
+* Aggressively compress old experience to stick to 1 page, don’t feel shy about cutting out old internships/jobs.
+* Watch your spacing!
+  * Keep whitespace separations reasonable
+  * Look for “dangling” newlines where you just have a few words on an entire line all by themselves.
 
 **Spelling And Grammar Matter**
-    * Your resume should not have spelling/grammar mistakes.
-    * Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page. If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
-    * Take advantage of free tools like Grammarly that help you with this.
-    * If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
+* Your resume should not have spelling/grammar mistakes.
+* Your resume is a document that you have a massive amount of time to work on, and it’s only 1 page. If you aren’t willing to take the due diligence to make this crucial professional document clean, it is a signal to employers that you won’t be someone who is diligent and hard-working on the job.
+* Take advantage of free tools like Grammarly that help you with this.
+* If English is not your first language, look for people in your communities who are good with English and ask them for an English-only audit of your resume. Triple-check the resume yourself as well.
 
 **Show, Don’t Tell**
 * This is the concept that people struggle with the most, and it is arguably the most important idea to master.
 * Everybody wants to and can say that they’re a good engineer. In order to stand out, you must show that you’re a good engineer.
 * You do this by capturing the impact of your accomplishments (i.e. what is the delta you produced) and dictating it in a very concise, accessible way (remember, a recruiter is reading your resume!).
 * Tactical tips:
-    * Avoid brag summary sections, things like “fast learner” or “team player”
-    * Don’t self-rate your skills or familiarity in a technology
-    * Deploy projects to prod and link that - A GitHub repo has little value to a recruiter!
+  * Avoid brag summary sections, things like “fast learner” or “team player”
+  * Don’t self-rate your skills or familiarity in a technology
+  * Deploy projects to prod and link that - A GitHub repo has little value to a recruiter!
 
 **Resume Before and After**
-    * Putting technologies next to job is good since it contextualizes what you did
-    * Focus on business impact. Customers don’t care about the tech, they care about getting something done.
+  * Putting technologies next to job is good since it contextualizes what you did
+  * Focus on business impact. Customers don’t care about the tech, they care about getting something done.
 
 **Have Basic Organization**
-* column is optimal to reduce cognitive load. 2     columns is also doable, and everything above that is too much. Everyone reads top to bottom - put important things first.
+* 1 column is optimal to reduce cognitive load. 2     columns is also doable, and everything above that is too much. Everyone reads top to bottom - put important things first.
 * Have clear sections with dividers.
 * Avoid lengthy paragraphs. Split them up into punchy bullet points.
 
@@ -854,19 +854,19 @@ Today was our session about how to write a tech resume that gets you more opport
 * Prior work experience: Other instances of you shipping code in professional, prod environment
 * Personal projects: You’re still shipping code to prod, just not in a formally professional environment.
 * Education (this is generally higher than it should be):
-    * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
-    * Bootcamps - More on the practical side, but too   short and work is often very “tech-demo-ey” so not a real production environment
+  * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
+  * Bootcamps - More on the practical side, but too   short and work is often very “tech-demo-ey” so not a real production environment
 
 **FAQ**
 * Should I include my work experience if it’s not in the software industry? 
-    * Yes, it’s typically worthwhile to include “Irrelevant experience”, especially if you’re earlier in your career 
-    * Showing some experience is generally better than none, or showing long gaps in employment.
+  * Yes, it’s typically worthwhile to include “Irrelevant experience”, especially if you’re earlier in your career 
+  * Showing some experience is generally better than none, or showing long gaps in employment.
 * How can I talk about my impact without revealing company confidential info? 
-    * Talk about relative improvement, e.g. “onboarded customers 30% faster”
-    * Obfuscate details: “increased ad revenue from $X0 million to $X00 million”
+  * Talk about relative improvement, e.g. “onboarded customers 30% faster”
+  * Obfuscate details: “increased ad revenue from $X0 million to $X00 million”
 * Should I customize my resume for each job I’m applying to? 
-    * In general, this is not worth the time
-    * There may be value if the companies you’re applying to are meaningfully different.
+  * In general, this is not worth the time
+  * There may be value if the companies you’re applying to are meaningfully different.
 
 **Conclusion**
 * This session is about optimizing presentation, not the content itself. You can think of these resume tips as the “dressing” around your professional “core”, which is what you have actually accomplished. If your core is weak, you will have a hard time getting job opportunities - No amount of dressing will fix this.
