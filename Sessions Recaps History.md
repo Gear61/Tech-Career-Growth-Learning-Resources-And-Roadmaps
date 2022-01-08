@@ -41,6 +41,8 @@
   * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
 * July 21st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
+* August 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Answer Your Top 5 Questions](#how-to-get-promoted-faster-in-tech)
 * [August 5th](#august-5th)
    * [Answering to the Top 5 questions](#answering-to-the-top-5-questions)
    * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
@@ -507,7 +509,6 @@ Here are the slides we used as well:
 <a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
 
 ### YouTube Recaps
-
 #### Why You Should Be BORING With Your Tech Resume 
 Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below. Video :arrow_right: :movie_camera:
 
@@ -751,7 +752,6 @@ I’ll also point you to the [LI article](https://www.linkedin.com/pulse/5-thing
 # August 5th
 
 ## Answering to the Top 5 questions
-
 Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text recap of our answers to the Top 5 questions as we figure out the YouTube recap situation:
 1. **For early in career folks, should learning be done breadth-wise or depth-wise?**
     * You go wide to discover something you’re passionate about and then you go deep on it.
@@ -792,25 +792,19 @@ Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text
     * Use "just one thing" tactic, reflection, focus. Think about the next physical action.
 We will try to publish our responses as videos as soon as possible. Since a lot of folks weren't able to make this session, we will prioritize speed and quantity over quality here; we just want to get these out the door as soon as possible, and I'm sure many of you feel the same way. 
 
-
 ## Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?
-
 [![ How To Get Big Tech Software Engineer Interviews ](img/session-recap/video-august-11-01.png)](https://www.youtube.com/watch?v=HkwcKVTeIdo)
-
 
 ## How to Balance Your Time Between Your Job And Self Learning
 [![ How to Balance Your Time Between Your Job And Self Learning ](img/session-recap/video-august-11-02.png)](https://www.youtube.com/watch?v=qHYh_fiWH2Y)
 
-
 ## How do you prepare the perfect portfolio to get discovered by recruiters?
-
 [![ How To Create A Perfect Tech Portfolio To Make Recruiters Come To You ](img/session-recap/video-august-11-03.png)](https://www.youtube.com/watch?v=Rh6hA9g6SUM)
 
 ## As a software engineer, should you learn new technology with breadth or depth?
-
 [![ How To Learn Optimally As A Junior Engineer - Breadth vs. Depth ](img/session-recap/video-august-11-04.png)](https://www.youtube.com/watch?v=Pn-LWb_FoOQ)
 
-
+[LinkedIn Event](https://www.linkedin.com/events/6821285790581190656/)
 
 # August 28th
 
