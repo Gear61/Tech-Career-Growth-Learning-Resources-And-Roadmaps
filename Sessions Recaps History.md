@@ -29,8 +29,8 @@
   * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
 * May 1st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
-* [May 16th](#may-16th)
-   * [How To Become A 10x Engineer!](#how-to-become-a-10x-engineer)
+* May 15th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Become A 10x Engineer](#how-to-become-a-10x-engineer)
 * [May 29th](#may-29th)
    * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
 * [June 13th](#june-13th)
@@ -390,50 +390,40 @@ For future sessions, make sure you check out the #general channel every once in 
 
 [LinkedIn Event](https://www.linkedin.com/events/6787605251085217792/)
 
-# May 16th
-
 ## How To Become A 10x Engineer! 
-
 Thanks for joining a tumultuous session yesterday about How To Become A 10x Engineer! Recap:
 
 **Outliers Are Uniquely Possible in Software**
-
 * The software industry has leverage unlike any other field, so it’s possible for individuals (or small groups of people) to have outsized impact. 
 * Copying and modifying software is generally free and easy, which means good ideas spread fast (unlike other industries like Mechanical Engineering)
 * The software industry is very young, so best practices are still being identified
 
 **Feedback Is A Gift**
-
 * People in tech are talented - If they have advice, take it
 * Don’t be defensive taking feedback - accept it openly and then actively try to understand + implement it.
 * Gracefully accepting feedback builds social capital (see below)
 
 **See Problems You’re Afraid Of As An Opportunity**
-
-*   Average developers will stay in comfortable spaces; 10x engineers jump into scary problems
+* Average developers will stay in comfortable spaces; 10x engineers jump into scary problems
 * Growth is maximized when you’re uncomfortable
 * Tactical tip: Try as hard as you can to break your code. Make it “uncomfortable”!
 
 **Ruthlessly Prioritize**
-
 * It’s too easy to get lost in today’s information overload
 * Have a clear set of goals and work backwards - identify just one thing that’s important to get done, and spend time on that first
 * Every once in a while, write down everything you’re doing to identify what’s important and “trim the fat”
 
 **10,000 Hours**
-
 * If you put 10,000 hours into 1 thing, you will become amazing at that 1 thing
 * Remember the “into 1 thing” - Focus is crucial! You don’t want it to be too narrow (“View alignment in Android ConstraintLayout”) or too broad (“All of software dev”)
 * Eventually you will reach a “zen state” where you realize all tech frameworks are actually the same
 
 **Aggressively Put Others Before Yourself**
-
 * Average engineers view the world transactionally; 10x engineers understand the concept of social capital. High empathy -> More social capital
 * 10x engineers work through others to multiply their impact, so your relationships are essential
 * When you disagree with someone, try to tear down your own argument
 
 **Common Behaviors of the Best Engineers**
-
 * Solve problems on their own vs plug in a solution (specialization vs “pipe fitting”). Most of the time you’re on one end of the spectrum; both have huge impact.
 * Advocate for a new style of thinking (could lead to adopting a framework or pattern).
 * Combats complexity by aggressively simplifying, refactoring, and fixing code. Remember that more time is spent reading code than writing code.
@@ -443,6 +433,7 @@ Adding on to the above, here's an extended version of the slides we used for the
 <a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
  <img  alt="slide" width="400" height="200" src="img/session-recap/recap-001.png"></a>
 
+[LinkedIn Event](https://www.linkedin.com/events/6794742587510140928/)
 
 # May 29th
 
