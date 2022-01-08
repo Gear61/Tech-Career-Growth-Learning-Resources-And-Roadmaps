@@ -42,7 +42,7 @@
 * July 21st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
 * August 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Answer Your Top 5 Questions](#how-to-get-promoted-faster-in-tech)
+  * [Answering Your Top 5 Questions](#answering-your-top-5-questions)
 * [August 5th](#august-5th)
    * [Answering to the Top 5 questions](#answering-to-the-top-5-questions)
    * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
@@ -749,23 +749,24 @@ I’ll also point you to the [LI article](https://www.linkedin.com/pulse/5-thing
 
 [LinkedIn Event](https://www.linkedin.com/events/6819793254716989440/)
 
-# August 5th
-
-## Answering to the Top 5 questions
+## Answering Your Top 5 questions
 Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text recap of our answers to the Top 5 questions as we figure out the YouTube recap situation:
+
 1. **For early in career folks, should learning be done breadth-wise or depth-wise?**
     * You go wide to discover something you’re passionate about and then you go deep on it.
     * You don’t need to find the absolute perfect thing; avoid decision paralysis.
     * The growth path for junior engineers is that they need to build “street cred”, getting to a really high level of technical proficiency to prove that they’re able to lead and grow into a senior role. This is really hard if you keep switching stacks.
     * There are fundamentals that are constant across every stack (what good code looks like, how to write a clean abstraction, etc). However, you don’t learn them until you go pretty deep into 1 stack, as in the beginning, you are just tactically focused on getting stuff to work.
     * Once you master a stack and have transferable fundamentals, you can branch out.
-    * One learning tactic is just to read the terminology, then actually go deep and it will make much more sense. Similar to reading a textbook, where you read all the chapter names. 
+    * One learning tactic is just to read the terminology, then actually go deep and it will make much more sense. Similar to reading a textbook, where you read all the chapter names.
+
 2. **How do you prepare a perfect portfolio to get recruiters to come find you?**
     * Pretty much LinkedIn since it’s essentially a really powerful and popular portfolio website that recruiters more or less live on
     * It’s not like recruiters are regularly browsing people’s portfolio websites as there isn’t a central repository of them
     * If you don’t have the work experience necessary to get recruiter leads, then invest into side projects
     * Side projects themselves can also get recruiter leads. I have gotten many recruiter messages at my Google Play developer email from top companies like Square, Instacart, etc.
     * There are no great tools for this, Github README is a good option, or a public page of GPlay or App Store link
+
 3. **How do you get FAANG interviews?**
     * You need either a recruiter to find you or a referral
     * Applying online and cold messaging are effectively useless. You can try it every once in a while, but don’t spend more than a few minutes on your application/message.
@@ -775,6 +776,7 @@ Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text
        * Massive side project - At least 10k+ users
        * Major open-source contributions - Extremely clear way to show you’re capable of writing Big Tech level code, especially if you can merge into one of their repos. However, onboarding into such a strong codebase is extremely difficult.
     * Recruiters bias for pattern matching; they want to get as many people in the door who are likely to pass the interview.
+
 4. **How do you balance between active office projects and self learning?**
     * It depends on your priorities.
     * If your goal is to get promoted at your job and you have a good support network there, you can just invest wholly into that. Essentially, if you’re learning a lot at work, you don’t need to do self learning.
@@ -783,6 +785,7 @@ Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text
     * For self learning, try to incorporate them into side projects so it doesn’t feel as much like work (another thing Alex has done). Getting off work just to go into studying for a certification or something is not fun. If your self learning also feels like work, your brain won’t be able to handle it. There are many studies showing that the human mind simply cannot handle 40+ hours of work per week.
     * You care about your career x 100, your startup cares about your company x 50, your big company cares about your career 10.
     * It sounds scary but it’s actually liberating when you realize you can do things on your own.
+
 5. **What are your strategies for stopping procrastination?**
     * You can only procrastinate with a far-off deadline and you generally only have far-off deadlines with big items. This means you can break down whatever your big task is into smaller tasks and milestones, with a small chunk being due at regular intervals.
     * Social accountability is also powerful. You don’t want to be the person holding the team back. Find a buddy! One way to aggressively get rid of procrastination is to turn work into a race among the team.
@@ -792,17 +795,21 @@ Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text
     * Use "just one thing" tactic, reflection, focus. Think about the next physical action.
 We will try to publish our responses as videos as soon as possible. Since a lot of folks weren't able to make this session, we will prioritize speed and quantity over quality here; we just want to get these out the door as soon as possible, and I'm sure many of you feel the same way. 
 
-## Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?
+### YouTube Recaps
+#### Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?
 [![ How To Get Big Tech Software Engineer Interviews ](img/session-recap/video-august-11-01.png)](https://www.youtube.com/watch?v=HkwcKVTeIdo)
 
-## How to Balance Your Time Between Your Job And Self Learning
+#### How to Balance Your Time Between Your Job And Self Learning
 [![ How to Balance Your Time Between Your Job And Self Learning ](img/session-recap/video-august-11-02.png)](https://www.youtube.com/watch?v=qHYh_fiWH2Y)
 
-## How do you prepare the perfect portfolio to get discovered by recruiters?
+#### How do you prepare the perfect portfolio to get discovered by recruiters?
 [![ How To Create A Perfect Tech Portfolio To Make Recruiters Come To You ](img/session-recap/video-august-11-03.png)](https://www.youtube.com/watch?v=Rh6hA9g6SUM)
 
-## As a software engineer, should you learn new technology with breadth or depth?
+#### As a software engineer, should you learn new technology with breadth or depth?
 [![ How To Learn Optimally As A Junior Engineer - Breadth vs. Depth ](img/session-recap/video-august-11-04.png)](https://www.youtube.com/watch?v=Pn-LWb_FoOQ)
+
+#### How To Stop Procrastinating - Time Management Tips
+[Video Link](https://www.youtube.com/watch?v=64EnzHsQTMo)
 
 [LinkedIn Event](https://www.linkedin.com/events/6821285790581190656/)
 
