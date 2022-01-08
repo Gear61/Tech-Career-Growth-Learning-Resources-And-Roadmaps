@@ -689,8 +689,38 @@ I also recently wrote a massive LinkedIn post sharing a bunch more resources rel
 
 LinkedIn is the main way we get the word out about this community, so any support on the LinkedIn would be appreciate. Have an amazing weekend everyone!
 
-[LinkedIn Event](https://www.linkedin.com/events/6815075152741695488/)
+### YouTube Recaps
+#### How To Have The Proper Mindset In Big Tech Software Engineering Interviews
+We're super late on this, but here's the first video recap from the Big Tech interview session we gave on 7/17. It talks about how to have the proper mindset going into and during the interview. A lot of candidates (this probably includes some of you!) are more than capable of passing these prestigious interviews; you just get too nervous and anxious around the interview and are unable to show your true skill. This video talks about how to avoid that.
+
+[![ How To Have The Proper Mindset In Big Tech Software Engineering Interviews](img/session-recap/video-august-30th.png)](https://www.youtube.com/watch?v=guxFTl_qIRg)
+
+#### How You Properly Learn Data Structures and Algorithms (DSA) 
+Here's the next recap from July's Big Tech interview session, covering how to optimally learn data structures & algorithms. This video breaks down the studying techniques I used to get into Facebook:
+
+[![ How You Properly Learn Data Structures and Algorithms](img/session-recap/video-september-5th.png)](https://www.youtube.com/watch?v=j9FD_Y5JTbw)
+
+#### How to Mentally Prepare for Your Tech Interview
+Here's another recap from the Big Tech interviewing session, explaining how "feeling dumb" is naturally part of the process when it comes to mastering data structure and algorithms:
+
+[![How to Mentally Prepare for Your Tech Interview](img/session-recap/video-september-21th.png)](https://www.youtube.com/watch?v=LSLyly2GJo4)
+
+#### How To Truly Master A Data Structures & Algorithms Problem
+[![ How To Truly Master A Data Structures & Algorithms Problem ](img/session-recap/video-october-3th.png)](https://www.youtube.com/watch?v=tfqPGGdS8Tk)
+
+#### Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews 
+I'm back with... you know what, haha. Anyways, here's another recap video from the Big Tech DSA interview session we had back in July, talking about the importance of communication in the context of Big Tech specifically and how to succeed on that axis:
+
+[![ Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews  ](img/session-recap/video-octobero-6th.png)](https://www.youtube.com/watch?v=TqjiQbyomx4)
+
+#### Stop Wasting Time In Your Tech Interviews By "Inventing The API
+We have one final snippet from the Big Tech DSA interview session :slightly_smiling_face: Time management is essential to succeeding in your coding interview. One tactic to do this is by “inventing the API”:
+
+[![Stop Wasting Time In Your Tech Interviews By "Inventing The API ](img/session-recap/video-october-07.png)](https://youtu.be/XuOXRBYlidg)
+
 [Slides](https://docs.google.com/presentation/d/13uLUHDvZifjp2aVClGsW29nfuVpQYvrkGLP8cej0R_k/edit?usp=sharing)
+
+[LinkedIn Event](https://www.linkedin.com/events/6815075152741695488/)
 
 ## How To Get Promoted Faster In Tech
 
@@ -875,34 +905,6 @@ Today was our session about how to write a tech resume that gets you more opport
 
 [LinkedIn Event](https://www.linkedin.com/events/6824212767390756864/)
 
-# August 30th
-
-## How To Have The Proper Mindset In Big Tech Software Engineering Interviews
-
-We're super late on this, but here's the first video recap from the Big Tech interview session we gave on 7/17. It talks about how to have the proper mindset going into and during the interview. A lot of candidates (this probably includes some of you!) are more than capable of passing these prestigious interviews; you just get too nervous and anxious around the interview and are unable to show your true skill. This video talks about how to avoid that.
-
-
-[![ How To Have The Proper Mindset In Big Tech Software Engineering Interviews ](img/session-recap/video-august-30th.png)](https://www.youtube.com/watch?v=guxFTl_qIRg)
-
-
-# September 5th
-
-## How You Properly Learn Data Structures and Algorithms (DSA) 
-
-Here's the next recap from July's Big Tech interview session, covering how to optimally learn data structures & algorithms. This video breaks down the studying techniques I used to get into Facebook:
-
-[![ How You Properly Learn Data Structures and Algorithms ](img/session-recap/video-september-5th.png)](https://www.youtube.com/watch?v=j9FD_Y5JTbw)
-
-
-# September 21th
-
-## How to Mentally Prepare for Your Tech Interview
-
-Here's another recap from the Big Tech interviewing session, explaining how "feeling dumb" is naturally part of the process when it comes to mastering data structure and algorithms:
-
-[![ How to Mentally Prepare for Your Tech Interview ](img/session-recap/video-september-21th.png)](https://www.youtube.com/watch?v=LSLyly2GJo4)
-
-
 # October 2th
 
 Thanks to everyone who joined us today about building + growing personal projects with 500K+ users! Session recap:
@@ -953,32 +955,6 @@ Eat Your Own Dogfood
     * You can’t just release a v1 and expect it to explode. That’s the exception, not the rule. 
     * Commit to at least 15 updates across 2 months. After that, if there’s still no traction, move on to something else.
     * For the mobile stores in particular, update frequency are almost certainly factored into the search ranking algorithm
-
-
-# October 3th
-
-## How To Truly Master A Data Structures & Algorithms Problem
-
-[![ How To Truly Master A Data Structures & Algorithms Problem ](img/session-recap/video-october-3th.png)](https://www.youtube.com/watch?v=tfqPGGdS8Tk)
-
-
-# October 6th
-
-## Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews 
-
-I'm back with... you know what, haha. Anyways, here's another recap video from the Big Tech DSA interview session we had back in July, talking about the importance of communication in the context of Big Tech specifically and how to succeed on that axis:
-
-[![ Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews  ](img/session-recap/video-octobero-6th.png)](https://www.youtube.com/watch?v=TqjiQbyomx4)
-
-
-# October 7th
-
-## Stop Wasting Time In Your Tech Interviews By "Inventing The API
-
-We have one final snippet from the Big Tech DSA interview session :slightly_smiling_face: Time management is essential to succeeding in your coding interview. One tactic to do this is by “inventing the API”:
-
-[![Stop Wasting Time In Your Tech Interviews By "Inventing The API ](img/session-recap/video-october-07.png)](https://youtu.be/XuOXRBYlidg)
-
 
 # October 12th
 
