@@ -9,6 +9,8 @@
   * [Building Meaningful Side Projects](#building-meaningful-side-projects)
 * February 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
+* February 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
 * [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
    * [How To Learn Quickly In Tech"](#how-to-learn-quickly-in-tech)
    * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
@@ -110,21 +112,13 @@ Our recap for this first session was actually quite brief as this was before the
   * Companies are not exactly pure engines of goodwill, even top tech companies like Facebook.
   * Often times you will be kept stagnant in your current job due to some mix of stupid obstacles. In this scenario, keep finding a job at a different company in mind as a powerful option. If you're a good engineer and you do well on a company's interview, they need to sweeten the deal to make up for the friction of you leaving your current job to join them. This can end up being a promotion!
 
-
 ## Evolving Your Job As Your Company Changes
 Recap of the session with Girish, who's currently an engineering director at Chan Zuckerberg Initiative and was at Facebook for a whopping 11 years:
 * There isn’t a single correct answer for which company you should join early in your career. However, joining a mid-sized, fast growing company offers a good combination of great mentorship + responsibility.
 * Small companies will give you less mentorship but you’ll likely have wider responsibilities. You probably won’t become an industry expert, but you’ll figure out how everything fits together.
 * Large companies will allow you to focus on a particular niche and tackle problems that most others don’t have the luxury of tackling. You’ll also have well-defined paths for career progression + the ability to switch teams if you want. In particular, you will learn how to actually scale products to millions if not billions of users.
 
-## What Does a Product Manager Do And Why You Should Become One
-Recap of the session with Tulsee, who's currently a Google Product Lead for ML Fairness and Responsible AI:
-* PMs are the voice of the user and decide the direction of the product. Being a PM typically means you have much more scope than an equivalent level engineer (at least early in your career)
-* The job of a PM is largely “influence without authority”, so you structure the framework for decision-making, pull in the right data, and work with stakeholders w/o always being the final decision maker
-* APM (Associate Product Manager) Programs are a nice, structured way to become a PM, with support + training
-
 ## Building Meaningful Side Projects
-
 Recap:
 1. Don't be afraid to build something "boring" - It is easy to get lost working with something "cool" like blockchain where your chances of success are low due to the unknowns and instability associated with that tech. There is tremendous value in building a powerful solution to a relatively small problem, more than most people think. If you are on the more junior side, it also makes more sense to start off with something simple for the sake of your gradual progression. You don't become a master overnight.
 2. It takes time for a product to take off - It usually takes at least a couple iterations for your product to have enough features and be polished enough to reach a critical mass of users who find it genuinely useful. Don't just expect to drop a raw MVP (minimum viable product) and expect it to take off. Most of a product's value comes from the execution, not the raw idea itself.
@@ -132,8 +126,36 @@ Recap:
 
 [Link to all of my side projects (~2 million installs)](https://play.google.com/store/apps/dev?id=9093438553713389916)
 
-## How To Learn Quickly In Tech"
+## What Does a Product Manager Do And Why You Should Become One
+Recap of the session with Tulsee, who's currently a Google Product Lead for ML Fairness and Responsible AI:
+* PMs are the voice of the user and decide the direction of the product. Being a PM typically means you have much more scope than an equivalent level engineer (at least early in your career)
+* The job of a PM is largely “influence without authority”, so you structure the framework for decision-making, pull in the right data, and work with stakeholders w/o always being the final decision maker
+* APM (Associate Product Manager) Programs are a nice, structured way to become a PM, with support + training
 
+## Productivity Tips as an Engineer
+* Solve the hardest problem first
+  * It may be tempting to solve the easiest problems first, but this can leave you with a false sense of confidence.
+  * Often times what turns out to be the solution to the hardest problem will have ramifications all across the architecture. Solving the core, central hard problem can transform what you thought were the “easy” tasks before.
+  * Tackling the hardest problem first is also crucial to failing fast. Sometimes the hardest problem is literally an impossible problem. The sooner you figure that out, the sooner you can kill the project and move on.
+* Build as much as you can like a library
+  * Alex did the same with his side projects. He is able to write thousands of lines of code per day, because a lot of it is frankly copy-paste. He can copy-paste it, because he always designs his code as modules, so at least 50% of his code is “drag-and-dropp-able”.
+  * A concrete way to think about this idea is “Avoid monoliths”. Bad engineers in particular will create massive classes that hold all their logic; this is usually the view controller when you’re building user-facing products. When you do this, pretty much none of your code is reusable.
+* Learn when to skip meetings
+  * One of the easiest ways to waste your time, especially in older, more bureaucratic companies, is to languish in meetings.
+  * If your work culture allows for it like Facebook, don’t be afraid to skip meetings. There is a “Reject invite” button for a reason.
+* Identify if you’re a context switcher or focuser and build around that
+  * If you’re a context switcher: Great! The main things to do here are to continue building the muscle by context switching more often and being able to identify pockets of time where you can be productive.
+  * If you don’t like context switching and are the most productive when you are able to focus, make focus blocks. Concentrate similar work (like meetings) on certain days. Aggressively reject non-relevant meetings.
+* Keep a journal and stay in tune with your gut
+  * Figuring out how to maximize your productivity is a self-learning exercise. Most people in the beginning of their careers do not know what circumstances they need to shine.
+  * Keep some sort of record of what you are doing week or week (or even day over day) and regularly reflect on which weeks were bad (“Argh, I got nothing done”) and which ones were good (“Wow, I crushed it”). Think about why the good weeks were good and why the bad weeks were bad.
+  * Be honest with yourself, particularly with things you don’t like. If something feels like a chore, recognize it and tell your manager.
+
+On a side note, notion is supposedly a great note taking tool: https://www.notion.so/
+
+[LinkedIn Event](https://www.linkedin.com/events/6766888028293214208/)
+
+## How To Learn Quickly In Tech"
 1. Don't be afraid to ask questions
     a. If there's a metric you should judge yourself against in your first 2 months on a new team, it's how many questions you ask.
     b. It is not a sign of strength to "tough it out" and figure out a complex thing on your own after several days/weeks when you can figure it out in just 30 minutes by asking someone for help. It is a sign of weakness to do this as you are afraid to confront your own weaknesses. Conversely, it is a sign of emotional strength to be vulnerable and share this with someone else, asking them for help.
@@ -151,33 +173,13 @@ Recap:
 Here's also a very tactical "playbook" to becoming familiar in a new team:
 [A Career Cold Start Algorithm" from Andrew Bosworth, a Facebook VP](https://boz.com/articles/career-cold-start)
 
-## How To Build A Successful Startup
+[LinkedIn Event]()
 
+## How To Build A Successful Startup
 Recap of the session with @Clarence Chio, the founder of Unit21, a security startup that's funded by Google and recently secured its Series A:
 * You must talk to customers and understand what product to build. You cannot build your way to a solution in a startup. Put in a very concrete way, building actually comes last.
 * You will likely be very bad at hiring and managing a team as a first time founder. Find a coach who can help you get better, and be prepared to learn on the job.
 * Finding a community of like-minded people is important for finding a cofounder and committing to a startup. Clarence was part of South Park Commons for example, a community of domain experts where everyone can jam on ideas together.
-
-## Productivity Tips as an Engineer
-1. Solve the hardest problem first
-    a. It may be tempting to solve the easiest problems first, but this can leave you with a false sense of confidence.
-    b. Often times what turns out to be the solution to the hardest problem will have ramifications all across the architecture. Solving the core, central hard problem can transform what you thought were the “easy” tasks before.
-    c. Tackling the hardest problem first is also crucial to failing fast. Sometimes the hardest problem is literally an impossible problem. The sooner you figure that out, the sooner you can kill the project and move on.
-2. Build as much as you can like a library
-    a. Alex did the same with his side projects. He is able to write thousands of lines of code per day, because a lot of it is frankly copy-paste. He can copy-paste it, because he always designs his code as modules, so at least 50% of his code is “drag-and-dropp-able”.
-    b. A concrete way to think about this idea is “Avoid monoliths”. Bad engineers in particular will create massive classes that hold all their logic; this is usually the view controller when you’re building user-facing products. When you do this, pretty much none of your code is reusable.
-3. Learn when to skip meetings
-    a. One of the easiest ways to waste your time, especially in older, more bureaucratic companies, is to languish in meetings.
-    b. If your work culture allows for it like Facebook, don’t be afraid to skip meetings. There is a “Reject invite” button for a reason.
-4. Identify if you’re a context switcher or focuser and build around that
-    a. If you’re a context switcher: Great! The main things to do here are to continue building the muscle by context switching more often and being able to identify pockets of time where you can be productive.
-    b. If you don’t like context switching and are the most productive when you are able to focus, make focus blocks. Concentrate similar work (like meetings) on certain days. Aggressively reject non-relevant meetings.
-    Keep a journal and stay in tune with your gut
-    Figuring out how to maximize your productivity is a self-learning exercise. Most people in the beginning of their careers do not know what circumstances they need to shine.
-    Keep some sort of record of what you are doing week or week (or even day over day) and regularly reflect on which weeks were bad (“Argh, I got nothing done”) and which ones were good (“Wow, I crushed it”). Think about why the good weeks were good and why the bad weeks were bad.
-    c. Be honest with yourself, particularly with things you don’t like. If something feels like a chore, recognize it and tell your manager.
-On a side note, notion is supposedly a great note taking tool: https://www.notion.so/
-
 
 ## How To Ace Your Tech Interview
 **Overall Approach**
