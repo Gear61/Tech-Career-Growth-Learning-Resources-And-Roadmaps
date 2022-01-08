@@ -35,8 +35,8 @@
   * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
 * June 19th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
-* [July 10th](#july-10th)
-   * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
+* July 9th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
 * [July 17th](#july-17th)
 * [July 22th](#july-22th)
    * [how to advance your career faster through promotions!](#how-to-advance-your-career-faster-through-promotions)
@@ -598,39 +598,43 @@ Check out all that Rahul Pandey and Alex Chiou have to emphasize about the impor
 
 [LinkedIn Event](https://www.linkedin.com/events/6801549135905464320/)
 
-# July 10th
-
 ## How To Manage Your Time Optimally In Tech And Achieve More Results
-
 The session from this evening about time management was so much fun! “How To Manage Your Time Optimally In Tech And Achieve More Results”:
 * You can’t create more time like can create more of other resources. It’s worth thinking about how you spend your time, and consequently, your life.
 * Focus on your system. This is the most important point we covered. Your willpower to do things will change day-to-day, but your framework doesn’t. Create a system that makes it easy to do the right thing and hard to do the wrong thing (procrastinate).
+
 * We covered 5 pillars of an effective time management system:
 **One Big Thing**
 * Establish exactly one thing which must get done the next day. Write it down so it’s out of your head. 
 * Calibrate the size of the task to ensure you can get it done in the next day.
 * One item allows us to start ruminating on the problem. There should be no ambiguity around what exactly needs to happen and how to get started. Clarity leads to action.
 * “Integrate Twitter Authentication” is bad. “Go to developer twitter com, create a Twitter app, and then pull up the documentation for OAuth 2.0” is better
+
 **Reflection**
 * If (when) you screw up, we should learn from the experience. We do this with reflection.
 * Ask “why” several times. “Why did you fail to meet the objective you had?” Due to procrastination. “Why did you procrastinate?” Because there wasn’t clarity on how to get started. “Why wasn’t there clarity? What could you have done to gain that clarity?”
 * Schedule a 30 min block with yourself every 2 weeks to reflect on how things went. Were there particular meetings of periods that were especially productive or unproductive?
+
 **Focus**
 * Deep work: the ability to focus without distraction on a cognitively demanding task (book by Cal Newport)
 * One big way we do this is to avoid context switching. You need to operate proactively instead of reactively.
 * Tactically, when I’m in focus mode, I’ll move my phone out of arm’s reach. This introduces a bit of friction before I mindlessly unlock my phone.
 * Turn off notifications from almost everything: email, LinkedIn, Twitter, etc, and use batching.
+
 **Eat the Frog**
 * The best time to eat a frog is first thing in the morning. The best time to do any large, difficult task is right when you wake up - don’t give yourself the chance to put it off.
 * Instead of checking email, Instagram, or anything else, wake up and set a timer to work on your top priority for that set time.
+
 **Leverage Social Pressures**
 * Working with others will help you see what’s possible, and they’ll offer help if you’re feeling low or stuck.
 * You can find a mentor (someone more senior, a coach), or a peer (someone going through what you’re going through)
 * Shame is a powerful driver of action. If you tell someone you’ll get something done by a certain date, there’s a fire to actually get it done.
+
 **Meta-points**
 * Sleep + exercise are critical. Don’t be a zombie with reduced ability to focus/debug issues.
 * TV/movies/gaming: it’s ok if you do these, but you need to be in control of your consumption. In general, we want to create more than we consume.
 
+[LinkedIn Event](https://www.linkedin.com/events/6807069050255106048/)
 
 # July 17th
 
