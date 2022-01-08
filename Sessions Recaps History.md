@@ -27,8 +27,8 @@
   * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
 * April 10th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
-* [May 01th](#may-01th)
-   * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
+* May 1st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
 * [May 16th](#may-16th)
    * [How To Become A 10x Engineer!](#how-to-become-a-10x-engineer)
 * [May 29th](#may-29th)
@@ -332,10 +332,7 @@ Have an amazing weekend everyone!
 
 [LinkedIn Event](https://www.linkedin.com/events/6781726576129253376/)
 
-# May 01th
-
 ## How To Ace Your Top Big Tech Company Software Interview
-
 Thanks to the 500+ of you who joined us earlier today for the session “How To Ace Your Top Big Tech Company Software Interview”. This is by far the largest session we had! We’ll be better about anticipating demand in the future (so no one get rejected by Zoom). Recap:
 
 **Getting The Interview**
@@ -365,7 +362,7 @@ For entry/mid level roles, DSA is, on average, 70% of the interview.
     * If the interviewer is prodding you in a direction, it probably means you need to think about that more
 * Start with a dumb/brute force solution, but acknowledge the shortcomings. Done is better than perfect. After you get something basic working, iterate on it.
 * Keep an open dialog with the interviewer during the question
-    * >5 minutes of silence is bad
+    * 5+ minutes of silence is bad
     * Interviewer may be distracted/bad, so your job is to ask questions and elicit a reaction
 * Don’t be arrogant - strike a balance between understanding and questioning. 
 
@@ -389,8 +386,9 @@ For entry/mid level roles, DSA is, on average, 70% of the interview.
 * Large companies have purposely streamlined the interview to make it scalable and consistent. There is a very clear correlation between your time spent and your chance of getting in.
 * Patience + practice is key!
 
-For future sessions, make sure you check out the #general channel every once in a while or follow the LinkedIn community: https://www.linkedin.com/company/techcareergrowth/. Happy May to everyone :tada: Summer is here.
+For future sessions, make sure you check out the #general channel every once in a while or follow the LinkedIn community: https://www.linkedin.com/company/techcareergrowth/.
 
+[LinkedIn Event](https://www.linkedin.com/events/6787605251085217792/)
 
 # May 16th
 
