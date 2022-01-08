@@ -1,13 +1,15 @@
 # Session Recaps History
 
 ## Table of Contents
-* [January 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
+* January 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
+* February 3rd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Evolving Your Job As Your Company Changes](#evolving-your-job-as-your-company-changes)
+* February 11th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [Building Meaningful Side Projects](#building-meaningful-side-projects)
+* February 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
 * [March 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-13th-calendar)
-   * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
-   * [Evolving Your Job As Your Company Changes](#evolving-your-job-as-your-company-changes)
-   * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
-   * [Building Meaningful Side Projects](#building-meaningful-side-projects)
    * [How To Learn Quickly In Tech"](#how-to-learn-quickly-in-tech)
    * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
    * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
@@ -110,7 +112,6 @@ Our recap for this first session was actually quite brief as this was before the
 
 
 ## Evolving Your Job As Your Company Changes
-
 Recap of the session with Girish, who's currently an engineering director at Chan Zuckerberg Initiative and was at Facebook for a whopping 11 years:
 * There isn’t a single correct answer for which company you should join early in your career. However, joining a mid-sized, fast growing company offers a good combination of great mentorship + responsibility.
 * Small companies will give you less mentorship but you’ll likely have wider responsibilities. You probably won’t become an industry expert, but you’ll figure out how everything fits together.
