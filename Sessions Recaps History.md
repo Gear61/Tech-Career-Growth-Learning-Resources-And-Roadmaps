@@ -39,6 +39,8 @@
   * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
 * July 17th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
   * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
+* July 21st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+  * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
 * [July 17th](#july-17th)
 * [July 22th](#july-22th)
    * [how to advance your career faster through promotions!](#how-to-advance-your-career-faster-through-promotions)
@@ -684,6 +686,7 @@ Glassdoor is an extremely valuable resource with Big Tech as its usefulness scal
     * Many candidates tackle the trivial portions first (e.g. write a utility method to convert an array of chars into a string), because that’s where they’re comfortable. These portions often aren’t even required by the interviewer and give low signal.
     * Adding on to the above point, ask if you can “hand-wave” pieces away. Utility functions can often be saved from this. Every saved minute counts!
     * Watch out for tunnel vision! Check every 5 minutes to see if the path you’re going down doesn’t feel right (you just can’t seem to get it to work). If you’re going to pivot, do it ASAP!
+
 **Solution**
 * Understand where your solution’s shortcomings are, whether it’s in performance or code structure
 * Don’t forget about space complexity
@@ -694,50 +697,58 @@ I also recently wrote a massive LinkedIn post sharing a bunch more resources rel
 LinkedIn is the main way we get the word out about this community, so any support on the LinkedIn would be appreciate. Have an amazing weekend everyone!
 
 [LinkedIn Event](https://www.linkedin.com/events/6815075152741695488/)
+[Slides](https://docs.google.com/presentation/d/13uLUHDvZifjp2aVClGsW29nfuVpQYvrkGLP8cej0R_k/edit?usp=sharing)
 
-# July 22th
-
-## how to advance your career faster through promotions!
+## How To Get Promoted Faster In Tech
 
 Thanks everyone for joining our session about how to advance your career faster through promotions! Here are the relevant points:
+
 **It’s About Behavior, Not Output**
 * Raw output is not scalable. You can only get so fast at writing code and there are only so many hours in a day.
 * Very senior ICs are senior because they act in a fundamentally different way compared to more junior ICs - it’s not about how fast you can code.
 * Needing to work 12+ hours a day to be at the next level isn’t truly functioning at the next level, it could actually be a negative signal for promo.
 * Good litmus test: How far in advance do you know what you’re going to work on?
+
 **Increase Your Scope**
 * Being senior almost always requires working through others
 * Impact many people positively, adding multiplicative value instead of additive value, e.g. redefine a process that affects entire org like oncall
 * In a high-growth tech company, I promise there will always be room to improve things
 * Understand social capital: be cognizant of the relationships you need to build and work closely with those people and act with empathy
 * One important part of getting positive peer feedback is the marketing aspect. You should make regular posts and status updates. This is valuable for 2 reasons:
-    * If your work is truly adding value, then the status updates will be welcome
-    * Your regular updates let you acknowledge the contributions from your teammates
+  * If your work is truly adding value, then the status updates will be welcome
+  * Your regular updates let you acknowledge the contributions from your teammates
+
 **Work With Your Manager**
 * Your performance review result should not be a surprise and your manager is held the most accountable for that
 * People often don’t realize: They need to hold their manager accountable.
 * Manager can’t read minds. You need to leverage them as a resource. Flip the understanding of you serving your manager. Your manager actually serves you.
 * Write down a career growth plan with your manager.
+
 **Managing Feedback**
 When you give others permission to give you constructive feedback, you’re much more likely to hear it.
 * Schedule a dedicated 1:1 with key influential people who can tell you your strengths and growth areas.
-* These conversations should be awkward. 
+* These conversations should be awkward.
+
 **Self Feedback**
 * Think about what work you enjoy doing and are good at. You’ll do better if you spend time on things you enjoy.
 * Humans are bad at remembering things, especially across a 6 to 12 month span. Good things are harder to remember as well.
 * Write down your wins and keep a brag journal. This will help with perf review.
+
 **Staying In Sync With Manager**
 * It’s easy for managers to look track of what their reports are doing, especially if they have more reports or the company is fast moving.
 * Share wins regularly with your manager
 * Ask for feedback in the right way: “Here’s my observation about me and the team… what do you think?”
 * Check in against the growth plan
+
 **You Are In Control of Your Career**
 You’re not beholden to your company, so you should feel empowered to switch jobs if you don’t see an opportunity for career growth.
 * If your manager is unsupportive, or you have a strained relationship with influential people in the org, your promo case will be much harder.
 * Promotions require a “business need” which you likely don’t have control over
 * Companies are risk-averse with promotions, and you have very little leverage. Sometimes the easiest way to advocate for yourself is to get another job.
 
-I’ll also point you to the LI article I wrote about promotion. Thanks for joining :slightly_smiling_face:
+I’ll also point you to the [LI article](https://www.linkedin.com/pulse/5-things-i-wish-knew-promotion-engineer-rahul-pandey/) I wrote about promotion.
+
+[LinkedIn Event](https://www.linkedin.com/events/6819793254716989440/)
 
 # July 27th
 
