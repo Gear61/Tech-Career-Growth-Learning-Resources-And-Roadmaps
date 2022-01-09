@@ -79,7 +79,7 @@ Recap:
 2. It takes time for a product to take off - It usually takes at least a couple iterations for your product to have enough features and be polished enough to reach a critical mass of users who find it genuinely useful. Don't just expect to drop a raw MVP (minimum viable product) and expect it to take off. Most of a product's value comes from the execution, not the raw idea itself.
 3. Solve a problem you are close to - By solving for a problem you or someone close to you has, you will naturally be more passionate and motivated about solving that problem. Once you have the product out, you will also be able to get valuable feedback on the product easily, either from yourself or that person close to you. By "feeling the pain" of every bug and inefficiency your product has, you can craft a truly elegant solution. If you solve for a problem that you aren't really close to, you won't be able to build that true user understanding and will likely end up with a product that either solves nothing or solves a problem extremely poorly.
 
-[Link to all of my side projects (~2 million installs)](https://play.google.com/store/apps/dev?id=9093438553713389916)
+[Link to all of Alex's side projects (~2 million installs)](https://play.google.com/store/apps/dev?id=9093438553713389916)
 
 ## What Does a Product Manager Do And Why You Should Become One
 Recap of the session with Tulsee, who's currently a Google Product Lead for ML Fairness and Responsible AI:
@@ -116,7 +116,7 @@ Recap of the session with @Clarence Chio, the founder of Unit21, a security star
 * You will likely be very bad at hiring and managing a team as a first time founder. Find a coach who can help you get better, and be prepared to learn on the job.
 * Finding a community of like-minded people is important for finding a cofounder and committing to a startup. Clarence was part of South Park Commons for example, a community of domain experts where everyone can jam on ideas together.
 
-[LinkedInEvent](https://www.linkedin.com/events/6766892651678724096/)
+[LinkedIn Event](https://www.linkedin.com/events/6766892651678724096/)
 
 ## How To Learn Quickly In The Tech Industry
 * Don't be afraid to ask questions
@@ -210,7 +210,7 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
     * Medium: the go-to destination for technical blogs. Submitting your articles to publications will get you distribution. Much less community oriented, and it’s easier for people to create content.  
     * Your own blog: preferred if you’re writing more for yourself. You can cross post content to Medium. For discovery, you’ll have to rely on Google SEO which takes a long time. 
     * Other platforms: LinkedIn, Twitter, Clubhouse, TikTok. Do them if you enjoy them, but it’s really hard to create a “portfolio” of high quality content, and it may be harder to stand out.
-    * I picked YT since it combines 3 skills: technical competency, communication ability, and video editing. The combination of all 3 is quite rare, which makes the content more valuable.
+    * Rahul picked YT since it combines 3 skills: technical competency, communication ability, and video editing. The combination of all 3 is quite rare, which makes the content more valuable.
 
 [Linked Event](https://www.linkedin.com/events/6775847302641938432/)
 
@@ -245,6 +245,7 @@ Huge thanks to the ~175 of you who showed up for the session today. In case you 
 * When switching jobs, Course Hero gave Alex a job as their 1st Android engineer (and Android tech lead by default, hehe) because of his side projects, which were actually a focal point of his system design round with the CTO. The job posting wanted 3+ years of professional Android experience. Alex had 0.
 * From his solid Course Hero background, Alex was able to get into Facebook as an Android engineer where he also talked about his side projects a lot during his interview.
 * Without his side projects, it’s likely Alex wouldn’t be where he is today.
+
 **Rahul’s story**
 * Started out as ML engineer doing recommendation systems. But Rahul wasn’t excited about this that much as he wanted something more tangible.
 * Recommendations inherently require lots of a data, and there’s not as much of a deliverable. Android was appealing for that. 
