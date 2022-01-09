@@ -47,10 +47,6 @@
    * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
 * October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
-* [October 12th](#october-12th)
-   * [The BEST Way To Learn As A Software Engineer - Always Be Building](#the-best-way-to-learn-as-a-software-engineer---always-be-building)
-* [October 14th](#october-14th)
-   * [How To Build An Amazing Product - Do Just 1 Thing](#how-to-build-an-amazing-product---do-just-1-thing)
 * [October 17th](#october-17th)
    * [How to Learn Quickly in Tech”](#how-to-learn-quickly-in-tech-1)
 * [October 19th](#october-19th)
@@ -965,16 +961,10 @@ Continuing on to the 2nd recap from the personal projects session :tada: The mos
 
 [![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-14th.png)](https://youtu.be/voUyG75SMLw)
 
-#### How To Build An Amazing Product - Do Just 1 Thing
-We have 2 more recap videos out from the session on how to build software projects that get 500k+ users and actually prepare you for the job market.
-The first is about how a good product should do just 1 thing with an extremely high-level of focus and polish, especially initially. I actually feel like Facebook struggles with this a lot:
-
-[![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-19-01.png)](https://www.youtube.com/watch?v=voUyG75SMLw&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF&index=3)
-
 #### Where The TRUE Learning As A Developer Comes In - Winning With Quality
-The second is about something that is seriously underrated: Quality. As alluded to in the "How To Learn Quickly In Tech" session as well, true learning comes when you really push a product/component to its limit, building something that is truly robust, smooth, and delightful. This is where junior engineers often struggle when building personal software projects.
+This video is about something that is seriously underrated: Quality. As alluded to in the "How To Learn Quickly In Tech" session as well, true learning comes when you really push a product/component to its limit, building something that is truly robust, smooth, and delightful. This is where junior engineers often struggle when building personal software projects.
 
-[![Where The TRUE Learning As A Developer Comes In - Winning With Quality ](img/session-recap/video-october-19-02.png)](https://www.youtube.com/watch?v=144YS6pZuqo)
+[![Where The TRUE Learning As A Developer Comes In - Winning With Quality](img/session-recap/video-october-19-02.png)](https://www.youtube.com/watch?v=144YS6pZuqo)
 
 #### The EASIEST Way To Make Users Love Your Product - The Power Of Free 
 Hot off the press, here's another recap video from the side projects session on 10/2. It covers an extremely powerful and 0 effort way you can make your personal software project 10x more appealing as a product compared to the rest of the field:
@@ -982,7 +972,7 @@ Hot off the press, here's another recap video from the side projects session on 
 [![The EASIEST Way To Make Users Love Your Product - The Power Of Free](img/session-recap/video-october-25.png)](https://www.youtube.com/watch?v=jM-kV1geEP8)
 
 #### This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding 
-Here’s another one: the importance of eating your dogfood :innocent: Basically, make sure you use the product you’re building so you know how to improve it!
+Here’s another one: the importance of eating your dogfood. Basically, make sure you use the product you’re building so you know how to improve it!
 
 [![This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding ](img/session-recap/video-october-27.png)](https://youtu.be/8f_XVXeYNas)
 
@@ -1017,35 +1007,47 @@ Thanks everyone for joining today about our session “How to Learn Quickly in T
 * You’ll maximize your learning if you move away from strict structure and build your own things
 * Learn to embrace discomfort and unknowns - this is a constant in the tech world
 * Work backwards from your destination, instead of following an exact prescription
-* imberapp.com is designed to give you feedback + encouragement on your personal projects as you create your own experience 
+* https://www.imberapp.com/ is designed to give you feedback + encouragement on your personal projects as you create your own experience 
 
-Slides -> 
+Slides
+
 [![How To Learn Quickly In Tech](img/session-recap/recap-october-25.png)](https://docs.google.com/presentation/d/1C0RYphpovijVp8s3JVjG9iYFT6hgPJNHabIeP8WF7V4/edit)
 
-## How To Ask Amazing Questions That Get Answers Fast 
+### YouTube Recaps
 
+#### How To Ask Amazing Questions That Get Answers Fast 
 Here's the snippet from our "How To Learn Quickly In Tech" session on 10/16 where we break down how to ask an effective question. If you're a junior engineer trying to find your way within a new team or you're just trying to get some great answers within this Slack community, definitely check it out here
 
 [![How To Ask Amazing Questions That Get Answers Fast ](img/session-recap/video-october-28.png)](https://www.youtube.com/watch?v=VS75nql2Csg)
 
-
-# November 1st
-
-## Bad Question vs. Good Question Example - Tech Career Growth 
-
+#### Bad Question vs. Good Question Example - Tech Career Growth 
 Following up on the prior recap video, here's a snippet where we break down an in-depth example with what is originally an ineffective question, which then turns into an effective question
 
 [![ Bad Question vs. Good Question Example - Tech Career Growth ](img/session-recap/video-november-01.png)](https://www.youtube.com/watch?v=24CGlaL5bXo)
 
-
-# November 5st
-
-## This Is How To Learn A New Codebase FAST 
-
+#### This Is How To Learn A New Codebase FAST 
 Here's our latest session recap video, which covers how to learn a new codebase the most quickly. Definitely do this if you're a freshly hired junior engineer trying to learn the ropes of your new team!
 
+[![This Is How To Learn A New Codebase FAST](img/session-recap/video-november-05.png)](https://www.youtube.com/watch?v=QLCq91qrMC0)
 
-[![This Is How To Learn A New Codebase FAST ](img/session-recap/video-november-05.png)](https://www.youtube.com/watch?v=QLCq91qrMC0)
+#### Why You Should Be The DUMBEST Person In The Room 
+For those of you who missed the "How To Learn Quickly In Tech" session, here's another recap video from it, explaining why you should try to be the dumbest person in the room to maximize your growth: https://www.youtube.com/watch?v=1jJf0ehQ7Fo
+
+[![Why You Should Be The DUMBEST Person In The Room ](img/session-recap/video-november-10.png)](https://www.youtube.com/watch?v=1jJf0ehQ7Fo)
+
+#### There Is No Such Thing As A Stupid Question 
+Hey everyone, we recently wrapped up our video recaps for the question asking portion of the "How To Learn Quickly In Tech" session.
+
+If there's one series of recaps you should absolutely watch, it's this one because, well, you're in this Slack community and the main thing we do here is ask and answer questions. Questions are one of the most powerful tools for any engineer's growth and one of the most straightforward as well: We all grew up asking questions, but very few of us grew up building globally deployable #side-projects for example. However, there's 3 things that make question asking hard:
+* Mustering up the courage to ask the question in the first place
+* Adding enough context so that it can be easily and effectively answered
+* Using it as a social-capital building mechanism to actually build respect and relationships as opposed to being a purely  tactical mechanism,
+
+This is why @Rahul Pandey and I covered question asking in 20+ minutes of content across 4 videos; there's really a lot more to it than people think. Anyways, we hope this helps!
+
+You can find them all in the playlist here:
+
+[![There Is No Such Thing As A Stupid Question  ](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
 
 # November 6st
 
@@ -1055,34 +1057,6 @@ Starting off the session recap early this time (we're still doing the session!) 
 
 
 [![How To Ace Your Big Tech Interview - System Design ](img/session-recap/recap-november-06.png)](https://docs.google.com/presentation/d/1z4yX5LiiSxbHiNrBOTPIiDfhBL5qmwRUrDojT71OROY/edit?usp=sharing)
-
-# November 10st
-
-## Why You Should Be The DUMBEST Person In The Room 
-
-For those of you who missed the "How To Learn Quickly In Tech" session, here's another recap video from it, explaining why you should try to be the dumbest person in the room to maximize your growth: https://www.youtube.com/watch?v=1jJf0ehQ7Fo
-On the flip side, if you feel like you're always the smartest person in the room, you might want to leave your team/company if growth is one of your priorities. This was actually the case for me at Course Hero - I was the 1st Android engineer and lead, and I could never hire anyone more senior than myself or even at the same level but specializing in a different part of Android. My growth at Course Hero was pretty stagnant because of this, which is a big reason why I left - I was the smartest person in the room way too often.
-And then I went to Facebook where I was the dumbest person in the room most of the time :rolling_on_the_floor_laughing:
-
-[![Why You Should Be The DUMBEST Person In The Room ](img/session-recap/video-november-10.png)](https://www.youtube.com/watch?v=1jJf0ehQ7Fo)
-
-
-# November 11st
-
-## There Is No Such Thing As A Stupid Question 
-
-Hey everyone, we recently wrapped up our video recaps for the question asking portion of the "How To Learn Quickly In Tech" session.
-If there's one series of recaps you should absolutely watch, it's this one because, well, you're in this Slack community and the main thing we do here is ask and answer questions. Questions are one of the most powerful tools for any engineer's growth and one of the most straightforward as well: We all grew up asking questions, but very few of us grew up building globally deployable #side-projects for example. However, there's 3 things that make question asking hard:
-* Mustering up the courage to ask the question in the first place
-* Adding enough context so that it can be easily and effectively answered
-* Using it as a social-capital building mechanism to actually build respect and relationships as opposed to being a purely  tactical mechanism,
-
-This is why @Rahul Pandey and I covered question asking in 20+ minutes of content across 4 videos; there's really a lot more to it than people think. Anyways, we hope this helps!
-
- You can find them all in the playlist here:
-
-[![There Is No Such Thing As A Stupid Question  ](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
-
 
 # November 14st
 
