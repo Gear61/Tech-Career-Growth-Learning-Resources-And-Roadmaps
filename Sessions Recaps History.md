@@ -47,12 +47,6 @@
    * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
 * October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
-* [October 3th](#october-3th)
-   * [How To Truly Master A Data Structures &amp; Algorithms Problem](#how-to-truly-master-a-data-structures--algorithms-problem)
-* [October 6th](#october-6th)
-   * [Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews](#acing-tech-interviews-is-more-than-just-the-solution---how-to-properly-communicate-in-interviews)
-* [October 7th](#october-7th)
-   * [Stop Wasting Time In Your Tech Interviews By "Inventing The API](#stop-wasting-time-in-your-tech-interviews-by-inventing-the-api)
 * [October 12th](#october-12th)
    * [The BEST Way To Learn As A Software Engineer - Always Be Building](#the-best-way-to-learn-as-a-software-engineer---always-be-building)
 * [October 14th](#october-14th)
@@ -959,100 +953,74 @@ Thanks to everyone who joined us today about building + growing personal project
 * Commit to at least 15 updates across 2 months. After that, if there’s still no traction, move on to something else.
 * For the mobile stores in particular, update frequency are almost certainly factored into the search ranking algorithm
 
-# October 12th
+### YouTube Recaps
 
-## The BEST Way To Learn As A Software Engineer - Always Be Building
-
+#### The BEST Way To Learn As A Software Engineer - Always Be Building
 We now have our 1st recap video from the side projects session on 10/2! In this video, we explain all the benefits of seriously building personal software projects and how it's much more conducive and symbiotic towards your growth vs. more "traditional" activities like DSA grinding: 
 
 [![The BEST Way To Learn As A Software Engineer - Always Be Building ](img/session-recap/video-October-12th.png)](hhttps://www.youtube.com/watch?v=Ciu8zwOr8PU)
 
-
-# October 14th
-
-## How To Build An Amazing Product - Do Just 1 Thing
-
+#### How To Build An Amazing Product - Do Just 1 Thing
 Continuing on to the 2nd recap from the personal projects session :tada: The most common mistake people make when building projects on their own is trying to make something too complicated.
 
 [![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-14th.png)](https://youtu.be/voUyG75SMLw)
 
+#### How To Build An Amazing Product - Do Just 1 Thing
+We have 2 more recap videos out from the session on how to build software projects that get 500k+ users and actually prepare you for the job market.
+The first is about how a good product should do just 1 thing with an extremely high-level of focus and polish, especially initially. I actually feel like Facebook struggles with this a lot:
 
-# October 17th
+[![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-19-01.png)](https://www.youtube.com/watch?v=voUyG75SMLw&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF&index=3)
 
-## How to Learn Quickly in Tech”
+#### Where The TRUE Learning As A Developer Comes In - Winning With Quality
+The second is about something that is seriously underrated: Quality. As alluded to in the "How To Learn Quickly In Tech" session as well, true learning comes when you really push a product/component to its limit, building something that is truly robust, smooth, and delightful. This is where junior engineers often struggle when building personal software projects.
 
+[![Where The TRUE Learning As A Developer Comes In - Winning With Quality ](img/session-recap/video-october-19-02.png)](https://www.youtube.com/watch?v=144YS6pZuqo)
+
+#### The EASIEST Way To Make Users Love Your Product - The Power Of Free 
+Hot off the press, here's another recap video from the side projects session on 10/2. It covers an extremely powerful and 0 effort way you can make your personal software project 10x more appealing as a product compared to the rest of the field:
+
+[![The EASIEST Way To Make Users Love Your Product - The Power Of Free](img/session-recap/video-october-25.png)](https://www.youtube.com/watch?v=jM-kV1geEP8)
+
+#### This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding 
+Here’s another one: the importance of eating your dogfood :innocent: Basically, make sure you use the product you’re building so you know how to improve it!
+
+[![This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding ](img/session-recap/video-october-27.png)](https://youtu.be/8f_XVXeYNas)
+
+## How to Learn Quickly in Tech
 Thanks everyone for joining today about our session “How to Learn Quickly in Tech”!! We’ll eventually post snippets of the session on YT, but for now, please enjoy this text recap:
+
 **1. Ask effective questions**
 * Guiding principle: make it easy for others to help you
 * Asking good questions not only helps you, but the whole team: your question (plus follow up) will help others struggling in the same area.
 * Rule of thumb: if you’re struggling for > 15 min, ask a question
 * Avoid the leading hi, pass the 1st round Google test, Include context, and be appreciative!
+
 **2. Learn by doing**
 * The cost of writing (and rewriting) software is low, which means that you should jump right into doing/building
 * The best way to learn a new programming language or technology is to start tinkering
 * Don’t waste time on: waiting for a certificate, or reading excessive documentation
 * Share what you know, the reflection that you do will help you learn
+
 **3. Feedback is a gift**
 * Most of the people you work with are smart and well-intentioned, so their feedback will unlock lots of learning.
 * Invite feedback: you’re much more likely to hear it if you ask for for it. 
 * Write down feedback and convert it to action items -- this builds social capital.
-* If you don’t have colleagues to give you feedback, use the Tech Career Growth channel. 
+* If you don’t have colleagues to give you feedback, use the Tech Career Growth channel.
+
 **4. The Lego model**
 * We combine legos in different ways to create valuable structures. 
 * You can think of tech components as legos, and we combine these into products.
 * To learn quickly, collect lots of legos and make sure they’re high quality + in demand.
 * Good legos: onboarding flows, displaying a list of items, displaying images
+
 **5. Build a powerful learning roadmap**
 * You’ll maximize your learning if you move away from strict structure and build your own things
 * Learn to embrace discomfort and unknowns - this is a constant in the tech world
 * Work backwards from your destination, instead of following an exact prescription
 * imberapp.com is designed to give you feedback + encouragement on your personal projects as you create your own experience 
 
-
-# October 19th
-
-## How To Build An Amazing Product - Do Just 1 Thing
-
-We have 2 more recap videos out from the session on how to build software projects that get 500k+ users and actually prepare you for the job market.
-The first is about how a good product should do just 1 thing with an extremely high-level of focus and polish, especially initially. I actually feel like Facebook struggles with this a lot:
-
-[![How To Build An Amazing Product - Do Just 1 Thing ](img/session-recap/video-october-19-01.png)](https://www.youtube.com/watch?v=voUyG75SMLw&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF&index=3)
-
-
-
-## Where The TRUE Learning As A Developer Comes In - Winning With Quality
-The second is about something that is seriously underrated: Quality. As alluded to in the "How To Learn Quickly In Tech" session as well, true learning comes when you really push a product/component to its limit, building something that is truly robust, smooth, and delightful. This is where junior engineers often struggle when building personal software projects:
-
-This Is How You Grow From A Mediocre Software Engineer To A Good One
-
-[![Where The TRUE Learning As A Developer Comes In - Winning With Quality ](img/session-recap/video-october-19-02.png)](https://www.youtube.com/watch?v=144YS6pZuqo)
-
-
-## How To Learn Quickly In Tech
-
 Slides -> 
 [![How To Learn Quickly In Tech](img/session-recap/recap-october-25.png)](https://docs.google.com/presentation/d/1C0RYphpovijVp8s3JVjG9iYFT6hgPJNHabIeP8WF7V4/edit)
-
-
-
-# October 25th
-
-## The EASIEST Way To Make Users Love Your Product - The Power Of Free 
-
-Hot off the press, here's another recap video from the side projects session on 10/2. It covers an extremely powerful and 0 effort way you can make your personal software project 10x more appealing as a product compared to the rest of the field:
-
-
-[![The EASIEST Way To Make Users Love Your Product - The Power Of Free](img/session-recap/video-october-25.png)](https://www.youtube.com/watch?v=jM-kV1geEP8)
-
-
-# Octover 27th
-
-## This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding 
-
-Here’s another one: the importance of eating your dogfood :innocent: Basically, make sure you use the product you’re building so you know how to improve it!
-
-[![This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding ](img/session-recap/video-october-27.png)](https://youtu.be/8f_XVXeYNas)
-
 
 ## How To Ask Amazing Questions That Get Answers Fast 
 
