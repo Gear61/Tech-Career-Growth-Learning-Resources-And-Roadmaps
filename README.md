@@ -229,7 +229,7 @@ None yet
 * [What software engineering paths are there if I don't like front end?](./threads/How%20To%20Build%20Non%20Front-End%20Projects.md)
 
 ## Better Sessions Recap :tv:
-* :calendar: [Sessions Recap 2021](Sessions Recaps History.md)
+* :calendar: [Sessions Recap 2021](Sessions%20Recaps%20History.md)
 
 
 ## Posts
