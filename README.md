@@ -5,6 +5,7 @@ Slack search is bad, and we're also on the free-tier so you can only see the lat
 
 For public resources from Tech Career Growth specifically (i.e. stuff Alex and Rahul made), you can find them in this [giant Medium post](https://chioualexander.medium.com/the-ultimate-guide-to-advance-your-career-in-tech-regularly-updated-7b2929355f31?sk=bb9fb981ecaee453f31119aac636290b).
 
+For all the recap content from the community's famous live sessions, you can find them [here](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps/blob/main/Sessions%20Recaps%20History.md).
 
 ## Contents
 [🌐 Web](#-web)
