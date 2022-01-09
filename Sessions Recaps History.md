@@ -47,31 +47,10 @@
    * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
 * October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
-* [October 17th](#october-17th)
-   * [How to Learn Quickly in Tech”](#how-to-learn-quickly-in-tech-1)
-* [October 19th](#october-19th)
-   * [How To Build An Amazing Product - Do Just 1 Thing](#how-to-build-an-amazing-product---do-just-1-thing-1)
-   * [Where The TRUE Learning As A Developer Comes In - Winning With Quality](#where-the-true-learning-as-a-developer-comes-in---winning-with-quality)
-   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech-2)
-* [October 25th](#october-25th)
-   * [The EASIEST Way To Make Users Love Your Product - The Power Of Free](#the-easiest-way-to-make-users-love-your-product---the-power-of-free)
-* [Octover 27th](#octover-27th)
-   * [This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding](#this-is-how-facebook-makes-amazing-apps---the-importance-of-dogfooding)
-   * [How To Ask Amazing Questions That Get Answers Fast](#how-to-ask-amazing-questions-that-get-answers-fast)
-* [November 1st](#november-1st)
-   * [Bad Question vs. Good Question Example - Tech Career Growth](#bad-question-vs-good-question-example---tech-career-growth)
-* [November 5st](#november-5st)
-   * [This Is How To Learn A New Codebase FAST](#this-is-how-to-learn-a-new-codebase-fast)
+* October 16th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech)
 * [November 6st](#november-6st)
    * [How To Ace Your Big Tech Interview - System Design](#how-to-ace-your-big-tech-interview---system-design)
-* [November 10st](#november-10st)
-   * [Why You Should Be The DUMBEST Person In The Room](#why-you-should-be-the-dumbest-person-in-the-room)
-* [November 11st](#november-11st)
-   * [There Is No Such Thing As A Stupid Question](#there-is-no-such-thing-as-a-stupid-question)
-* [November 14st](#november-14st)
-   * [The #1 Tactic To Become A Senior Engineer Faster](#the-1-tactic-to-become-a-senior-engineer-faster)
-* [December 21](#december-21)
-   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech-3)
 
 ## Optimizing For Promotion In Tech
 Our recap for this first session was actually quite brief as this was before the Slack community and @Rahul Pandey and I had 0 clue what we were doing. So here's a real recap of that session:
@@ -1047,7 +1026,11 @@ This is why @Rahul Pandey and I covered question asking in 20+ minutes of conten
 
 You can find them all in the playlist here:
 
-[![There Is No Such Thing As A Stupid Question  ](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
+[![There Is No Such Thing As A Stupid Question](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
+
+Check all the entire playlist for this session :point_right: [YouTube PlayList]( https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF)
+
+[LinkedIn Event](https://www.linkedin.com/events/6847960498936406016/)
 
 # November 6st
 
@@ -1069,26 +1052,3 @@ Let us know if these help!
 
 
 [![The #1 Tactic To Become A Senior Engineer Faster](img/session-recap/video-november-14.png)](https://youtu.be/r6D9dirIqLs)
-
-
-# December 21th
-
-## How To Learn Quickly In Tech
-
-Oh wow, it's been over a month since the last message in this channel. Anyways, I looked back again and realized that we didn't share that our playlist for the "How To Learn Quickly In Tech" session is now completed! 
-This is arguably our most important session and content ever as tech is always changing, so everyone is constantly learning new stuff, even seasoned folks like @Rahul Pandey and myself! Of course, topics like interview prep, resume writing, and figuring out promotion systems are important, but in the end, each one is 1 topic out of infinite within the tech ecosystem. This playlist teaches you how to learn anything optimally in tech, regardless of what it is!
-Some topics covered in this session include:
-* How to ask effective questions that get awesome answers quickly
-* How to get salient feedback that you can apply to yourself to improve fast
-* How to figure out what to learn and how to learn it
-
-You can find it here:
-
-[![How To Learn Quickly In Tech](img/session-recap/video-december-21.png)]( https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBAFZweJNwMu2i74FcuITUYI)
-
-
-
-Check all the playlist of Tech Career Growth - Alex & Rahul :point_right:    
-[YouTube PlayList]( https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF)
-
-
