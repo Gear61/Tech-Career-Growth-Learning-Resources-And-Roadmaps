@@ -49,7 +49,7 @@
    * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
 * October 16th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech)
-* [November 6st](#november-6st)
+* November 6th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
    * [How To Ace Your Big Tech Interview - System Design](#how-to-ace-your-big-tech-interview---system-design)
 
 ## Optimizing For Promotion In Tech
