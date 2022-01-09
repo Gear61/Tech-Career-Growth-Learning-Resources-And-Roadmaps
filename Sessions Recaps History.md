@@ -1028,27 +1028,25 @@ You can find them all in the playlist here:
 
 [![There Is No Such Thing As A Stupid Question](img/session-recap/video-november-11.png)](https://www.youtube.com/watch?v=fVgZBX0yinc&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY)
 
+#### The #1 Tactic To Become A Senior Engineer Faster
+Feedback is critical to getting better as an engineer. In this video, @Alex and I talk about the best ways to receive more high-quality feedback from the people around you. For example:
+
+* In 1:1s, instead of just saying “Do you have any feedback for me?” say “What should I start doing to be more effective? What should I stop doing?”
+* In code reviews, proactively identify areas where you’d love extra eyes or feedback
+
+Let us know if these help!
+
+[![The #1 Tactic To Become A Senior Engineer Faster](img/session-recap/video-november-14.png)](https://youtu.be/r6D9dirIqLs)
+
 Check all the entire playlist for this session :point_right: [YouTube PlayList]( https://www.youtube.com/watch?v=Ciu8zwOr8PU&list=PL7NYbSE8uaBC_YrNV4a67PEu77dCDfNLF)
 
 [LinkedIn Event](https://www.linkedin.com/events/6847960498936406016/)
 
-# November 6st
-
 ## How To Ace Your Big Tech Interview - System Design
-
 Starting off the session recap early this time (we're still doing the session!) - Anyways, here are the slides we used for the system design interview session:
-
 
 [![How To Ace Your Big Tech Interview - System Design ](img/session-recap/recap-november-06.png)](https://docs.google.com/presentation/d/1z4yX5LiiSxbHiNrBOTPIiDfhBL5qmwRUrDojT71OROY/edit?usp=sharing)
 
-# November 14st
+[LinkedIn Event](https://www.linkedin.com/events/6853430990732439552/)
 
-## The #1 Tactic To Become A Senior Engineer Faster
-
-Feedback is critical to getting better as an engineer. In this video, @Alex and I talk about the best ways to receive more high-quality feedback from the people around you. For example:
-* In 1:1s, instead of just saying “Do you have any feedback for me?” say “What should I start doing to be more effective? What should I stop doing?”
-* In code reviews, proactively identify areas where you’d love extra eyes or feedback
-Let us know if these help!
-
-
-[![The #1 Tactic To Become A Senior Engineer Faster](img/session-recap/video-november-14.png)](https://youtu.be/r6D9dirIqLs)
+Remaining recap material is TBD.
