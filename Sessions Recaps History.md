@@ -595,9 +595,12 @@ The session from this evening about time management was so much fun!
 * Sleep + exercise are critical. Don’t be a zombie with reduced ability to focus/debug issues.
 * TV/movies/gaming: it’s ok if you do these, but you need to be in control of your consumption. In general, we want to create more than we consume.
 
+### YouTube Recaps
+[Video Playlist](https://www.youtube.com/watch?v=XqBA2fkvUTg&list=PL7NYbSE8uaBDgDi3OxILbth-wSBE3lQMk)
+
 [LinkedIn Event](https://www.linkedin.com/events/6807069050255106048/)
 
-# How To Ace Your Big Tech Interview With Data Structures And Algorithms
+## How To Ace Your Big Tech Interview With Data Structures And Algorithms
 Hey everyone, thanks so much for your support for the earlier session today about interviewing for Big Tech, specially on the DSA portion. As usual, here's a thorough session recap for those who missed it or just want something for your notes.
 
 **The Mental Game**
