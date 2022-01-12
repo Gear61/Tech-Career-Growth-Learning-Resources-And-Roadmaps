@@ -8,7 +8,14 @@ One of the goals of Tech Career Growth community is to build a positive and supp
 3. **When in doubt, do as Alex and Rahul do** - Rahul and I are always striving to respond in a polite, respectful, and thorough manner, and our goal is to set the example for the rest of the community. If you don't know how to communicate in a setting as large and diverse as Tech Career Growth, we totally understand - Just try to mirror us as much as possible.
 
 ## Find The Right Channel
+We want this community to be worth your time. This means that whenever you see a new message in a channel you are part of, it should have a high chance of being relevant or at least interesting to you.
+
+If you're going to share posts in Slack, please take the time to find the right channel for your post before you post it. You can find an excellent graphic showing all the channels in our community below. The channel names are pretty self explanatory.
+
 <img src="./Slack%20Channels%20Guide.jpg" alt="drawing" width="420"/>
+
+## Read The Channel Resources
+Rahul and I make sure that every channel has a good collection of topic, description, and bookmarked/pinned resources, so you can understand the rules of any channel and see the great content that has already been shared and created within it. Please go through all of these before posting in the channel to keep it a clean, focused place for healthy discussion and minimize the community having to solve the same problem twice.
 
 ## Learn To Ask Effective Questions
 
