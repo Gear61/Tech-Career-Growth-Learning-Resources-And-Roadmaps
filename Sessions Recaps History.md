@@ -1,144 +1,184 @@
-# Session Recaps History
+# **Session Recaps History**
 
-## Table of Contents
-* January 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Optimizing For Promotion In Tech](#optimizing-for-promotion-in-tech)
-* February 3rd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Evolving Your Job As Your Company Changes](#evolving-your-job-as-your-company-changes)
-* February 11th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Building Meaningful Side Projects](#building-meaningful-side-projects)
-* February 13th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [What Does a Product Manager Do And Why You Should Become One](#what-does-a-product-manager-do-and-why-you-should-become-one)
-* February 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Productivity Tips as an Engineer](#productivity-tips-as-an-engineer)
-* February 20th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Build A Successful Startup](#how-to-build-a-successful-startup)
-* February 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Learn Quickly In The Tech Industry](#how-to-learn-quickly-in-the-tech-industry)
-* March 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Ace Your Tech Interview](#how-to-ace-your-tech-interview)
-* March 11th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Choosing Your Path As A Software Engineer](#choosing-your-path-as-a-software-engineer)
-* March 18th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
-* March 25th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
-* April 10th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Build Side Project Apps With 100k+ Users For Free](#how-to-build-side-project-apps-with-100k-users-for-free)
-* May 1st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Ace Your Top Big Tech Company Software Interview](#how-to-ace-your-top-big-tech-company-software-interview)
-* May 15th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Become A 10x Engineer](#how-to-become-a-10x-engineer)
-* May 29th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Write A More Effective Tech Resume To Get More Job Opportunities](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
-* June 19th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
-* July 9th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
-* July 17th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
-* July 21st, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
-* August 4th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-  * [Answering Your Top 5 Questions](#answering-your-top-5-questions)
-* August 28th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-   * [How To Write A Stellar Tech Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
-* October 2nd, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+## 📚 **Table of Contents**
+
+* [<strong>January</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#january-)
+   * [<strong>Optimizing For Promotion In Tech</strong>](#optimizing-for-promotion-in-tech)
+* [<strong>February</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#february-)
+   * [<strong>Evolving Your Job As Your Company Changes</strong>](#evolving-your-job-as-your-company-changes)
+   * [<strong>Building Meaningful Side Projects</strong>](#building-meaningful-side-projects)
+   * [<strong>What Does a Product Manager Do And Why You Should Become One</strong>](#what-does-a-product-manager-do-and-why-you-should-become-one)
+   * [<strong>Productivity Tips as an Engineer</strong>](#productivity-tips-as-an-engineer)
+   * [<strong>How To Build A Successful Startup</strong>](#how-to-build-a-successful-startup)
+   * [<strong>How To Learn Quickly In The Tech Industry</strong>](#how-to-learn-quickly-in-the-tech-industry)
+* [<strong>March</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#march-)
+   * [<strong>How To Ace Your Tech Interview</strong>](#how-to-ace-your-tech-interview)
+   * [<strong>Choosing Your Path As A Software Engineer</strong>](#choosing-your-path-as-a-software-engineer)
+   * [Using Content Creation To Boost Your Tech Skills](#using-content-creation-to-boost-your-tech-skills)
+   * [Succeeding as a Self Taught Dev/Bootcamp Grad](#succeeding-as-a-self-taught-devbootcamp-grad)
+* [<strong>April</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#april-)
+   * [How To Build Side Project Apps With 100k+ Users (For Free!)](#how-to-build-side-project-apps-with-100k-users-for-free)
+* [<strong>May</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#may-)
+   * [<strong>How To Ace Your Top Big Tech Company Software Interview</strong>](#how-to-ace-your-top-big-tech-company-software-interview)
+   * [<strong>How To Become A 10x Engineer</strong>](#how-to-become-a-10x-engineer)
+   * [<strong>How To Write A More Effective Tech Resume To Get More Job Opportunities</strong>](#how-to-write-a-more-effective-tech-resume-to-get-more-job-opportunities)
+      * [<strong>YouTube Recaps</strong>](#-youtube-recaps)
+         * [<strong>Why You Should Be BORING With Your Tech Resume</strong>](#why-you-should-be-boring-with-your-tech-resume)
+         * [<strong>THIS Is Why Your Resume Is Bad - Telling vs Showing</strong>](#this-is-why-your-resume-is-bad---telling-vs-showing)
+* [<strong>June</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#june-)
+   * [How To Come Up With 100k+ Users App Ideas You Can Build For Free](#how-to-come-up-with-100k-users-app-ideas-you-can-build-for-free)
+      * [YouTube Recaps](#youtube-recaps)
+         * [How To Build Apps With 100k+ Users: Feasibility vs. Excitement](#how-to-build-apps-with-100k-users-feasibility-vs-excitement)
+         * [How to SUPERCHARGE Your Software Engineer Resume](#how-to-supercharge-your-software-engineer-resume)
+         * [How To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea](#how-to-identify-100k-users-app-ideas-you-can-actually-build---good-idea-vs-bad-idea)
+* [<strong>July</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#july-)
+   * [How To Manage Your Time Optimally In Tech And Achieve More Results](#how-to-manage-your-time-optimally-in-tech-and-achieve-more-results)
+      * [YouTube Recaps](#youtube-recaps-1)
+   * [How To Ace Your Big Tech Interview With Data Structures And Algorithms](#how-to-ace-your-big-tech-interview-with-data-structures-and-algorithms)
+      * [YouTube Recaps](#youtube-recaps-2)
+         * [How To Have The Proper Mindset In Big Tech Software Engineering Interviews](#how-to-have-the-proper-mindset-in-big-tech-software-engineering-interviews)
+         * [How You Properly Learn Data Structures and Algorithms (DSA)](#how-you-properly-learn-data-structures-and-algorithms-dsa)
+         * [How to Mentally Prepare for Your Tech Interview](#how-to-mentally-prepare-for-your-tech-interview)
+         * [How To Truly Master A Data Structures &amp; Algorithms Problem](#how-to-truly-master-a-data-structures--algorithms-problem)
+         * [Acing Tech Interviews Is More Than Just The Solution - How To Properly Communicate In Interviews](#acing-tech-interviews-is-more-than-just-the-solution---how-to-properly-communicate-in-interviews)
+         * [Stop Wasting Time In Your Tech Interviews By "Inventing The API](#stop-wasting-time-in-your-tech-interviews-by-inventing-the-api)
+   * [How To Get Promoted Faster In Tech](#how-to-get-promoted-faster-in-tech)
+* [<strong>August</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#august-)
+   * [Answering Your Top 5 questions](#answering-your-top-5-questions)
+      * [YouTube Recaps](#youtube-recaps-3)
+         * [Landing an Interview at a Big Tech Company for Engineers - How Do Recruiters Think?](#landing-an-interview-at-a-big-tech-company-for-engineers---how-do-recruiters-think)
+         * [How to Balance Your Time Between Your Job And Self Learning](#how-to-balance-your-time-between-your-job-and-self-learning)
+         * [How do you prepare the perfect portfolio to get discovered by recruiters?](#how-do-you-prepare-the-perfect-portfolio-to-get-discovered-by-recruiters)
+         * [As a software engineer, should you learn new technology with breadth or depth?](#as-a-software-engineer-should-you-learn-new-technology-with-breadth-or-depth)
+         * [How To Stop Procrastinating - Time Management Tips](#how-to-stop-procrastinating---time-management-tips)
+   * [How To Write A Stellar Resume That Gets You More Job Opportunities](#how-to-write-a-stellar-resume-that-gets-you-more-job-opportunities)
+* [<strong>October</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#october-)
    * [How To Build And Grow Tech Products To 500k+ Users For Free](#how-to-build-and-grow-tech-products-to-500k-users-for-free)
-* October 16th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
-   * [How To Learn Quickly In Tech](#how-to-learn-quickly-in-tech)
-* November 6th, 2021 <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>
+      * [YouTube Recaps](#youtube-recaps-4)
+         * [The BEST Way To Learn As A Software Engineer - Always Be Building](#the-best-way-to-learn-as-a-software-engineer---always-be-building)
+         * [How To Build An Amazing Product - Do Just 1 Thing](#how-to-build-an-amazing-product---do-just-1-thing)
+         * [Where The TRUE Learning As A Developer Comes In - Winning With Quality](#where-the-true-learning-as-a-developer-comes-in---winning-with-quality)
+         * [The EASIEST Way To Make Users Love Your Product - The Power Of Free](#the-easiest-way-to-make-users-love-your-product---the-power-of-free)
+         * [This Is How Facebook Makes Amazing Apps - The Importance of Dogfooding](#this-is-how-facebook-makes-amazing-apps---the-importance-of-dogfooding)
+   * [How to Learn Quickly in Tech](#how-to-learn-quickly-in-tech)
+      * [YouTube Recaps](#youtube-recaps-5)
+         * [How To Ask Amazing Questions That Get Answers Fast](#how-to-ask-amazing-questions-that-get-answers-fast)
+         * [Bad Question vs. Good Question Example - Tech Career Growth](#bad-question-vs-good-question-example---tech-career-growth)
+         * [This Is How To Learn A New Codebase FAST](#this-is-how-to-learn-a-new-codebase-fast)
+         * [Why You Should Be The DUMBEST Person In The Room](#why-you-should-be-the-dumbest-person-in-the-room)
+         * [There Is No Such Thing As A Stupid Question](#there-is-no-such-thing-as-a-stupid-question)
+         * [The #1 Tactic To Become A Senior Engineer Faster](#the-1-tactic-to-become-a-senior-engineer-faster)
+* [<strong>November</strong> <g-emoji class="g-emoji" alias="calendar" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c6.png">📆</g-emoji>](#november-)
    * [How To Ace Your Big Tech Interview - System Design](#how-to-ace-your-big-tech-interview---system-design)
 
-## Optimizing For Promotion In Tech
-Our recap for this first session was actually quite brief as this was before the Slack community and @Rahul Pandey and I had 0 clue what we were doing. So here's a real recap of that session:
-* Promotion is about behavior, not output
+# **January** 📆
+
+## **Optimizing For Promotion In Tech**
+
+📺 **Recap:**
+
+Our recap for this first session was actually quite brief as this was before the Slack community and **@Rahul Pandey and I** had 0 clue what we were doing. So here's a real recap of that session:
+* **Promotion is about behavior, not output**
   * This is the #1 most important thing about promotion if you're only going to retain 1 thing from this recap, make it this.
   * You can only scale output so much as you are limited by the number of hours in a day and how much you can push your body/mind before it burns out.
   * Senior engineers are senior because they add multiplicative value, not additive. They build solutions that help broad swaths of people across the company, not 1-off implementations for random features that junior engineers are often saddled with.
-* Perception matters. Acting altruistically will give you a higher chance of promotion
+* **Perception matters. Acting altruistically will give you a higher chance of promotion**
   * In the end, you always work on a team. Don't be someone who only cares about promotion as this will lead to toxic and territorial behavior that ultimately hurts your chances of promotion.
   * Engineers become more senior because they increase their scope, helping and empowering more people across the company. You can't do this if you act in a selfish way.
-* Proper self-presentation is crucial
+* **Proper self-presentation is crucial**
   * In an ideal world, your manager and everyone in your reporting chain would automatically know all the hard work you did and you'll get promoted every time you deserve it. That is not the case, especially in a fast-moving, chaotic company (which most top tech companies like Facebook are).
   * At Facebook, there is something called the "self-review" where you laid out everything major you did and the impact you had in an organized way. If the company doesn't force you to do this, you should just do it yourself whenever it's promo season.
   * It is immensely helpful to keep a running journal of everything you did each week, so you don't need to claw back 6-12 months into the past every promo cycle.
-* Switching companies is a powerful lever
+* **Switching companies is a powerful lever**
   * Companies are not exactly pure engines of goodwill, even top tech companies like Facebook.
   * Often times you will be kept stagnant in your current job due to some mix of stupid obstacles. In this scenario, keep finding a job at a different company in mind as a powerful option. If you're a good engineer and you do well on a company's interview, they need to sweeten the deal to make up for the friction of you leaving your current job to join them. This can end up being a promotion!
 
-## Evolving Your Job As Your Company Changes
+# **February** 📆
+
+## **Evolving Your Job As Your Company Changes**
 Recap of the session with Girish, who's currently an engineering director at Chan Zuckerberg Initiative and was at Facebook for a whopping 11 years:
 * There isn’t a single correct answer for which company you should join early in your career. However, joining a mid-sized, fast growing company offers a good combination of great mentorship + responsibility.
 * Small companies will give you less mentorship but you’ll likely have wider responsibilities. You probably won’t become an industry expert, but you’ll figure out how everything fits together.
 * Large companies will allow you to focus on a particular niche and tackle problems that most others don’t have the luxury of tackling. You’ll also have well-defined paths for career progression + the ability to switch teams if you want. In particular, you will learn how to actually scale products to millions if not billions of users.
 
-## Building Meaningful Side Projects
-Recap:
+## **Building Meaningful Side Projects**
+📺 **Recap:**
 1. Don't be afraid to build something "boring" - It is easy to get lost working with something "cool" like blockchain where your chances of success are low due to the unknowns and instability associated with that tech. There is tremendous value in building a powerful solution to a relatively small problem, more than most people think. If you are on the more junior side, it also makes more sense to start off with something simple for the sake of your gradual progression. You don't become a master overnight.
 2. It takes time for a product to take off - It usually takes at least a couple iterations for your product to have enough features and be polished enough to reach a critical mass of users who find it genuinely useful. Don't just expect to drop a raw MVP (minimum viable product) and expect it to take off. Most of a product's value comes from the execution, not the raw idea itself.
 3. Solve a problem you are close to - By solving for a problem you or someone close to you has, you will naturally be more passionate and motivated about solving that problem. Once you have the product out, you will also be able to get valuable feedback on the product easily, either from yourself or that person close to you. By "feeling the pain" of every bug and inefficiency your product has, you can craft a truly elegant solution. If you solve for a problem that you aren't really close to, you won't be able to build that true user understanding and will likely end up with a product that either solves nothing or solves a problem extremely poorly.
 
-[Link to all of Alex's side projects (~2 million installs)](https://play.google.com/store/apps/dev?id=9093438553713389916)
+🎶 [Link to all of Alex's side projects (~2 million installs)](https://play.google.com/store/apps/dev?id=9093438553713389916)
 
-## What Does a Product Manager Do And Why You Should Become One
-Recap of the session with Tulsee, who's currently a Google Product Lead for ML Fairness and Responsible AI:
+## **What Does a Product Manager Do And Why You Should Become One**
+📺 **Recap:**
+
+Session with Tulsee, who's currently a Google Product Lead for ML Fairness and Responsible AI:
 * PMs are the voice of the user and decide the direction of the product. Being a PM typically means you have much more scope than an equivalent level engineer (at least early in your career)
 * The job of a PM is largely “influence without authority”, so you structure the framework for decision-making, pull in the right data, and work with stakeholders w/o always being the final decision maker
 * APM (Associate Product Manager) Programs are a nice, structured way to become a PM, with support + training
 
-## Productivity Tips as an Engineer
-* Solve the hardest problem first
+## **Productivity Tips as an Engineer**
+* **Solve the hardest problem first**
   * It may be tempting to solve the easiest problems first, but this can leave you with a false sense of confidence.
   * Often times what turns out to be the solution to the hardest problem will have ramifications all across the architecture. Solving the core, central hard problem can transform what you thought were the “easy” tasks before.
   * Tackling the hardest problem first is also crucial to failing fast. Sometimes the hardest problem is literally an impossible problem. The sooner you figure that out, the sooner you can kill the project and move on.
-* Build as much as you can like a library
+* **Build as much as you can like a library**
   * Alex did the same with his side projects. He is able to write thousands of lines of code per day, because a lot of it is frankly copy-paste. He can copy-paste it, because he always designs his code as modules, so at least 50% of his code is “drag-and-dropp-able”.
   * A concrete way to think about this idea is “Avoid monoliths”. Bad engineers in particular will create massive classes that hold all their logic; this is usually the view controller when you’re building user-facing products. When you do this, pretty much none of your code is reusable.
-* Learn when to skip meetings
+* **Learn when to skip meetings**
   * One of the easiest ways to waste your time, especially in older, more bureaucratic companies, is to languish in meetings.
   * If your work culture allows for it like Facebook, don’t be afraid to skip meetings. There is a “Reject invite” button for a reason.
-* Identify if you’re a context switcher or focuser and build around that
+* **Identify if you’re a context switcher or focuser and build around that**
   * If you’re a context switcher: Great! The main things to do here are to continue building the muscle by context switching more often and being able to identify pockets of time where you can be productive.
   * If you don’t like context switching and are the most productive when you are able to focus, make focus blocks. Concentrate similar work (like meetings) on certain days. Aggressively reject non-relevant meetings.
-* Keep a journal and stay in tune with your gut
+* **Keep a journal and stay in tune with your gut**
   * Figuring out how to maximize your productivity is a self-learning exercise. Most people in the beginning of their careers do not know what circumstances they need to shine.
   * Keep some sort of record of what you are doing week or week (or even day over day) and regularly reflect on which weeks were bad (“Argh, I got nothing done”) and which ones were good (“Wow, I crushed it”). Think about why the good weeks were good and why the bad weeks were bad.
   * Be honest with yourself, particularly with things you don’t like. If something feels like a chore, recognize it and tell your manager.
 
-On a side note, notion is supposedly a great note taking tool: https://www.notion.so/
+📢 **On a side note**:
 
-[LinkedIn Event](https://www.linkedin.com/events/6766888028293214208/)
+Notion is supposedly a great note taking tool: https://www.notion.so/ 📝
 
-## How To Build A Successful Startup
-Recap of the session with @Clarence Chio, the founder of Unit21, a security startup that's funded by Google and recently secured its Series A:
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6766888028293214208/)
+
+## **How To Build A Successful Startup**
+
+📺 **Recap:**
+
+Session with **@Clarence Chio**, the founder of **Unit21**, a security startup that's funded by Google and recently secured its Series A:
 * You must talk to customers and understand what product to build. You cannot build your way to a solution in a startup. Put in a very concrete way, building actually comes last.
 * You will likely be very bad at hiring and managing a team as a first time founder. Find a coach who can help you get better, and be prepared to learn on the job.
 * Finding a community of like-minded people is important for finding a cofounder and committing to a startup. Clarence was part of South Park Commons for example, a community of domain experts where everyone can jam on ideas together.
 
-[LinkedIn Event](https://www.linkedin.com/events/6766892651678724096/)
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6766892651678724096/)
 
-## How To Learn Quickly In The Tech Industry
-* Don't be afraid to ask questions
+## **How To Learn Quickly In The Tech Industry**
+* **Don't be afraid to ask questions**
   * If there's a metric you should judge yourself against in your first 2 months on a new team, it's how many questions you ask.
   * It is not a sign of strength to "tough it out" and figure out a complex thing on your own after several days/weeks when you can figure it out in just 30 minutes by asking someone for help. It is a sign of weakness to do this as you are afraid to confront your own weaknesses. Conversely, it is a sign of emotional strength to be vulnerable and share this with someone else, asking them for help.
   * There is no such thing as a stupid question. Don't fret too much about the optics of your question and just ask!
   * In the end, you will "feed back into" the balance as you will eventually reach a point where you are the one answering questions. By helping foster a truly open culture where anybody is comfortable asking or answering a question, you set up your entire team for success.
-* Ask effective questions
+* **Ask effective questions**
   * In general, try to unblock yourself for 15-30 minutes before asking a question, a few hours tops. You just want to avoid the nightmare scenario from before where you just bang your head against a wall for days/weeks.
   * Explain where you are now. Detail what you tried already and what outcome it produced. You should have this from the 15-30 minutes of work mentioned before. Your goal here is to cut out the wasteful feedback loops where you go to someone and they ask if you have already done some pretty obvious thing (which you should have done in that 15-30 minutes).
   * Be polite - Make it clear that you respect the answerer's time by including phrases like "Whenever you get a moment" and "If you're too busy, no worries if you can't answer". Always thank the answerer, even if they didn't give you a complete answer or any answer at all. Remember, the answerer gifted you their most valuable resource: Time.
   * Attach resources - Screenshot, stack traces, actual code: Doesn't matter what it is, just attach it to your question. A picture (or code snippet) is worth 1,000 words.
-* Work backwards from where you want to be
+* **Work backwards from where you want to be**
   * When you focus only on what you already have and are now, it's easy to get tunnel vision, lose sight of the bigger picture, and fall into a reactive state. When you're just starting a project, it's also common to just feel helpless when you're only thinking of where you are now because you simply have nothing.
   * By working backwards and envisioning every single piece that needs to fall into place, it forces you to have a holistic view of the system. From there, you can break the overall system into components and then talk to the proper POC for each component to get a high-level overview of the entire system, putting you well on your way towards becoming a lead in that space.
 
-Here's also a very tactical "playbook" to becoming familiar in a new team:
-[A Career Cold Start Algorithm" from Andrew Bosworth, a Facebook VP](https://boz.com/articles/career-cold-start)
+📢 Here's also a very tactical **playbook** to becoming familiar in a new team:
 
-[LinkedIn Event](https://www.linkedin.com/events/6769366496738185216/)
+📎 [A Career Cold Start Algorithm" from Andrew Bosworth, a Facebook VP](https://boz.com/articles/career-cold-start) 📖 
 
-## How To Ace Your Tech Interview
+🎫  [LinkedIn Event](https://www.linkedin.com/events/6769366496738185216/)
+
+
+# **March** 📆
+
+## **How To Ace Your Tech Interview**
+
 **Overall Approach**
 1. Interviews suck but they get better as you do more of them. Use companies you're less excited about as practice fodder.
 2. Try to pack together all interviews with companies you care about within the same time window, so you can get a slew of competing offers to maximize your compensation.
@@ -165,7 +205,8 @@ https://interviewing.io/ is a tool that lets you do this and has a free tier.
 
 [LinkedIn Event](https://www.linkedin.com/events/6771179650782777344/)
 
-## Choosing Your Path As A Software Engineer
+## **Choosing Your Path As A Software Engineer**
+
 **Discovering Your Passion**
 1. You’re not born with a passion - it’s something you work on and cultivate over time.
 2. Experiment early on in your career when you can handle the chaos. It’s easier to experiment at large companies since they have the infrastructure to support engineers shifting around. 
@@ -233,6 +274,8 @@ The path can be demoralizing if you’re self-taught. Believe in yourself and fi
 
 [LinkedIn Event](https://www.linkedin.com/events/6779125429795205120/)
 
+# **April** 📆
+
 ## How To Build Side Project Apps With 100k+ Users (For Free!)
 Huge thanks to the ~175 of you who showed up for the session today. In case you missed it (or if you just want something for your notes), here's the recap for the session:
 
@@ -281,10 +324,15 @@ For those of you who missed the session but wanted to attend it - Don't worry, w
 
 Have an amazing weekend everyone! 
 
-[LinkedIn Event](https://www.linkedin.com/events/6781726576129253376/)
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6781726576129253376/)
 
-## How To Ace Your Top Big Tech Company Software Interview
-Thanks to the 500+ of you who joined us earlier today for the session “How To Ace Your Top Big Tech Company Software Interview”. This is by far the largest session we had! We’ll be better about anticipating demand in the future (so no one get rejected by Zoom). Recap:
+# **May** 📆
+
+## **How To Ace Your Top Big Tech Company Software Interview**
+
+📺 **Recap:**
+
+Thanks to the **500+** of you who joined us earlier today for the session **How To Ace Your Top Big Tech Company Software Interview**. This is by far the largest session we had! We’ll be better about anticipating demand in the future (so no one get rejected by Zoom). Recap:
 
 **Getting The Interview**
 * If you’re in school and the companies come visit -> Grind the career fairs. Show up early, have an amazing resume, work on your people skills.
@@ -337,11 +385,14 @@ For entry/mid level roles, DSA is, on average, 70% of the interview.
 * Large companies have purposely streamlined the interview to make it scalable and consistent. There is a very clear correlation between your time spent and your chance of getting in.
 * Patience + practice is key!
 
-For future sessions, make sure you check out the #general channel every once in a while or follow the LinkedIn community: https://www.linkedin.com/company/techcareergrowth/.
+📣 For future sessions, make sure you check out the **#general channel** every once in a while or follow the LinkedIn community: 🎁 [Tech Career Growth](https://www.linkedin.com/company/techcareergrowth/.)
 
-[LinkedIn Event](https://www.linkedin.com/events/6787605251085217792/)
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6787605251085217792/)
 
-## How To Become A 10x Engineer
+## **How To Become A 10x Engineer**
+
+📺 **Recap:**
+
 Thanks for joining a tumultuous session yesterday about How To Become A 10x Engineer! Recap:
 
 **Outliers Are Uniquely Possible in Software**
@@ -379,24 +430,25 @@ Thanks for joining a tumultuous session yesterday about How To Become A 10x Engi
 * Advocate for a new style of thinking (could lead to adopting a framework or pattern).
 * Combats complexity by aggressively simplifying, refactoring, and fixing code. Remember that more time is spent reading code than writing code.
 
-Adding on to the above, here's an extended version of the slides we used for the "How To Become A 10x Engineer" session as well:
+🎨 📑 🎸 Adding on to the above, here's an extended version of the [slides](https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p) we used for the **How To Become A 10x Engineer** session as well.
 
-<a href="https://docs.google.com/presentation/d/1m0GlNfJ4-P720bUwPHpNhdub2ggYryChXQT2uZM6Zrg/edit#slide=id.p">
- <img  alt="slide" width="400" height="200" src="img/session-recap/recap-001.png"></a>
 
-[LinkedIn Event](https://www.linkedin.com/events/6794742587510140928/)
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6794742587510140928/)
 
-## How To Write A More Effective Tech Resume To Get More Job Opportunities
+## **How To Write A More Effective Tech Resume To Get More Job Opportunities**
+
+📺 **Recap:**
+
 Here is the session recap for today's session, "How To Write A More Effective Tech Resume To Get More Job Opportunities":
 
 **Meta Points**
 * It is crucial to remember that a recruiter will be reading a resume. Most resumes are written as if an engineer similar to the writer will be reviewing it, which is wrong. Here’s what’s important to remember with the recruiter angle:
     * They are non-technical
     * They don’t have a lot of time (7.4 seconds on average) to read your resume
-* You need to stand out!
+* **You need to stand out!**
     * This is especially true for junior engineers - Job postings, especially those from the top tech giants, will have hundreds of applicants.
     *  When looking at your completed resume, look at it and see if there’s anything on it that feels special and isn’t something that millions of others have done. While basic proficiency was impressive 20 years ago (like being able to get a clean website up and running on your own), it is meaningless now due to the explosion of infrastructure services and quality tutorials.
-* Keep it simple
+* **Keep it simple**
     * In general, you want to be conservative/plain when it comes to your resume formatting. Readability is key!
     * Be wary of sites that charge you for fancy resume templates - They are generally harder to read and will likely hurt you instead of help
 
@@ -441,16 +493,16 @@ Here is the session recap for today's session, "How To Write A More Effective Te
         * University - Generally more abstract/theoretical and schools teach very outdated tech very often. 
         * Bootcamps - More on the practical side, but too short and work is often very “tech-demo-ey” so not a real production environment
 **FAQ**
-* Should I include my work experience if it’s not in the software industry? 
+* **Should I include my work experience if it’s not in the software industry?**
     * Yes, in general you should include your “Irrelevant experience”, especially if you’re earlier in your career 
     * If you have a lot of other relevant work experience, don’t include it (eats up valuable space)
     * If you’re looking for an entry level job - include it. Any experience is better than no experience.
     * If you’re a career changer - include it. Showing your past experience is better than having long gaps/unemployment in your employment.
-* How can I talk about my impact without revealing company confidential info? 
+* **How can I talk about my impact without revealing company confidential info?**
     * New York Times test is helpful here: if you wouldn't want to see it on the home page of the NYT with your name attached, don't put it on your resume.
     * Talk about relative improvement, e.g. “onboarded customers 30% faster”
     * Obfuscate details: “increased ad revenue from $X0 million to $X00 million”
-* Should I customize my resume for each job I’m applying to? 
+* **Should I customize my resume for each job I’m applying to?**
     * At most, create a couple "archetype" resumes if the companies you apply to are meaningfully different
     * Job searching is a numbers game. You don't want to make a custom resume for every application, because that would take forever.
     * Startups will value customization/thoughtfulness more than big companies (who will barely care)
@@ -460,22 +512,24 @@ Here is the session recap for today's session, "How To Write A More Effective Te
 * If you aren’t getting the job opportunities you want due to a lack of experience or clout from top tech companies on your resume, you should join us for our sessions on side projects, starting off with the next session after this one! Side projects are a lever that anybody can use to make their “core” extremely strong; let us teach you how!
 * People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. A tech company’s purpose is to ship a software product to thousands/millions of users. You can do the exact same thing via side projects.
 
-Here are the slides we used as well:
+🎨 📑 🎸  Here are the **[slides](https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p)** we used as well.
 
-<a href="https://docs.google.com/presentation/d/1QK6G3fy0PlUzKpNxOj1PMgCL9hfHq6WDyVoMHhECg6Y/edit#slide=id.p"> <img  alt="slide" width="200" height="100" src="img/session-recap/recap-002.png"></a>
+### 🎺 **YouTube Recaps**
 
-### YouTube Recaps
-#### Why You Should Be BORING With Your Tech Resume 
-Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below. Video :arrow_right: :movie_camera:
+#### **Why You Should Be BORING With Your Tech Resume**
 
-[![ Why You Should Be BORING With Your Tech Resume ](img/session-recap/r-video-001.png)](https://www.youtube.com/watch?v=MByD2CTwfmM)
+Alex and Rahul gave a talk for our Tech Career Growth community about writing an effective resume. This is a portion of that session. For the full recap, join the Slack community linked below. 🎬 📹
 
-#### THIS Is Why Your Resume Is Bad - Telling vs Showing
-Let's improve a resume by showing the business impact. We also talk about the importance of side projects - in tech you don't need "experience" since you can create your own.
+[<img src="https://img.youtube.com/vi/MByD2CTwfmM/maxresdefault.jpg" width="60%">](https://www.youtube.com/watch?v=MByD2CTwfmM)
 
-[![ THIS Is Why Your Resume Is Bad](img/session-recap/r-video-002.png)](https://www.youtube.com/watch?v=sDbK84GEE94)
+#### **THIS Is Why Your Resume Is Bad - Telling vs Showing**
+Let's improve a resume by showing the business impact. We also talk about the importance of side projects - in tech you don't need "experience" since you can create your own. 🎬 📹
 
-[LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
+[<img src="https://img.youtube.com/vi/sDbK84GEE94/maxresdefault.jpg" width="60%">](https://www.youtube.com/watch?v=sDbK84GEE94)
+
+🎫 [LinkedIn Event](https://www.linkedin.com/events/6796262997103915008/)
+
+# **June** 📆
 
 ## How To Come Up With 100k+ Users App Ideas You Can Build For Free
 **Why Side Projects**
@@ -556,6 +610,8 @@ Check out all that Rahul Pandey and Alex Chiou have to emphasize about the impor
 [![ HHow To Identify 100k+ Users App Ideas You Can Actually Build - Good Idea vs. Bad Idea ](img/session-recap/video-july-27.png)](https://www.youtube.com/watch?v=k_jPKGKMojI)
 
 [LinkedIn Event](https://www.linkedin.com/events/6801549135905464320/)
+
+# **July** 📆
 
 ## How To Manage Your Time Optimally In Tech And Achieve More Results
 The session from this evening about time management was so much fun!
@@ -738,6 +794,8 @@ I’ll also point you to the [LI article](https://www.linkedin.com/pulse/5-thing
 
 [LinkedIn Event](https://www.linkedin.com/events/6819793254716989440/)
 
+# **August** 📆
+
 ## Answering Your Top 5 questions
 Thanks to the ~150 of you who showed up for the Q&A session today! Here's a text recap of our answers to the Top 5 questions as we figure out the YouTube recap situation:
 
@@ -869,6 +927,8 @@ Today was our session about how to write a tech resume that gets you more opport
 * People don’t realize that you can effectively create something very close to formal work experience in the comfort of your own home. That’s our next session on Oct 2: https://www.linkedin.com/events/howtobuildandgrowtechproductsto6835076235345956864/
 
 [LinkedIn Event](https://www.linkedin.com/events/6824212767390756864/)
+
+# **October** 📆
 
 ## How To Build And Grow Tech Products To 500k+ Users For Free
 Thanks to everyone who joined us today about building + growing personal projects with 500K+ users! Session recap:
@@ -1044,8 +1104,11 @@ Check all the entire playlist for this session :point_right: [YouTube PlayList](
 
 [LinkedIn Event](https://www.linkedin.com/events/6847960498936406016/)
 
+# **November** 📆
+
 ## How To Ace Your Big Tech Interview - System Design
 Starting off the session recap early this time (we're still doing the session!) - Anyways, here are the slides we used for the system design interview session:
+
 
 [![How To Ace Your Big Tech Interview - System Design ](img/session-recap/recap-november-06.png)](https://docs.google.com/presentation/d/1z4yX5LiiSxbHiNrBOTPIiDfhBL5qmwRUrDojT71OROY/edit?usp=sharing)
 
