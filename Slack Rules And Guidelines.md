@@ -1,7 +1,7 @@
 Hey, this is Alex and if you're reading this, welcome to Tech Career Growth community! I originally wanted to write this more in the 3rd person, but that felt weird so you'll see 1st person references to myself.
 
 ## Be Kind And Respectful Of Others
-One of the goals of Tech Career Growth community is to build a positive and supportive place where anybody can get the support they need, regardless of their background. Despite having 8,000+ members (as of 1/12/2022), we have been able to do this quite well and we want to keep it that way. We haven't had many problems yet, so we won't go too far into the specifics of this. For now, we have these basic rules:
+One of the goals of Tech Career Growth community is to build a positive and supportive place where anybody can get the support they need, regardless of their background. Despite having 8,000+ members (as of 1/12/2022), we have been able to do this quite well and we want to keep it that way. We haven't had many problems here yet, so we won't go too far into the specifics of this. For now, we have these basic rules:
 
 1. **Follow the Golden Rule** - Treat others the way you want to be treated, simple at that. This is the absolute bare minimum.
 2. **Lean towards being overly polite** - You don't know how others will perceive you, especially when you and the people you're talking to come from different backgrounds. The different backgrounds thing will happen often in a community as diverse as Tech Career Growth. What's straightforward and "normal" for you may be perceived as cold, heartless, and maybe even ruthless by the receiving person. Always try to see what you're saying through the shoes of others before you send it, and tentative language and interweaved positivity go a long way. Instead of saying "This has a problem", say "I think this may have a problem." If you see a good question and need to give some frank feedback, you can preface it with "This is a great question!".
@@ -24,6 +24,17 @@ Something we want to do is allow for this community to be a "training ground" fo
 This means that you should take the time to make sure your questions are high-quality before you ask them, just like you would when you're working at an actual job. The more thought and time you put into your question, the faster you will get an effective answer and the better the overall community is for everyone. Rahul and I have spent many, many years learning that effective question asking is actually a skill and mastering this skill. We want you to develop an amazing question asking skill as well, and you can learn how to do just that by watching our [video playlist here](https://www.youtube.com/watch?v=VS75nql2Csg&list=PL7NYbSE8uaBATZh90IhQgGJNulKUpRfYY&index=2).
 
 It's no fun for anyone when a question is asked and isn't answered. Everyone in this community wants to help one another as much as possible and as fast as possible. Let's make that smoother and easier by watching the above playlist and asking great questions!
+
+## Don't Spam
+This community is inherently a collaborative exercise as everything everyone does within it will be seen and get the attention of others in the community. We all need to work together to minimize noise and keep the community a high-signal resource for all. This manifests across the following rules:
+
+1. **This isn't a place for you to make money** - This community is free, and we want to keep it that way. Do not ruin this spirit.
+2. **Do not double post across large channels** - This is just noisy and creates a really bad experience for a lot of users due to overlap. It's not fun seeing 2 unread channels just to find out the unread post is the same thing twice.
+3. **Minimize self-promotion** - We have many more focused channels like #content-creation, #events-and-scholarships, and stack specific channels for you to promote something you are involved in. Use those instead of broader channels like #random, and too much self-promotion in general breaks the spirit of this community and makes you look awkward within in.
+
+Posts breaking these rules will be deleted and repeat offenders will be banned.
+
+Rahul and I also keep a close eye on who we see participating and helping others within the community and who aren't. Those who don't participate in this community and are clearly only trying to leverage it for more selfish reasons (there are unfortunately a lot of people who come, self-promote something, and are never seen again) will have these rules enforced more strictly upon them.
 
 ## We Aren't Here To Help You Debug
 I have always strongly believed: "Don't fix what ain't broke." An extension of this is that you shouldn't try to solve a problem that is already solved extremely well. When it comes to debugging problems, there is already a world-class solution that millions of people use every day: StackOverflow.
