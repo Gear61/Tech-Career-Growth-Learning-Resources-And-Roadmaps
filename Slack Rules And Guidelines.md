@@ -51,4 +51,4 @@ We originally allowed raw debugging posts in the Slack community, but we found t
 **Long story short, our community isn't built to help debug code while StackOverflow very much is. Please use StackOverflow to solve this need when you have it instead of this Slack community.**
 
 ## Thank You
-If you have read all the way here, you are amazing. I wish this document didn't have to be so long, but it turns out that there's a lot of complexity running a 8,000+ person community 😆 As a "reward" for absorbing all this content, you can now send me (@Alex) a private message on Slack and I will respond with a random parrot emoji of my choice.
+If you have read all the way here, you are amazing. I wish this document didn't have to be so long, but it turns out that there's a lot of complexity running a 8,000+ person community 😆 As a "reward" for absorbing all this content, you can send me (@Alex) a private message on Slack letting me know that you've finished my Slack essay and I will respond with a random parrot emoji of my choice. I hope you like it.
