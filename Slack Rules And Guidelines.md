@@ -25,6 +25,11 @@ This means that you should take the time to make sure your questions are high-qu
 
 It's no fun for anyone when a question is asked and isn't answered. Everyone in this community wants to help one another as much as possible and as fast as possible. Let's make that smoother and easier by watching the above playlist and asking great questions!
 
+## The Easiest Way To Get More Back Is To Give
+People notice when other people are nice and going out of their way to help others, especially in this community. If you want more, high-quality answers and support to your questions, try providing some of that yourself for the questions of others. I deeply believe that humans inherently value fairness, and there's something that intrinsically motivates us to help those who help us and those we see helping others.
+
+This system applies to Rahul and I as well - We will spend extra time and effort supporting those we have seen already supporting others out of the kindness of their heart. Of course, if you want to come to this community just to get help with 1 thing and never return, you are welcome to do so. But if you want to get the most out of this community, which we want everyone in tech to do, try helping others along the way as well. Some of the best opportunities come when you help others.
+
 ## Don't Spam
 This community is inherently a collaborative exercise as everything everyone does within it will be seen and get the attention of others in the community. We all need to work together to minimize noise and keep the community a high-signal resource for all. This manifests across the following rules:
 
@@ -46,4 +51,4 @@ We originally allowed raw debugging posts in the Slack community, but we found t
 **Long story short, our community isn't built to help debug code while StackOverflow very much is. Please use StackOverflow to solve this need when you have it instead of this Slack community.**
 
 ## Thank You
-If you have read all the way here, you are amazing. I wish this document didn't have to be so long, but it turns out that there's a lot of complexity running a 8,000+ person community 😆 As a "reward" for absorbing all this content, you can now send me a private message on Slack and I will respond with a random parrot emoji of my choice.
+If you have read all the way here, you are amazing. I wish this document didn't have to be so long, but it turns out that there's a lot of complexity running a 8,000+ person community 😆 As a "reward" for absorbing all this content, you can now send me (@Alex) a private message on Slack and I will respond with a random parrot emoji of my choice.
