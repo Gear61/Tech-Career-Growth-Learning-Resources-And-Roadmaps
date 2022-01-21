@@ -7,6 +7,9 @@ For public resources from Tech Career Growth specifically (i.e. stuff Alex and R
 
 For all the recap content from the community's famous live sessions, you can find them [here](https://github.com/Gear61/Tech-Career-Growth-Learning-Resources-And-Roadmaps/blob/main/Sessions%20Recaps%20History.md).
 
+## Better Sessions Recap :tv:
+* :calendar: [Sessions Recap 2021](Sessions%20Recaps%20History.md)
+
 ## Contents
 [🌐 Web](#-web)
 - [Resources](#resources)
@@ -228,10 +231,7 @@ None yet
 * [Why Cross Platform Frameworks Struggle](./threads/Why%20Cross%20Platform%20Frameworks%20Struggle.md)
 * [Why Imber Failed](./threads/Why%20Imber%20Failed.md)
 * [What software engineering paths are there if I don't like front end?](./threads/How%20To%20Build%20Non%20Front-End%20Projects.md)
-
-## Better Sessions Recap :tv:
-* :calendar: [Sessions Recap 2021](Sessions%20Recaps%20History.md)
-
+* [How to build a software project that looks good to employers](./threads/How%20To%20Build%20A%20Software%20Project%20That%20Looks%20Good%20To%20Employers.md)
 
 ## Posts
 ### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48" /> Alex Chiou](https://www.linkedin.com/in/alexander-chiou/)
