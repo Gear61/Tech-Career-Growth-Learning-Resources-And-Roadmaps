@@ -35,7 +35,7 @@ This community is inherently a collaborative exercise as everything everyone doe
 
 1. **This isn't a place for you to make money** - This community is free, and we want to keep it that way. Do not ruin this spirit.
 2. **Do not double post across large channels** - This is just noisy and creates a really bad experience for a lot of users due to overlap. It's not fun seeing 2 unread channels just to find out the unread post is the same thing twice.
-3. **Minimize self-promotion** - We have many more focused channels like #content-creation, #events-and-scholarships, and stack specific channels for you to promote something you are involved in. Use those instead of broader channels like #random, and too much self-promotion in general breaks the spirit of this community and makes you look awkward within in.
+3. **Minimize self-promotion** - We have many more focused channels like #content-creation, #events-and-scholarships, and stack specific channels for you to promote something you are involved in. Use those instead of broader channels like #random, and too much self-promotion in general breaks the spirit of this community and makes you look awkward within it.
 
 Posts breaking these rules will be deleted and repeat offenders will be banned.
 
