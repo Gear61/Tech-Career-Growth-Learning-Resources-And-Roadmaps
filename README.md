@@ -173,6 +173,9 @@ Company:
 * [levels.fyi](https://www.levels.fyi/) - Comprehensive data on company workplaces
 * [glassdoor](https://www.glassdoor.com/) - Insights about jobs and companies
 * [myvisajobs.com](https://www.myvisajobs.com/Reports/2021-H1B-Visa-Sponsor.aspx) - Top 100 H1B visa sponsors
+* [Complete List Of Unicorn Companies](https://www.cbinsights.com/research-unicorn-companies) - Private companies with a valuation over $1 billion
+* [AngelList Talent](https://angel.co/) - Startup jobs & startup talent
+* [crunchbase](https://www.crunchbase.com/) - Private company data
 
 Interview:
 * [Preparing for Your Software Engineering Interview](https://www.facebookcareers.com/life/preparing-for-your-software-engineering-interview-at-facebook/) - Facebook
