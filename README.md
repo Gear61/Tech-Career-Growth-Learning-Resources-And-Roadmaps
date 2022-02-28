@@ -221,6 +221,7 @@ None yet
 ## Resources
 * [Freely available programming books](https://ebookfoundation.github.io/free-programming-books/)
 * [Building an Effective Dev Portfolio](https://storage.googleapis.com/joshwcomeau/building-an-effective-dev-portfolio.pdf)
+* [How to Make a Good Pull Request](https://javascript.plainenglish.io/how-to-make-pull-requests-that-are-easy-to-review-37d52d3fed6b)
 
 ## Great Threads And Posts
 * [How do I choose my path in tech?](./threads/Choosing%20Your%20Path%20In%20Tech.md)
