@@ -7,7 +7,7 @@ The primary goal of the community is to _**build a positive place for anybody to
 
 1. _**Golden Rule**_ - Treat others as you want to be treated.
 2. _**Be Overly Polite**_ - You don't know how others will perceive you, especially coming from different backgrounds as we do in this diverse community.  Straightforward or "normal" answers might be perceived as cold. Please:
-    * Sandwich repsonses inside positive & friendly wording and proof read them.
+    * Sandwich responses inside positive & friendly wording and proof read them.
     * Tentative language goes a long way, instead of _"This has a problem..."_ try _"I think this may have a problem..."_
     * To give some frank feedback, preface it with _"This is a great question!"_
 4. _**Do as Alex and Rahul do**_ - Their goal is to set the example for the rest of the community. They always strive to respond in a respectful and thoughtful manner.
