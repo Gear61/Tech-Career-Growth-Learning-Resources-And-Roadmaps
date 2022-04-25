@@ -201,6 +201,7 @@ Negotiation:
 * [Data Structures](https://en.wikibooks.org/wiki/Data_Structures) - Fundamental tools (wikibook)
 * [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/)
 * [Must Do Coding Questions](https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/)
+* [Striver’s SDE Sheet](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/) – Top coding interview problems
 * [Tech Interview Handbook](https://techinterviewhandbook.org/) - Curated interview preparation materials
 
 ### Posts
