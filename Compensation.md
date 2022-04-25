@@ -37,7 +37,7 @@ Opendoor | Remote | - | 7.6k/month | - | - | - | INT | -
 Start-up | San Fransisco (Remote) | - | 130k | 0.23% equity | - | - | - | 130k
 
 
-[^1]: ESPP % of salary to purchase shares at % discount; RSU shares/years.
+[^1]: _**ESPP**_ % of salary to purchase shares at % discount; _**RSU**_ shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
-[^3]: YoE = Years of Experience; NG = New Grad; BC = Bootcamper; INT = Intern.
-[^4]: TC = Total Compensation = Base Salary + ESPP + Bonus; Generally 401k match is not included when calculating TC.
+[^3]: _**YoE**_ = Years of Experience; _**NG**_ = New Grad; _**BC**_ = Bootcamper; _**INT**_ = Intern.
+[^4]: _**TC**_ = Total Compensation = Base Salary + ESPP + Bonus; Generally 401k match is not included when calculating TC.
