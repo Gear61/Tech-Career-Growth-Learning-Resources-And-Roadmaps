@@ -185,6 +185,7 @@ Interview:
 * [pramp.com](https://www.pramp.com/) - Practice mock interviews & coding problems
 
 Negotiation:
+* [Public and Transparent Formula for Engineering Salaries](https://medium.com/@mattydoinblogging/a-public-and-transparent-formula-for-engineering-salaries-ethena-3786661fa1df)
 * [Employee Stock Purchase Plan (ESPP)](https://www.investopedia.com/terms/e/espp.asp)
 * [How Do Employee Stock Options Work?](https://smartasset.com/investing/how-do-stock-options-work)
 * [Restricted Stock Units (RSU): Essential Facts](https://www.schwab.com/public/eac/resources/articles/rsu_facts.html)
