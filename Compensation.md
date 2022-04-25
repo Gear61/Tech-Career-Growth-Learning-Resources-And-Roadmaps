@@ -35,6 +35,7 @@ Stripe | Seattle | - | 9.2k/month | - | housing+food | - | INT | -
 Microsoft | Redmond | - | 7.5k/month | - | housing | - | INT | -
 Opendoor | Remote | - | 7.6k/month | - | - | - | INT | -
 Start-up | San Fransisco (Remote) | - | 130k | 0.23% equity | - | - | - | 130k
+(Fortune 100) | - | 2022 | 90k | - | 3k | - | < 1 | 93k
 
 
 [^1]: _**ESPP**_ % of salary to purchase shares at % discount; _**RSU**_ shares/years.
