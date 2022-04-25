@@ -37,6 +37,8 @@ Opendoor | Remote | - | 7.6k/month | - | - | - | INT | -
 Start-up | San Fransisco (Remote) | - | 130k | 0.23% equity | - | - | - | 130k
 (Fortune 100) | - | 2022 | 90k | - | 3k | - | < 1 | 93k
 (Senior Role) | Netherlands | 2022 | 115k | 36k | - | - | > 5 | € 151k
+Avant (Fintech) | Chicago (Remote) | 2022 | $50/hr | - | - | - | INT | -
+
 
 [^1]: _**ESPP**_ % of salary to purchase shares at % discount; _**RSU**_ shares/years.
 [^2]: % of salary (half depends on your performance, half on the company's).
