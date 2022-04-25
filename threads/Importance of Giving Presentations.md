@@ -4,9 +4,13 @@ Question for the community:
 1. How important to your career is giving presentations?
 2.  If you've given presentations, what tools have you used that you feel helped?
 
+[...]  
+
 I'll go first :slightly_smiling_face:
 1. I just did a demo presentation of some API code I wrote demonstrating proof of concept (POC). I thought it was a good case of communicating my thoughts and code design and proposing how it adds value to our current main task while showcasing how it works. I think the presentation forced me to really understand (in order to explain) the code I wrote and why I wrote it. tbh, I don't know how valuable it is to my career progression as an engineer (yet!) but I viewed it as an interesting experience.  fwiw i'm fairly introverted :laughing:
 2. I used Camtasia to prerecord. It's relatively easy to edit video and I liked the zoom and highlight features as it applies to zooming in on parts of code.  Pro: prerecording enabled me to just hit play and answer questions after. Con: Camtasia's  free version has a watermark on the video and it's expensive for the pro version unless your company pays for it.  Terrastruct for system design diagrams. I've used Google Slides in the past, but for this demo, video did all the work.
+
+[...]  
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U01MENEF744-4d4b33f4dc43-48)
 **Alex**  
@@ -17,7 +21,7 @@ I'll go first :slightly_smiling_face:
 **Rahul Pandey**  
 I think presentations are super important. They’re critical to showing your depth of thinking, and how much you can bring people along with you on your project.  
 
-One thing that took me a while to calibrate is to understand how much to _remove_ during presentations. People remember very, very little — you have to make things as simple as possible to communicate your main point. Remove extraneous words and details.
+One thing that took me a while to calibrate is to understand how much to _remove_ during presentations. People remember very, very little — you have to make things as simple as possible to communicate your main point. Remove extraneous words and details.  
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U038M5GR939-b81c62040335-48)
 **Matt Van Itallie**  
@@ -29,7 +33,7 @@ and the more you practice presentations, the less stressful/ more fun/ more effe
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U0331Q9NKQE-666b8115426f-48)
 **Sean Barber**  
-Another thing to note is making sure you know who your audience is and their technical level. I've given presentations to management 3 levels higher that was not technical at all which requires a much higher level of how a system was designed. All of this compared to one I gave to my peers, which was a much lower level
+Another thing to note is making sure you know who your audience is and their technical level. I've given presentations to management 3 levels higher that was not technical at all which requires a much higher level of how a system was designed. All of this compared to one I gave to my peers, which was a much lower level  
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U038M5GR939-b81c62040335-48)
 **Matt Van Itallie**  
@@ -37,11 +41,11 @@ love that and totally agree @Sean Barber.  Reminds me of one of my all time favo
 
 Soren Kierkegaard, The Journals, 1854  
 “. . . if real success is to attend the effort to bring a man to a definite position, one must first of all take pains to find him where he is and begin there.
-This is the secret of the art of helping others. Anyone who has not mastered this is himself deluded when he proposes to help others. In order to help another effectively, I must understand what he understands. If I do not know that, my greater understanding will be of no help to him. If, however, I am disposed to plume myself on my greater understanding, it is because I am vain or proud, so that at bottom, instead of benefiting him, I want to be admired. But all true effort to help does not mean to be a sovereign but to be a servant, that to help does not mean to be ambitious but to be patient, that to help means to endure for the time being the imputation that one is in the wrong and does not understand what the other understands . . .
+This is the secret of the art of helping others. Anyone who has not mastered this is himself deluded when he proposes to help others. In order to help another effectively, I must understand what he understands. If I do not know that, my greater understanding will be of no help to him. If, however, I am disposed to plume myself on my greater understanding, it is because I am vain or proud, so that at bottom, instead of benefiting him, I want to be admired. But all true effort to help does not mean to be a sovereign but to be a servant, that to help does not mean to be ambitious but to be patient, that to help means to endure for the time being the imputation that one is in the wrong and does not understand what the other understands . . .  
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U020UEAH0UU-cfd7b797f217-48)
 **alexander wang**  
-Thank you everyone (and anyone else who follows) for your thoughtful responses! (edited) 
+Thank you everyone (and anyone else who follows) for your thoughtful responses! (edited)  
 
 ![](https://ca.slack-edge.com/T01M8HJQ1B4-U03BLV35F34-g85f62e1fc73-48)
 **David Maia**  
