@@ -183,6 +183,7 @@ Interview:
 * [interviewing.io](https://interviewing.io/) - Anonymous technical mock interviews
 * [prepfully.com](https://prepfully.com/) - Mock interviews, interview questions, guides and recorded interviews
 * [pramp.com](https://www.pramp.com/) - Practice mock interviews & coding problems
+* [How to Prepare for a Technical Interview](https://doordash.engineering/2021/04/12/technical-interview-preparation/) - DoorDash
 
 Negotiation:
 * [Public and Transparent Formula for Engineering Salaries](https://medium.com/@mattydoinblogging/a-public-and-transparent-formula-for-engineering-salaries-ethena-3786661fa1df)
