@@ -61,7 +61,7 @@ Everything:
 
 ## Posts
 
-### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U028HLVL613-86f696ffb19d-48" /> Tamal Web](https://www.linkedin.com/in/tamalweb/)
+### [<img src="https://ca.slack-edge.com/T01M8HJQ1B4-U028HLVL613-86f696ffb19d-48" /> Tamal Chowdhury](https://www.linkedin.com/in/tamalchowdhury/)
 
 Front End Engineer Roadmap:
 
