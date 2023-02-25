@@ -24,7 +24,9 @@ Let's say that we have 2 apps:
 1. A basic (but beautiful) read-only weather app with 100k users.
 2. A super complicated VR app using machine learning to recognize faces which then uploads its data to the blockchain but only has 5 users.
 
-The weather app is 100x more valuable to employers despite having 1/100 of the complexity of the VR/ML/Blockchain app.So how do you build a side project that gets a ton of users? Here are some tips to get you started:
+The weather app is 100x more valuable to employers despite having 1/100 of the complexity of the VR/ML/Blockchain app.
+
+So how do you build a side project that gets a ton of users? Here are some tips to get you started:
 
 - Don't worry at all about product complexity and tech stack. Just pick something you're comfortable with and go from there.
 - Solve for a problem that you have.
