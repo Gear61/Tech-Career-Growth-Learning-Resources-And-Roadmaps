@@ -28,6 +28,8 @@ For all the recap content from the community's famous live sessions, you can fin
 - [Resources](#resources-3)
 
 [💼 Interviewing](#-interviewing)
+- [AI Interview Coach](https://em-tools.io/interview-prep) - Voice-based AI behavioral interview practice for engineering managers and software engineers
+- [Blog for Engineering Managers](https://blog4ems.com) - Practical guidance, templates, and resources for engineering managers
 - [DSA](#dsa)
   - [Resources](#resources-4)
   - [Posts](#posts-3)
